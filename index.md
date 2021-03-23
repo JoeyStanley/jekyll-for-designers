@@ -33,18 +33,18 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of March 8, 2021, I am…
+As of March 23, 2021, I am…
 
 <!--Research-->
-📼💰 Looking into small grants I can apply for to start processing a bunch of [tapes I recently acquired.](/blog/kohler-tapes) 
+<!--📼💰 Looking into small grants I can apply for to start processing a bunch of [tapes I recently acquired.](/blog/kohler-tapes) -->
 
-📝 Working with my colleagues on revisions for a paper on back vowels in the American South.
+📝 Just about to resubmit a paper on back vowels in the American South with my colleagues at UGA.
 
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
 <!--📝 Writing a paper on English in the Rockies-->
 
-🧑‍💻 Managing three RAs to help transcribe a bunch of audio I collected as a grad student
+🧑‍💻 Managing six RAs to help transcribe a bunch of audio I collected as a grad student
 
 <!--Teaching-->
 
@@ -52,10 +52,10 @@ As of March 8, 2021, I am…
 
 <!--Reading-->
 
-<!--📖 Reading Görlach (1980) *Englishes: Studies in Varieties of English, 1984-1988* (mostly as I walk to and from my car and during my hourly loop around the building).-->
+📖 Reading Phillips (2006) *Word Frequency and Lexical Diffusion* (mostly as I walk to and from my car and during my hourly loop around the building).
 
 <!--Personal-->
 
-🌵 Successfully propagating the succulents I have in my window!
+🌵 Enjoying watching the succulents I have in my window grow!
 
-🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.
+<!--🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.-->
