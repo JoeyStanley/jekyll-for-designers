@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated March 8, 2020. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 8, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -479,11 +479,27 @@ Phonetics and Phonology (LING 3060). Fall 2017, Spring 2019.
 
 Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peggy Renwick. Spring 2017.
 
-### Advising
+<br/>
+<br/>
 
-Deven Hunsaker (MA, Linguistics), Areas of Research: Sociophonetics, dialectology, American English.
+-------------
+-------------
 
-Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: "Conditioned Front Vowel Mergers in the American South." (I served as a Graduate Thesis Reader.)
+<br/>
+
+## Advising
+
+### MA Thesis Committee Chair
+
+Deven Hunsaker (MA, Linguistics)
+
+### MA Thesis Committee Member
+
+Rebecca Brenkman (MA, Linguistics)
+
+### Other Positions
+
+Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: "Conditioned Front Vowel Mergers in the American South." (Graduate Thesis Reader)
 
 
 <br/>
