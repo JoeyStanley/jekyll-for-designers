@@ -45,7 +45,7 @@ I'll start off by normalizing the data in three different ways.
 
 1. Then, I'll normalize using the method described in the *Atlas of North American English*. I won't go into detail about how this normalization procedure works, but I've written it up as a function and made it available in my sandbox [`joeyr` package](https://joeystanley.github.io/joeyr/). To get this to work, I'll first specify which columns contain the formant measurements to normalize (`F1` and `F2`). I also need to specify which column contains unique values for each vowel token; in this case, since it's one row per token (*i.e.* this isn't trajectory data), I can just supply the row names. I'll then specify which column contains unique values per speaker.
 
-1. Finally, I'll normalize the data using the ΔF technique described in Johnson (2020). Again, I won't go into detail, but I wanted to try it out anyway because it's less common and because it takes into account F3 and F4 as well. I've also wrapped that one up into a function in my `{{joeyr}}` package, `norm_deltaF`, and I just need to specify the formant columns to be used.
+1. Finally, I'll normalize the data using the ΔF technique described in Johnson (2020). Again, I won't go into detail, but I wanted to try it out anyway because it's less common and because it takes into account F3 and F4 as well. I've also wrapped that one up into a function in my `joeyr` package, `norm_deltaF`, and I just need to specify the formant columns to be used.
 
 So I can easily incorporate all three of these normalization procedures in just three lines of a tidyverse pipeline. Pretty cool!
 
