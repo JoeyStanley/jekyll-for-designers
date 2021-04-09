@@ -14,7 +14,11 @@ title: Curriculum Vitae
 
 **Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2020
 
-<p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i><a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a></p>
+<p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i>
+<a href="https://search.proquest.com/docview/2412335574/398995AF274140D8PQ/1?accountid=4488" class="link" target="_blank" title="link to this paper online"></a>
+<a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a></p>
+
+
 
 <p style = "margin-left:3em;">Committee: <a href="https://faculty.franklin.uga.edu/chowe/">L. Chad Howe</a> (chair), <a href="http://faculty.franklin.uga.edu/mrenwick/">Margaret E. L. Renwick</a>, <a href="https://www.english.uga.edu/directory/495/detail">William A. Kretzschmar, Jr.</a></p>
 
