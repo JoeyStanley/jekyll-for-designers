@@ -605,7 +605,7 @@ Organizer of the UGA Perl Study group. 2016.
 
 Organizer of the UGA Typology reading group. 2016.
 
-Portuguese-to-English simultaneous interpretor, Missionary Training Center, Provo, Utah. 2011–2013. 
+English-to-Portuguese simultaneous interpreter, Missionary Training Center, Provo, Utah. 2011–2013. 
 
 
 
@@ -648,7 +648,10 @@ Excel,
 *Proficient (=I've used these regularly and could help with some things)*: 
 [COCA](http://corpus.byu.edu/coca/) 
 (and [related corpora](http://corpus.byu.edu)), 
+[ELAN](https://archive.mpi.nl/tla/elan),
+[FastTrack](https://github.com/santiagobarreda/FastTrack), 
 [FAVE](http://fave.ling.upenn.edu), 
+[Jamovi](https://www.jamovi.org)
 [JMP](http://www.jmp.com/en_us/home.html), 
 [Markdown](http://daringfireball.net/projects/markdown/), 
 [Shiny](http://shiny.rstudio.com), 
