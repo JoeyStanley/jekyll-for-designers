@@ -491,10 +491,6 @@ Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peg
 
 ## Advising
 
-### MA Thesis Committee Chair
-
-Deven Hunsaker (MA, Linguistics)
-
 ### MA Thesis Committee Member
 
 Rebecca Brenkman (MA, Linguistics)
