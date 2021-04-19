@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of April 9, 2021, I am…
+As of April 19, 2021, I am…
 
 <!--Research-->
 📼 Slowly cataloguing and digitizing a bunch of [tapes I recently acquired.](/blog/kohler-tapes)
@@ -42,11 +42,9 @@ As of April 9, 2021, I am…
 
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
-📝 Writing a paper on English in the Rockies
+📝 Writing a paper on English in the Rockies.
 
-📝 Making big plans about what research I'd like to get done over the summer.
-
-🧑‍💻 Managing six RAs to help transcribe a bunch of audio I collected as a grad student.
+🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.
 
 
 <!--Teaching-->
