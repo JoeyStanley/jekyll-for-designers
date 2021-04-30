@@ -571,7 +571,13 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Manuscript reviewer
 
-*Frontiers in Communication* (2021)
+*American Speech* (2021)
+
+*Frontiers in Artificial Intellligence*. Handling Editor. (2021)
+
+*Frontiers in Communication*. Reviewer. (2021)
+
+*Language and Speech* (2021)
 
 *Language Variation and Change* (2020)
 
