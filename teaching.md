@@ -5,16 +5,22 @@ title: Teaching
 
 # Teaching
 
-In Winter 2021, I will teach…
+In the 2021--2021 academic year, I'll teach…
 
-* LING 452/550: Sociolinguistics
-* LING 604: Research Design in Linguistics (with Dan Dewey)
+* ELANG 468: Varieties of English
+* ELANG 327: English Phonetics and Phonology
+* LING 240: Linguistic Tools 1
+* LING 550: Sociolinguistics
+* LING 604: Research Design in Linguistics
 
 <br/>
-In Fall 2020, I taught…
+
+In the 2020--2021 academic year, I taught…
 
 * ELANG 468: Varieties of English
 * LING 240: Linguistic Tools 1
+* LING 452/550: Sociolinguistics
+* LING 604: Research Design in Linguistics (with Dan Dewey)
 
 <br/>
 
@@ -38,23 +44,27 @@ I taught this course Fall 2017 and Spring 2019 at UGA. [Here](/downloads/190308_
 
 ### [Introduction to Sociolinguistics](https://catalog.byu.edu/humanities/linguistics/introduction-sociolinguistics)
 
-I am teaching this course in Winter 2021. This is the undergraduate-level version of the course.
+I taught this course in Winter 2021. This is the undergraduate-level version of the course. You can look through the syllabus [here](/downloads/210102-L452_syllabus.pdf), but we followed Allan Bell's *The Guidebook to Sociolinguistics* for the most part, though I threw in some linguistic discrimination topics towards the end.
 
 ### [Sociolinguistics](https://catalog.byu.edu/humanities/linguistics/sociolinguistics)
 
-I am teaching this course in Winter 2021. This is the graduate-level version of the course.  
+I taught this course in Winter 2021 and will teach it again in Winter 2022. This is the graduate-level version of the course and was similar to the undergraduate version except we took one day a week to read and discuss articles. 
 
 ### [Introduction to Varieties of English](https://catalog.byu.edu/humanities/linguistics/introduction-varieties-of-english)
 
-I've taught this course twice. In Summer 2020, it was completely online and had a focus on the British Isles to make up for the study abroad to the UK and Ireland that was cancelled due to COVID. In Fall 2020 and we covered 30 varieties of English in three broad units: North America, the British Isles, and everywhere else. [Here](/downloads/201231_ELANG468_syllabus.pdf) is a syllabus.
+I've taught this course twice. In Summer 2020, it was completely online and had a focus on the British Isles to make up for the study abroad to the UK and Ireland that was cancelled due to COVID. In Fall 2020 and we covered 30 varieties of English in three broad units: North America, the British Isles, and everywhere else. [Here](/downloads/201231_E468_syllabus.pdf) is a syllabus. I'll teach it again Fall 2021.
+
+### [English Phonetics and Phonology](https://catalog.byu.edu/humanities/linguistics/english-phonetics-and-phonology)
+
+In Winter 2022, I'll teach this course for the first time. 
 
 ### [Linguistics Tools 1](https://catalog.byu.edu/humanities/linguistics/linguistic-tools-1)
 
-The course covers how to conduct a linguistics study and covers software like Zotero, Word, Excel, Praat, AntConc, Qualtrics, and Jamovi with an introduction to statistics towards the end. [Here](/downloads/201231_LING240_syllabus.pdf) is a syllabus from when I taught it in Fall 2020.
+The course covers how to conduct a linguistics study and covers software like Zotero, Word, Excel, Praat, AntConc, Qualtrics, and Jamovi with an introduction to statistics towards the end. [Here](/downloads/201231-L240_syllabus.pdf) is a syllabus from when I taught it in Fall 2020. I'll teach it again in Fall 2021.
 
 ### [Research Design in Linguistics](https://gradstudies.byu.edu/course/research-design-linguistics)
 
-I am team-teaching this course in Winter 2021 with Dan Dewey. Students end the semester with a prospectus for their MA thesis and walk away with some introductory statistics. Dan is focusing on the prospectus part and I'm focusing on the statistics part.
+I team-taught this course in Winter 2021 with Dan Dewey. Students end the semester with a prospectus for their MA thesis and walk away with some introductory statistics. Dan is focusing on the prospectus part and I'm focusing on the statistics part. I'll teach it again in Winter 2022, flying solo this time!
 
 
 
