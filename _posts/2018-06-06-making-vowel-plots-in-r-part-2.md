@@ -145,7 +145,7 @@ And this is what we want it to end up like:
 
 So how do we do that? Unfortunately, because we have F1 *and* F2 measurements, it takes a bit more finagling than one simple function can provide, but I'll walk you through it.
 
-<span class="sidenote">Edit: tidyr has been updated since this tutorial was posted. For more elegant and powerful code that accomplishes the same thing that this section covers, but based on a newer version of tidyr, see <a href="/making-vowel-plots-in-r-part-1/reshaping-vowel-formant-data-with-tidyr)">this blog post.</a></span>
+<span class="sidenote">Edit: tidyr has been updated since this tutorial was posted. For more elegant and powerful code that accomplishes the same thing that this section covers, but based on a newer version of tidyr, see <a href="/blog/reshaping-vowel-formant-data-with-tidyr">this blog post.</a></span>
 They key to this is to use the `gather` function from the `tidyr` library. This function---it's like black magic, I swear---takes multiple columns and condenses them down into just two. This function has two required arguments:
 
 1. The first argument of `gather` is the arbitrary name of a new column that will contain the various column names you'll be condensing down. Since the *names* of columns we want to gather are `F1.50.`, `F2.50.`, etc. I'll call this new column `formant_percent` since it will have information about what formant at what percent into the vowel's duration we're on. 
