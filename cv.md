@@ -46,7 +46,7 @@ Instructional Designer, Brigham Young University. March--May, 2020.
 
 John Topham and Susan Redd Butler BYU Faculty Research Award ($2,000), awarded by the Charles Redd Center for Western Studies. "The Development of Utah English in Heber City."
 
-BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States." (Two research assistants hired as transcribers.)
+BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States." (Six research assistants hired as transcribers.)
 
 ### At the University of Georgia
 
@@ -73,7 +73,7 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Refereed Articles
 
-**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (in review). "Back vowel dynamics and distinctions in Southern American English."
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics.*
 
 **Joseph A. Stanley** (accepted). "Regional patterns in prevelar raising." *American Speech*.
 <a href="/downloads/210409-regional_prevelar.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
