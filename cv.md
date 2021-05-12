@@ -70,7 +70,6 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 **Joseph A. Stanley** and Conni Covington, co-editors (2019). [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. Linguistics Society at UGA, Athens, GA. 
 
 
-
 ### Refereed Articles
 
 **Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics.*
@@ -93,6 +92,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 <a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, **Joseph Stanley**, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. 
 <a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
 <a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+
 
 ### Book Chapters 
 
@@ -575,7 +575,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *American Speech* (2021)
 
-*Frontiers in Artificial Intellligence*. Handling Editor. (2021)
+*Frontiers in Artificial Intelligence*. Handling Editor. (2021)
 
 *Frontiers in Communication*. Reviewer. (2021)
 
