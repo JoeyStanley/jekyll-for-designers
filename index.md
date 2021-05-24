@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of May 3, 2021, I am…
+As of May 24, 2021, I am…
 
 <!--Research-->
 📼 Figuring out how to process all the [tapes I recently acquired.](/blog/kohler-tapes), now that I've finished cataloguing them (751 tapes total) and 66% have been digitized.
@@ -44,8 +44,9 @@ As of May 3, 2021, I am…
 
 📝 Prepping several conference abstracts. 
 
-🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.
+💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.
 
+<!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
 <!--Teaching-->
 
@@ -54,7 +55,7 @@ As of May 3, 2021, I am…
 
 <!--Reading-->
 
-📖 Reading Phillips (2006) *Word Frequency and Lexical Diffusion* (mostly as I walk to and from my car and during my hourly loop around the building).
+<!--📖 Reading Phillips (2006) *Word Frequency and Lexical Diffusion* (mostly as I walk to and from my car and during my hourly loop around the building).-->
 
 
 <!--Personal-->
