@@ -36,7 +36,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 As of May 24, 2021, I am…
 
 <!--Research-->
-📼 Figuring out how to process all the [tapes I recently acquired.](/blog/kohler-tapes), now that I've finished cataloguing them (751 tapes total) and 66% have been digitized.
+📼 Figuring out how to process all the [tapes I recently acquired,](/blog/kohler-tapes) now that I've finished cataloguing them (751 tapes total) and 66% have been digitized.
 
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
