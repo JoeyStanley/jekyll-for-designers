@@ -42,7 +42,7 @@ As of May 24, 2021, I am…
 
 📝 Writing a paper on English in the Rockies.
 
-📝 Prepping several conference abstracts. 
+<!--📝 Prepping several conference abstracts. -->
 
 💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.
 
@@ -61,5 +61,7 @@ As of May 24, 2021, I am…
 <!--Personal-->
 
 🌵 Enjoying watching the succulents I have in my window grow!
+
+🎹 Playing my new digital piano!
 
 <!--🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.-->
