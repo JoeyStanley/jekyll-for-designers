@@ -64,7 +64,7 @@ My estimate was 600--700 before, so it's a little more than I expected (which is
 
 ### Hours of audio: 631
 
-I know that some of that is music (some students taped over mix tapes) so the number may go down as I listen to it all. I anticipated "only" 467 hours of audio initially, this is over 33% more than what I originally thought. 
+I know that some of that is music (some students taped over mix tapes) so the number may go down as I listen to it all. I anticipated "only" 467 hours of audio at first, so this is 33% more than what I originally thought. 
 
 ▼ I tried to estimate how much I'd end up with before they were all done, and it looks like by around 200 tapes or so I had a pretty good idea. The blue line is the predicted number and the balck lines are some error. The pink line shows the true total. 
 
@@ -92,14 +92,14 @@ That's just interviewees. If you add the 667 students, that's 1473 total people.
 
 There are a fair number of common family names like Jones, Smith, Johnson, McDonald, Thompson, Anderson, Davis of course. But there are also a lot of names like Giles, Bethers, Jensen, Web, Allred, Broadhead, Casper, Duke, Probst, and Young, which I presume are local families.
 
-I will say right now that some of the students' speech has some pretty distinctive linguistic features. Unfortunately, I won't have enough data from them to do much of an analysis.
+I will say right now that some of the students' speech has some pretty distinctive linguistic features. These would be people born between about 1972 and 1987, or Gen Xers and early Millennials, <span class="sidenote">Geriatric Millennials?</span> who grew up in Heber. Unfortunately, I won't have enough data from them to do much of an analysis.
 
 
 ### Interview years: 1986–2001
 
-That's at least based on the 418 tapes where the interview date was written on the outside. Almost all were in April or May of each year. I suppose if I really wanted to I could track down some old yearbooks and find when the students were in 8th grade and get an exact year. I may find this information in the audio, but I haven't listened to all of them yet. I may also be able to deduce it from people's ages and birth years.
+That's at least based on the 418 tapes where the interview date was written on the outside. Almost all were in April or May of each year. I suppose if I really wanted to I could track down some old yearbooks and find when the students were in 8th grade and get an exact year. I may find this information in the audio, but I haven't listened to all of them yet. I may also be able to deduce it from people's ages and birth years if they mention them.
 
-▼ Notice they're a heavily skewed towards the 90s. My guess is because they received more explicit instructions to write that information later on. 
+▼ Notice there are many more in the 90s. I think it's a sampling bias though. My guess is that later on in the project, the students received more explicit instructions to write that information than the students in the 1980s did.
 
 <img width = "100%" src="/images/plots/kohler_tapes/interview_years.jpg">
 
@@ -107,33 +107,35 @@ That's at least based on the 418 tapes where the interview date was written on t
 
 Again, that's at least based on the 28 tapes I've listened to. This information was not written on the outside of the tape, so I can only get it in the audio itself. If they don't say it explicitly, I can usually get enough information about the person to look up census records and get a confirmed date. 
 
-▼ Here's the spread of confirmed birth years. They're color-coded by generation cohort in case that's meaninful to you. I estimated everyone would be born between 1900 and 1940, so this is just slightly younger than I anticipated.
+▼ Here's the spread of confirmed birth years. They're color-coded by generation cohort in case that's meaningful to you. I estimated everyone would be born between 1900 and 1940, so that was pretty close being right.
 
 <img width = "100%" src="/images/plots/kohler_tapes/birth_years.jpg">
 
-### Places of birth: Mostly Wasatch County
+### Places of birth: mostly Wasatch County
 
-Once again, that's based on the 28 tapes so far. Most people are from Wasatch County (Heber, Charleston, Daniel, Walsburg) but lots of other places in Utah represented. 
+Once again, that's based on the 28 tapes so far. Wasatch County includes Heber, Charleston, Daniel, and Walsburg. Keep in mind these interviews took place in Heber, the county seat of Wasatch County.
 
-▼ There were 14 different places in just these 28 tapes though. Only one person so far was born outside of Utah. Keep in mind these interviews took place in Heber.
+▼ Several other places in Utah are represented so far too. 14 unique cities in just 28 tapes. Only one person so far was born outside of Utah. 
 
 <img width = "50%" src="/images/plots/kohler_tapes/birth_places.jpg">
 
 ## Looking Ahead
 
-I won't rehash what I wrote in my earlier blog post, but now that I have some more solid numbers, I can have more solid plans. 
+I won't rehash what I wrote in my earlier blog post, but now that I have some more solid numbers, I can have more solid estimate for what I need to get this project done. 
 
-With 631 hours of audio, and a rough estimate of 10 hours of work for every hour of audio, that's 6,310 hours of manual labor needed to transcribe this all. Again, that's about 35% more than I anticipated in February. At $15 per hour of work, that's $94,650 in student wages. If I can get some more steller RAs like I had this semester, who worked 10 hours a week, that's 631 student-weeks. At 15 weeks a semester, that's 42 student-semesters of work. If I want this done in two years, that'll take an average of 14 RAs each semester, including summers. Anyone who has worked with transcribers knows that retention is not great, so I'll most certainly need more than 14 student helpers and they'll most certainly not last two years. 
+With 631 hours of audio and a rough estimate of 10 hours of work for every hour of audio, that's 6,310 hours of manual labor needed to transcribe this all. Again, that's about 35% more than I anticipated in February. At $15 per hour of work, that's $94,650 in student wages. 
+
+If I can get some more steller RAs like I had this semester, who worked 10 hours a week, that's 631 student-weeks. At 15 weeks a semester, that's 42 student-semesters of work. If I want this done in two years, that'll take an average of 14 RAs each semester, including summers. Anyone who has worked with transcribers knows that retention is not great, so I'll most certainly need more than 14 student helpers and they'll most certainly not last two years. 
 
 This doesn't even include my pipe dream of getting some grad student workers to form a core group of researchers. They'd help with supervising and training the transcribers, quality control, other aspects of the data processing (force-aligning, formant-extraction, file management), and analysis. 
 
-Am I already looking at external grants? Yes, yes I am. 
+Am I already looking at external grants? Yes, yes I am. And am I already looking at different types of transcription software, methods, speech-to-text programs, and other things to speed this up and/or make it less costly? Yes, yes I am.
 
 ## Immediate Plans
 
 My first task though is to get as many of the gaps in my metadata spreadsheet filled as quickly as possible. I only know the birth years and places for 28 of the 806 people. I'd like to get a much more complete picture of what this collection is like before I start prioritizing which tapes to transcribe first. Sometimes this information is near the start of the interview but sometimes it's not. Not quite sure how to get that information without just listening to all of them. 
 
-Fortunately, I got a grant from the Redd Center for Western Studies to go towards this project. It's about the right amount needed to process enough data for a preliminary linguistic analysis. So I hope to get the ball rolling on some transcriptions and metadata extraction. Stay tuned for the first results at a conference near you!
+Fortunately, I got a grant from the [Redd Center for Western Studies](https://reddcenter.byu.edu) to go towards this project. It's about the right amount needed to process enough data for a preliminary linguistic analysis. So I hope to get the ball rolling on some transcriptions and metadata extraction. Stay tuned for the first results at a conference near you!
 
 
 
