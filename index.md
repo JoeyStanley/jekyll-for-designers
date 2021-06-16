@@ -56,7 +56,7 @@ As of June 16, 2021, I am…
 
 <!--Reading-->
 
-📖 Reading Trudgill (2002) *Sociolinguistic Variation and Change* (mostly as I walk to and from my car and during my hourly loop around the building).-->
+📖 Reading Trudgill (2002) *Sociolinguistic Variation and Change* (mostly as I walk to and from my car and during my hourly loop around the building).
 
 <!--Personal-->
 
