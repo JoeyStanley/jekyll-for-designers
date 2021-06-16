@@ -33,16 +33,18 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of May 24, 2021, I am…
+As of June 16, 2021, I am…
 
 <!--Research-->
-📼 Figuring out how to process all the [tapes I recently acquired,](/blog/kohler-tapes) now that I've finished cataloguing them (751 tapes total) and 66% have been digitized.
+📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! 
+
+📝 Writing a book chapter on sociophonetics in dialectology with Dom Watt and Peggy Renwick.
 
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
-📝 Writing a paper on English in the Rockies.
+<!--📝 Writing a paper on English in the Rockies.-->
 
-<!--📝 Prepping several conference abstracts. -->
+📝 Prepping several conference abstracts.
 
 💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.
 
@@ -52,16 +54,16 @@ As of May 24, 2021, I am…
 
 👨🏻‍🏫 Planning the courses I'll teach in the fall.
 
-
 <!--Reading-->
 
-<!--📖 Reading Phillips (2006) *Word Frequency and Lexical Diffusion* (mostly as I walk to and from my car and during my hourly loop around the building).-->
-
+📖 Reading Trudgill (2002) *Sociolinguistic Variation and Change* (mostly as I walk to and from my car and during my hourly loop around the building).-->
 
 <!--Personal-->
 
-🌵 Enjoying watching the succulents I have in my window grow!
+🌵 Enjoying watching my (now too many) succulents grow in my office window.
 
 🎹 Playing my new digital piano!
+
+🎹 Having way too much fun playing organ at church!
 
 <!--🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.-->
