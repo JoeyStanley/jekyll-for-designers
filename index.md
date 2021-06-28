@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of June 16, 2021, I am…
+As of June 28, 2021, I am…
 
 <!--Research-->
 📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! 
@@ -44,9 +44,9 @@ As of June 16, 2021, I am…
 
 <!--📝 Writing a paper on English in the Rockies.-->
 
-📝 Prepping several conference abstracts.
+📝 Trying to get my LSA abstract in on time!
 
-💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.
+<!--💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
