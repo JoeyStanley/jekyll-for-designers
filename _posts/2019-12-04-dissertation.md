@@ -27,14 +27,14 @@ Me with my committee: Chad Howe, Peggy Renwick, and Bill Kretzschmar (skyping in
           padding: 0.25em 0.5em;
           margin: 0.5em 1em;
           text-align: center;" 
-    href="/downloads/200417-dissertation_submitted.pdf"
+    href="/downloads/200417-dissertation-revised.pdf"
     title="Dissertation" 
     class="nodot">Download my dissertation!</a>
 </div>
 </center>
 <br/>
 
-That's the version that was submitted to the grad school, so it's the official one. I'll probably make a few tweaks here and there to the visuals and the way references are formatted in the future, but I'll try to keep the page numbers the same. 
+The version linked above is a revision that I've made after correcting some small typos. Click [here](https://search.proquest.com/docview/2412335574/398995AF274140D8PQ/1?accountid=4488) to view the official, submitted version. 
 
 
 

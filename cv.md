@@ -16,7 +16,7 @@ title: Curriculum Vitae
 
 <p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i>
 <a href="https://search.proquest.com/docview/2412335574/398995AF274140D8PQ/1?accountid=4488" class="link" target="_blank" title="link to this paper online"></a>
-<a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a></p>
+<a href="http://joeystanley.com/downloads/200417-dissertation_revised.pdf" class="paper" target="_blank"></a></p>
 
 
 
