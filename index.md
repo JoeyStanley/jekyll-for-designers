@@ -38,13 +38,11 @@ As of June 28, 2021, I am…
 <!--Research-->
 📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! 
 
-📝 Writing a book chapter on sociophonetics in dialectology with Dom Watt and Peggy Renwick.
-
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
 <!--📝 Writing a paper on English in the Rockies.-->
 
-📝 Trying to get my LSA abstract in on time!
+📝 Working on some ADS and ASA abstracts.
 
 <!--💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.-->
 
