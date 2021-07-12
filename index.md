@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of June 28, 2021, I am…
+As of July 12, 2021, I am…
 
 <!--Research-->
 📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! 
