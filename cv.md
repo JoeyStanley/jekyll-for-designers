@@ -579,15 +579,24 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *Frontiers in Communication*. Reviewer. (2021)
 
+*Journal of English Linguistics* (2021)
+
+*Laboratory Phonology* (2021)
+
 *Language and Speech* (2021)
 
 *Language Variation and Change* (2020)
 
-[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Abstract reviewer (2019)
 
-[5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer (2018).
+### Abstract Reviewer
 
-[4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer (2017).
+96th Annual Meeting of the Linguistic Society of America (2021)
+
+[6th Linguistics Conference at UGA](http://www.linguistics.uga.edu/lcuga-6) (2019)
+
+[5th Linguistics Conference at UGA](http://www.linguistics.uga.edu/lcuga-5) (2018)
+
+[4th Linguistics Conference at UGA](http://www.linguistics.uga.edu/lcuga-4) (2017)
 
 
 
