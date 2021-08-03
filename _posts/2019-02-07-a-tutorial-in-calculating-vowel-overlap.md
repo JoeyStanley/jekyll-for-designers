@@ -14,7 +14,7 @@ When putting this together, I was surprised at how much I had to say. As it turn
 
 I'll also say that this is not the first tutorial on calculating these measurements in R. Lauren Hall-Lew has already provided some R code in [her 2010 paper](https://www.research.ed.ac.uk/portal/files/16379107/Improved_representation_of_variance_in_measures_of_vowel_merger.pdf). Dan Johnson has code for Bhattacharyya's Affinity in his [2015 NWAV presentation](https://danielezrajohnson.shinyapps.io/nwav_44/). And Chris Strelluf's [new 2018 volume](https://files.warwick.ac.uk/cstrelluf/browse#faveR) comes with the code used for his analysis as well. Hopefully this tutorial will provide some additional clarity in a way that complements what others have done.
 
-## 1. Data prep
+## Data prep
 
 As always, I'll be using `tidyverse` code to read in, process, and plot the data. Remember that this is a bit of an umbrella package that includes `dplyr`, `tidyr`, and `ggplot2`, which you might be more familiar with.
 
