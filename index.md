@@ -48,13 +48,19 @@ As of July 26, 2021, I am…
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
+
+
 <!--Teaching-->
 
 👨🏻‍🏫 Planning the courses I'll teach in the fall.
 
+
+
 <!--Reading-->
 
 📖 Reading Trudgill (2002) *Sociolinguistic Variation and Change* (mostly as I walk to and from my car and during my hourly loop around the building).
+
+
 
 <!--Personal-->
 
