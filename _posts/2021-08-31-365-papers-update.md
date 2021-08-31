@@ -45,21 +45,21 @@ First, I'll show the publication years of the things I read. Note that I do have
 
 I'm happy to see that a large proportion of what I read was recent, having come out since I started this little project. Looks like half of the papers I read came out in 2008 or later (or rather, within the last 10--14 years); a third was 2017 or later (the last 1--4 years). I honestly wish I had read even more recent stuff though because I feel a little behind the times. A quarter of what I read was before 1993. It's good to read the classics, but I think I need to be staying more up to date though. Something that certainly accounts for this older skew is that I read while walking and the things I read are typically older (Trudgill 1978, Petyt 1980, Preston 1989, etc). I'm happy I read some older things, but I wish this plot had been more skewed towards the right. 
 
-### Tags
+### Topics
 
-Next, here's a plot of the broad topic the papers fell in. I only gave each paper a single tag, and sometimes it was somehwat arbitrary to call something sociolinguistics and not dialectology, for example, but this should give you a rough idea of what things I read.
+Next, here's a plot of the broad topic the papers fell in. I only gave each paper a single tag, and sometimes the decision to call something sociolinguistics vs dialectology, for example, was somewhat arbitrary. But this should give you a rough idea of what things I read.
 
 <img width = "100%" src="/images/plots/365_papers/tags.jpg">
 
-It should come to no surprise that most of what I read was sociolinguistic in nature, followed closely by dialectology. The socio stuff is relevant to research and teaching and the dialectology stuff is mostly for research. Phonetics and statistics coming next are also exactly what I'd expect. 
+It should come to no surprise that most of what I read was sociolinguistic in nature, followed closely by dialectology. The socio stuff is relevant to research and teaching and the dialectology stuff is mostly for research. Phonetics and statistics coming next are also exactly what I'd expect. I wish I had a bit wider range of topics though so that I can be more well-rounded of a linguist.
 
 ### Publication Type
 
-Next, here's a plot on the publication type. I've divided everything into three broad categories: journal articles (which include conference proceedings), monographs, and edited volumes.
+Next, here's a basic plot on the publication type. I've divided everything into three broad categories: journal articles (which include conference proceedings), monographs, and edited volumes.
 
 <img width = "85%" src="/images/plots/365_papers/pub_type.jpg">
 
-This is where I think I fall short. I'm happy to see that journal articles were the most common, but I think I should be reading a higher proportion of newer articles than I am. In fact, monographs and edited volumes combined make up 54% of what I read. This may also be because I read as I walk to and from my car and around my building, so I do get more regular book-reading time than sit-and-read-an-article time. I'm going to make an effort to read more articles for the next batch of 365 papers. 
+This is where I think I fall short. I'm happy to see that journal articles were the most common, but I think I should be reading a higher proportion of newer articles than I am. In fact, monographs and edited volumes combined make up 54% of what I read. This may also be because I read as I walk to and from my car and around my building, so I do get more regular book-reading time than sit-and-read-an-article time.
 
 ### Publication Venue
 
