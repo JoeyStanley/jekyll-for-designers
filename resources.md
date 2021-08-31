@@ -61,7 +61,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Advanced R](https://adv-r.hadley.nz)* by Hadley Wickham with the [solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/) by Malte Grosser, Henning Bumann, Peter Hurford & Robert Krzyzanowski.
 
-* *[R Packages](http://r-pkgs.had.co.nz)* by Hadley Wickham.
+* *[R Packages](http://r-pkgs.had.co.nz)* by Hadley Wickham. Also try Shannon Pileggi's tutorial called [*Your first R package in 1 hour*](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/) to see some of these tools in action.
 
 * *[Hands-On Programming with R](https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)* by Garrett Grolemund & Hadley Wickham for writing functions and simulations. Haven't read it, but it looks good.
 
@@ -72,6 +72,10 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * *[Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)* by [Rebecca Barter](http://www.rebeccabarter.com) is the tutorial on purrr that I wish I had.
 
 * *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress, but it's another free eBook that shows R and the Tidyverse.
+
+* [Easystats](https://easystats.github.io/easystats/) "is a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models."
+
+* Oscar Baruffa's monstrous [*Big Book of R*](https://www.bigbookofr.com/index.html) is your one-stop resource for open-source R books on pretty much any topic. There are *hundreds* of books! 
 
 ### Working with Text
 
@@ -113,7 +117,9 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Maps and Data Visualisations with R](http://spatial.ly/r/)* by [James Cheshire](http://spatial.ly/about/) is a treasure trove of tutorials on doing a whole bunch of maps in R.
 
-* *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org).
+* *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org). 
+
+* Another book with the same title, [An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://www.spatial-analysis-r.org) by Antonio Paez has a [chapter 9](https://www.spatial-analysis-r.org/point-pattern-analysis-i.html) on point pattern analysis.
 
 * *[Spatial Data Science](https://keen-swartz-3146c4.netlify.com)* by [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma) and [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/).
 
@@ -121,13 +127,19 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
-* *[R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) by Nicolas Roelandt.
+* [*R for Geospatial Processing*](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) by Nicolas Roelandt.
+
+* [*GIS and Mapping in R: An Introduction to the sf package*](https://oliviergimenez.github.io/intro_spatialR/#1) by Oliver Gimemez.
+
+* I've needed to do a bivariate cloropleth before, so Timo Grossenbacher's [blog post](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/) was helpful because it illustrates what this is and how you can do it in R. 
 
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org). 
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
 
 ### Working with Census Data
+
+* Kyle Walker's online book [*Analyzing US Census Data: Methods, Maps, and Models in R*](https://walker-data.com/census-r/index.html).
 
 * *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
 
@@ -145,7 +157,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 
 
-
 <br/>
 
 ## Data Visualization
@@ -158,7 +169,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2. Version 3 is due in 2020, but you can look through what's been written so far [here](http://ggplot2-book.org).
 
-* [*A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds is a great online resource for figuring out ggplot2 works!
+* [*A ggplot2 grammar guide*](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds is a great online resource for figuring out ggplot2 works!
 
 * [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
 
@@ -178,11 +189,13 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
 * [*What to consider when choosing colors for data visualization*](https://blog.datawrapper.de/colors/) by [Lisa Charlotte Rost](https://lisacharlotterost.de) has great brief tips for color in data visualization. Be sure to see the links at the bottom for more resources!
 
-* When you do create your own palettes, be sure to run it through this [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to make sure that everyone can see them.
+* When you do create your own palettes, be sure to run it through this [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to make sure that everyone can see them. Nick Tierney's [blog post](https://www.njtierney.com/post/2020/10/15/assess-colour/) also walks you through a way to check this in R.
 
 * Stephen Few has a nice [guide](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf) for using colors and has his own palette you can use.
 
 * Masataka Okabe and Kei Ito have a guide called [Color Universal Design](https://jfly.uni-koeln.de/color/) that is pretty well-known.
+
+* Fabio Crameri, Grace E. Shephard & Philip J. Heron's article in *Nature* called [*The misuse of colour in science communication*](https://www.nature.com/articles/s41467-020-19160-7) may help you when choosing a color palette.
 
 #### Prepackaged color palettes
 
@@ -210,6 +223,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
     * [`dutchmasters`](github.com/EdwinTh/dutchmasters): Instead of coming up with your own colors, why not use ones created by Dutch painters? This is an R package by [Edwin Thoen](https://github.com/EdwinTh). 
 
+* [Colors.css: A nicer color palette for the web](http://clrs.cc) look like nice, customizable colors that work great for websites. 
+
 #### Creating your own color palettes
 
 * If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
@@ -221,6 +236,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 * Also, check out [Coolers](https://coolors.co/) for more inspiration on color palettes. 
 
 * And if you have a start and end point, this [Colorpicker app](http://tristen.ca/hcl-picker/) can get colors in between those points.
+
+* I've needed to do a bivariate cloropleth before, so Timo Grossenbacher's [blog post](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/) was helpful because it illustrates what this is and how you can do it in R. 
 
 
 
@@ -248,6 +265,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 * [Malcom Barrett's](https://github.com/malcolmbarrett/) [Designing ggplots: Making clear figures that communicate](https://designing-ggplots.netlify.com/#1) is a great walk-through, with code, on how to really make your plots look professional, with emphasis on telling a story. 
 
 * [*The Glamour of Graphics*](https://rstudio.com/resources/rstudioconf-2020/the-glamour-of-graphics/), a talk at RStudio::Conf 2020 by William Chase that discusses how to make nice-looking plots. 
+
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) by Cédric Scherer.
 
 ### Miscellany
 
@@ -279,6 +298,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
 * Here's a [BuzzFeed article](https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.rkMwm8D0J#.ffAq3aVye) by Stephanie M. Lee about a researcher who made the news because of his unbelieveable amount of *p*-hacking and using "statistics" to lie about his data.
 
+* Have you learned about tests like *t*-tests, ANOVA, chi-squared tests? Did you know they're all just reguression under the hood? Check out this explanation by Jonas Kristoffer Lindeløv called [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/#1_the_simplicity_underlying_common_tests). It's mathy and based in R.
+
 ### Linear mixed-effects models
 
 * [Bodo Winter's](http://www.bodowinter.com/index.html) [mixed-effects modeling tutorials](http://www.bodowinter.com/tutorials.html) are the best resource I've found on using these in linguistics research. It's a two-part tutorial, so be sure to look through both of them. 
@@ -290,6 +311,13 @@ I've given a workshop on colors in data visualization, which you can view [here]
 * *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
 
 * *[Reference Collection to push back against “Common Statistical Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)* is a crowdsourced compilation (managed by Andrew Althouse) of articles that may be used to argue against some common statistical myths or no-nos.
+
+* Lisa M. DeBruine & Dale J. Barr's paper ["Understanding Mixed-Effects Models Through Data Simulation"](https://journals.sagepub.com/doi/10.1177/2515245920965119), in 
+*Advances in Methods and Practices in Psychological Science* serves as a nice tutorial to mixed-effects modeling.
+
+* Stefano Coretta's brief blog post, [On Random Effects](https://stefanocoretta.github.io/post/2021-03-15-on-random-effects/) helps explain what a random effect even is. 
+
+* Not sure how to actually run a linear mixed effects model? Try this PDF of (Standard Operating Procedures For Using Mixed-Effects Models)[http://decision-lab.org/wp-content/uploads/2020/07/SOP_Mixed_Models_D2P2_v1_0_0.pdf].
 
 ### GAM(M)s
 
@@ -307,11 +335,13 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 
 * *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
 
-* *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
-
 * *[GAMs in R](https://noamross.github.io/gams-in-r-course/)* by [Noam Ross](https://www.ecohealthalliance.org/personnel/dr-noam-ross) is a free interactive course on GAMs in R.
 
 * [*Introduction to Generalized Additive Models with R and mgcv*](https://github.com/gavinsimpson/intro-gam-webinar-2020) by [Gavin Simpson](https://fromthebottomoftheheap.net). 
+
+    * If you don't like the visuals in mgcv, try Gavin Simpson's R package, [*gratia*](https://github.com/gavinsimpson/gratia) with some ggplot2 alternatives. 
+
+    * *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
 
 * Since model objects can get huge, you might want to try [Joyce Cahoon's](https://jcahoon.netlify.com/#about) [butcher](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/) package to reduce the size of those giant objects. 
 
@@ -325,6 +355,16 @@ I know there are other types of models out there but I haven't had the opportuni
 
 * [Course materials](https://github.com/hturner/gnm-half-day-course) for the generalized nonlinear models (GNM) half-day course at the useR! 2019 conference by [Heather Turner](http://www.heatherturner.net/). Here's her [full-day version](https://github.com/hturner/gnm-day-course) from Zurich R Course series. 
 
+### Bayesian Statistics
+
+I have not yet learned about Bayesian stats, but here are some resources I've come across that I may use later.
+
+* [*Bayes Rules! An Introduction to Bayesian Modeling with R*](https://www.bayesrulesbook.com) by Alicia A. Johnson, Miles Ott, Mine Dogucu. 
+
+* Richard McElreath's [*Statistical Rethinking: A Bayesian Course Using R and Stan*](https://github.com/rmcelreath/statrethinking_winter2019) is an entire course. 
+
+* Stefano Coretta, Joseph V. Casillas, and Timo Roettger's learning materials for their [*Learn Bayesian Analysis for the Speech Sciences*](https://learnb4ss.github.io/learnB4SS/) workshop.
+
 ### Statistics for Linguists
 
 * [Sky Onnossen](https://onosson.github.io) has made available the materials from his [*Workshop for Statistics for Linguists*](https://github.com/onosson/UM_Workshop) at the University of Manitoba in December 2019.
@@ -332,6 +372,12 @@ I know there are other types of models out there but I haven't had the opportuni
 * [Bodo Winter's](http://www.bodowinter.com/index.html) [mixed-effects modeling tutorials](http://www.bodowinter.com/tutorials.html) are the best resource I've found on using linear mixed-effects models in linguistics research.
 
 * *[Generalised Additive Mixed Models for Dynamic Analysis in Linguistics: A Practical Introduction](https://arxiv.org/pdf/1703.05339.pdf)* by Márton Sóskuthy is the best resource I've found on using generalized additive mixed-effects models in linguistics research.
+
+* Santiago Barreda's [Bayesian multilevel models for repeated-measures data: A conceptual and practical introduction in R](https://santiagobarreda.github.io/stats-class/index.html) is an entire course on Bayesian stats geared towards linguists.
+
+* Morgan Sonderegger's book [*Regression modeling for linguistic data*](https://osf.io/pnumg/) is a working draft of intermediate book on statistical analysis for language scientists.
+
+* Have you used Varbrul or at least read a paper that has? You'll know that there's some terminology that is unique to that method. Josef Fruehwald's [video](https://www.youtube.com/watch?v=GTRLk2qKPy8) helps translate Varbrul to more contemporary terms.
 
 ### Miscelleny
 
@@ -341,6 +387,15 @@ I know there are other types of models out there but I haven't had the opportuni
 
 * Here's an [open source course on data science](http://robust-tools.djnavarro.net/hello/#1) by [Danielle Navarro](http://djnavarro.net). 
 
+* Here's Michael Franke's [*Introduction to Data Analysis*](https://michael-franke.github.io/intro-data-analysis/index.html).
+
+* This [blog post](https://www.alexcookson.com/post/2020-11-19-applying-pca-to-fictional-character-personalities/) by Alex Cookson does a cool job at explaining PCA while also including some super cool visuals. 
+
+* This [blog post](https://joshualoftus.com/posts/2020-11-23-least-squares-as-springs/) by Joshua Loftus visualizes least squares as springs. Makes a lot of sense to me! 
+
+* If you've come up with an outlier detection algorithm, try following Sevvandi Kandanaarachchi's [*Testing an Outlier Detection Method*](https://sevvandi.netlify.app/post/2021-02-06-how-to-test-an-outlier-detection-method/) to see if it works.
+
+* [Easystats](https://easystats.github.io/easystats/) "is a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models."
 
 <br/>
 
@@ -357,6 +412,8 @@ I know there are other types of models out there but I haven't had the opportuni
 * [Michelle Cohn](https://michelledcohn.com) has written and posted a bunch of very useful [Praat scripts](https://michelledcohn.com/praat-scripts-2/) that you can download and use.
 
 * A YouTube channel called [ListenLab](https://www.youtube.com/playlist?list=PL6niCBwOhjHga4bCS83VJ2uKzQ8ZjEVeG&app=desktop) by Watt Winn that has a bunch of video tutorials on how to do stuff in Praat.
+
+* Another YouTube channel called [Intro to Speech Acoustics](https://www.youtube.com/playlist?app=desktop&list=PL6niCBwOhjHhQFfl88fQfdLgiD7QaShBo) that may be useful to students of acoustics, phonetics, etc.
 
 * And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
@@ -433,6 +490,8 @@ For whatever reason, sometimes it's nice to uses data that already exists rather
 
 * [The rtMRI IPA chart](https://sail.usc.edu/span/rtmri_ipa/pk_2015.html) has MRI videos of all the sounds on the IPA chart.
 
+* Jonathan Dowse's [IPA Charts with Audio](https://jbdowse.com/ipa/) includes basically any possible combination of co-articulatations, regardless of whether they're actually attested in human language.
+
 * [IPA Phonetics](https://itunes.apple.com/us/app/ipa-phonetics/id869642260?mt=8) is an iPhone app has what they call an "elaborated" IPA chart with lots of extra places and manners of articulation, complete with audio clips of all the sounds. You can play a game where it'll play a sound and you can guess what you heard. It's just fun to see things like a voiced uvular fricative (ɢʁ) or a dentolabial fricative [θ̼] on an IPA chart. Credits to University of Victoria linguistics and John Esling's "Phonetic Notation" (chapter 18 of the Handbook of Phonetic Sciences, 2nd ed.).
 
 * [Pink Trombone](http://dood.al/pinktrombone/) is an interesting site that has a interactive simulator of the vocal tract. You can click around and make different vowels and consonants. Pretty fun resource for teaching how speech works.
@@ -481,6 +540,10 @@ Occasionally, I'll see posts with really good and insightful tips on how to be a
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use less text. <br><br>One of the most important tips for creating engaging scientific presentations is reducing text as much as possible. The audience is not there to read but to listen to you 1/7<br><br>@AcademicTwitter <a href="https://twitter.com/hashtag/AcademicChatter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicChatter</a> <a href="https://t.co/ybR7cSRor2">pic.twitter.com/ybR7cSRor2</a></p>&mdash; Timo Roettger (@TimoRoettger) <a href="https://twitter.com/TimoRoettger/status/1234129037087453185?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to revise:<br><br>As an editor and author I have seen many revised papers return to journals. Given effort, most go well (ie step toward acceptance). Some go pear-shaped. I’ve slowly improved and have an approach known by my group as the ‘Breakspear method”. Here is its essence</p>&mdash; Michael Breakspear (@DrBreaky) <a href="https://twitter.com/DrBreaky/status/1273842646377566214?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s what you’ll need to prepare if you want to pitch yr academic book project to a publisher this year:<br><br>1. A working title for the book. Don’t worry, you can change it later.<br><br>2. A project description or overview. Summarize your main argument, how you prove it, why it matters</p>&mdash; Laura Portwood-Stacer, Jeopardy Champ (she/her) (@lportwoodstacer) <a href="https://twitter.com/lportwoodstacer/status/1345411987220516865?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A review of 2020 reviews &amp; a 🧵of jumbled thoughts:<br><br>Ad-hoc Review requests received: 109<br>Requests accepted: 37<br>Action Editor ms for J1: 35<br>Action Editor ms for J2: 86<br><br>Thoughts on the current state of review:<br>1/</p>&mdash; Koraly Pérez-Edgar 🇵🇷 (@Dr_Koraly) <a href="https://twitter.com/Dr_Koraly/status/1345835916343054337?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Miscellaneous
