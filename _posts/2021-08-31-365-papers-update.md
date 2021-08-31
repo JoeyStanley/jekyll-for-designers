@@ -9,7 +9,7 @@ At the beginning of 2018, I set the ambitious goal of reading 365 papers during 
 
 What counts as a "paper" and what counts as "reading" it? I didn't have any hard and fast rules, but these were the guidelines I laid out before starting.
 
-* *Chapters are okay*: I think that in addition to journal articles, chapters from either an edited volume, monographs, or dissertation count as one each.
+* *Chapters are okay*: I think that in addition to journal articles, chapters from either edited volumes, monographs, or dissertations count as one each.
 
 * *Notes are required*: I like to take a lot of notes while I read things, so I'll only count it if I dutifully summarize and take notes as I go along. This means that skimming an article doesn't count. If I've already read an article but for whatever reason didn't take notes, I'll only count it if I go through it again and take notes.
 
@@ -25,7 +25,7 @@ And to be clear, this doesn't represent *all* the papers I've ever read. In fact
 
 If I wanted to read 365 papers in a year, that's obviously one paper a day. What was my actual pace and did it change? The following plot answers this. From left to right are the months of the year. The colored lines go up as I finished a paper that year. In dashed gray lines, I have benchmarks for where the colored lines would be if I had maintained a constant rate. 
 
-<img width = "85%" src="/images/plots/365_papers/pace.jpg"">
+<img width = "85%" src="/images/plots/365_papers/pace.jpg">
 
 Looks like in 2018 and 2019 (when I was in the throes of writing my dissertation), my pace was usually somewhere around one paper every 4 to 8 days. So about one a week or occasionally two a week, on average. starting in 2020 and continuing into this year, my pace is quicker and I'm reading a paper at least every three days on average. 
 
@@ -41,7 +41,7 @@ So now that we've got the pace covered, let's look at the content itself.
 
 First, I'll show the publication years of the things I read. Note that I do have two colums for ND and forthcoming. Those are mostly reviews I did or other sneak-peaks at unpublished work.
 
-<img width = "85%" src="/images/plots/365_papers/pace.jpg"">
+<img width = "85%" src="/images/plots/365_papers/pace.jpg">
 
 I'm happy to see that a large proportion of what I read was recent, having come out since I started this little project. Looks like half of the papers I read came out in 2008 or later (10--14 years old); a third was 2017 or later (1--4 years old). I honestly wish I had read even more recent stuff though because I feel a little behind the times. A quarter of what I read was before 1993. It's good to read the classics, but I think I need to be staying up to date more though. Something that certainly accounts for this older skew is that I read while walking and the things I read are typically older (Trudgill 1978, Petyt 1980, Preston 1989, etc). I'm happy I read some older things, but I wish this plot had been more skewed towards the right. 
 
@@ -49,7 +49,7 @@ I'm happy to see that a large proportion of what I read was recent, having come 
 
 Next, here's a plot of the broad topic the papers fell in. I only gave each paper a single tag, and sometimes it was somehwat arbitrary to call something sociolinguistics and not dialectology, for example, but this should give you a rough idea of what things I read.
 
-<img width = "85%" src="/images/plots/365_papers/pace.jpg"">
+<img width = "85%" src="/images/plots/365_papers/pace.jpg">
 
 It should come to no surprise that most of what I read was sociolinguistic in nature, followed closely by dialectology. The socio stuff is relevant to research and teaching and the dialectology stuff is mostly for research. Phonetics and statistics coming next are also exactly what I'd expect. 
 
@@ -57,7 +57,7 @@ It should come to no surprise that most of what I read was sociolinguistic in na
 
 Next, here's a plot on the publication type. I've divided everything into three broad categories: journal articles (which include conference proceedings), monographs, and edited volumes.
 
-<img width = "85%" src="/images/plots/365_papers/pub_type.jpg"">
+<img width = "85%" src="/images/plots/365_papers/pub_type.jpg">
 
 This is where I think I fall short. I'm happy to see that journal articles were the most common, but I think I should be reading a higher proportion of newer articles than I am. In fact, monographs and edited volumes combined make up 54% of what I read. This may also be because I read as I walk to and from my car and around my building, so I do get more regular book-reading time than sit-and-read-an-article time. I'm going to make an effort to read more articles for the next batch of 365 papers. 
 
@@ -65,7 +65,7 @@ This is where I think I fall short. I'm happy to see that journal articles were 
 
 Finally, the publication venue. Just focusing on the journal articles, here's a list of the venues I read from the most. (I've filtered out venues that I only read from once or twice, for space issues).
 
-<img width = "85%" src="/images/plots/365_papers/venue.jpg"">
+<img width = "85%" src="/images/plots/365_papers/venue.jpg">
 
 Based on my research, it should come as no surprise that *American Speech* and *LVC* are the top two. I have a print subscription to *American Speech*, and I had a habit of reading through all the articles while on the bus. My guess is that the *PWPL* ones are mostly proceedings from NWAV too. *JASA*, *JEngL*, and *J. Soc.* are also not much of a surprise. 
 
