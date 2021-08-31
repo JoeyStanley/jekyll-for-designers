@@ -27,11 +27,11 @@ If I wanted to read 365 papers in a year, that's obviously one paper a day. What
 
 <img width = "85%" src="/images/plots/365_papers/pace.jpg">
 
-Looks like in 2018 and 2019 (when I was in the throes of writing my dissertation), my pace was usually somewhere around one paper every 4 to 8 days. So about one a week or occasionally two a week, on average. starting in 2020 and continuing into this year, my pace is quicker and I'm reading a paper at least every three days on average. 
+Looks like in 2018 and 2019 (when I was in the throes of dissertation-writing), my pace was usually somewhere around one paper every 4 to 8 days. So about one a week or occasionally two a week, on average. Starting in 2020 and continuing into this year, my pace is quicker and I'm reading a paper at least every three days on average. 
 
 My pace ebbed and flowed within a single year quite a bit and it's interesting to see the patterns. In August of 2018 for example, I started really hunkering down and writing my dissertation, so there's a sudden increase in pace (in the blue line). In early 2019 you can see I read in short bursts (I binge-read several 3rd Wave sociolinguistics papers). In June 2019 I took GIS and Stats courses so that uptick was from those classes. In September I was in a data visualization phase. And it looks like the time between when I submitted my dissertation and when I defended it (in December 2019), I didn't do much reading at all. 
 
-My pace went up quite a bit in 2020 as I was transitioning from dissertation work to teaching. I read some material related to my job talk and was working on submitting my chapter in *Speech in the Western States: Volume III*. The biggest jump was in March 2020. Yes, that's whe COVID hit, but I was also fortunate to be hired as a "curriculum developer" for BYU so I was prepping a course and doing a *lot* of reading. Things waned as I moved to Utah but when Fall semester hit, I kept that pretty quick pace up as I was prepping two new courses. This continued into 2021 as I prepped another two new courses. And you can see my recent uptick as I start getting ready to teach again. 
+My pace went up quite a bit in 2020 as I was transitioning from dissertation work to teaching. I read some material related to my job talk and was working on submitting my chapter in *Speech in the Western States: Volume III*. The biggest jump was in March 2020. Yes, that's when COVID hit, but I was also fortunate to be hired as an "instructional designer" for BYU so I was prepping a course and doing a *lot* of reading. Things waned as I moved to Utah but when Fall semester hit, I kept that pretty quick pace up as I was prepping two new courses. This continued into 2021 as I prepped another two new courses. And you can see my recent uptick as I start getting ready to teach again. 
 
 ## Content
 
@@ -39,9 +39,9 @@ So now that we've got the pace covered, let's look at the content itself.
 
 ### Years
 
-First, I'll show the publication years of the things I read. Note that I do have two colums for ND and forthcoming. Those are mostly reviews I did or other sneak-peaks at unpublished work.
+First, I'll show the publication years of the things I read. Note that I do have two colums for "no date" and forthcoming: those are mostly reviews I did or other sneak-peaks at unpublished work.
 
-<img width = "85%" src="/images/plots/365_papers/pace.jpg">
+<img width = "85%" src="/images/plots/365_papers/years.jpg">
 
 I'm happy to see that a large proportion of what I read was recent, having come out since I started this little project. Looks like half of the papers I read came out in 2008 or later (10--14 years old); a third was 2017 or later (1--4 years old). I honestly wish I had read even more recent stuff though because I feel a little behind the times. A quarter of what I read was before 1993. It's good to read the classics, but I think I need to be staying up to date more though. Something that certainly accounts for this older skew is that I read while walking and the things I read are typically older (Trudgill 1978, Petyt 1980, Preston 1989, etc). I'm happy I read some older things, but I wish this plot had been more skewed towards the right. 
 
@@ -49,7 +49,7 @@ I'm happy to see that a large proportion of what I read was recent, having come 
 
 Next, here's a plot of the broad topic the papers fell in. I only gave each paper a single tag, and sometimes it was somehwat arbitrary to call something sociolinguistics and not dialectology, for example, but this should give you a rough idea of what things I read.
 
-<img width = "85%" src="/images/plots/365_papers/pace.jpg">
+<img width = "85%" src="/images/plots/365_papers/tags.jpg">
 
 It should come to no surprise that most of what I read was sociolinguistic in nature, followed closely by dialectology. The socio stuff is relevant to research and teaching and the dialectology stuff is mostly for research. Phonetics and statistics coming next are also exactly what I'd expect. 
 
