@@ -549,6 +549,9 @@ Occasionally, I'll see posts with really good and insightful tips on how to be a
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A review of 2020 reviews &amp; a 🧵of jumbled thoughts:<br><br>Ad-hoc Review requests received: 109<br>Requests accepted: 37<br>Action Editor ms for J1: 35<br>Action Editor ms for J2: 86<br><br>Thoughts on the current state of review:<br>1/</p>&mdash; Koraly Pérez-Edgar 🇵🇷 (@Dr_Koraly) <a href="https://twitter.com/Dr_Koraly/status/1345835916343054337?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s some of the best advice I got when I became a manager last year! It&#39;s simple, but considering most people receive no management training whatsoever these days, it&#39;s better than nothing. Thread!</p>&mdash; ella dawson (@brosandprose) <a href="https://twitter.com/brosandprose/status/1202762015095377920?ref_src=twsrc%5Etfw">December 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is that time of the year where many aspirants will be applying for grad school and tenure track positions. I just wanted to share some advice that I wish I had known when I was going through these things. [continued below]</p>&mdash; 𝙷𝚒𝚖𝚊 𝙻𝚊𝚔𝚔𝚊𝚛𝚊𝚓𝚞 (@hima_lakkaraju) <a href="https://twitter.com/hima_lakkaraju/status/1198655469662953475?ref_src=twsrc%5Etfw">November 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Miscellaneous
 
