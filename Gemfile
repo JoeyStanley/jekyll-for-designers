@@ -37,5 +37,6 @@ gem 'jekyll-feed'
 
 # When I updated jekyll (Dec 30, 2017), I received a security warning and was told to update.
 #gem nokogiri ~> 1.8.1
-# I was again told to update (Jan 17, 2019)
-gem "nokogiri", ">= 1.8.5"
+# I was again told to update to 1.9.5 (Jan 17, 2019) 
+# And again to 1.11.4 (Aug 31, 2021)
+gem "nokogiri", ">= 1.11.4"
