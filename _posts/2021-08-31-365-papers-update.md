@@ -69,7 +69,7 @@ Finally, the publication venue. Just focusing on the journal articles, here's a 
 
 Based on my research, it should come as no surprise that *American Speech* and *LVC* are the top two. I have a print subscription to *American Speech*, and I had a habit of reading through all the articles while on the bus. My guess is that the *PWPL* ones are mostly proceedings from NWAV too. *JASA*, *JEngL*, and *J. Soc.* are also not much of a surprise. 
 
-However, this plot again highlights what I think are my shortcomings. I feel like I need to be reading more *Language in Society* and *Journal of Sociolinguistics*. I also think I need to be reading from a wider range of journals. I feel like I've latched on to my favorites to my detriment and I'm missing a lot of interesting work by not expanding my horizons. 
+However, this plot again highlights what I think are my shortcomings. I feel like I need to be reading more *Language in Society* and *Journal of Sociolinguistics*. I also think I need to be reading about languages other than English too. I feel like I've latched on to my venues to my detriment and I'm missing a lot of interesting work by not expanding my horizons. 
 
 ## Outlook
 
