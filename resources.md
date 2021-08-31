@@ -439,7 +439,7 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 
 * [DARLA](http://darla.dartmouth.edu), avilable from Dartmouth University, is the one I've used the most. It can transcribe, align, and extract formants from your (English) audio files all in one go. Previously, its forced aligner is built using Prosody-Lab but now uses the Montreal Forced Aligner (see below).
 
-* The [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) is a relatively new one that I heard about for the first time at the 2017 LSA conference. It is fundamentally different than other ones in that it uses a software called Kaldi. It's easy to set up and install and I've used it on my own data. The benefit of this over DARLA is that it's on your own computer so you don't have to wait for files to upload. And you can process files in bulk. 
+* The [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) is a relatively new one that I heard about for the first time at the 2017 LSA conference. It is fundamentally different than other ones in that it uses a software called Kaldi. It's easy to set up and install and I've used it on my own data. The benefit of this over DARLA is that it's on your own computer so you don't have to wait for files to upload. And you can process files in bulk. Be sure to check out Michael McAuliffe's [blog](https://memcauliffe.com/category/blog.html) on updates. 
 
 * [FAVE](https://github.com/JoFrhwld/FAVE) is probably the most well-known forced aligner. It's open source and you can download it on your own computer from [Joe Fruehwald's Github page](https://github.com/JoFrhwld). Or if you'd prefer, you can UPenn's their [web interface](http://fave.ling.upenn.edu) instead.
 
@@ -453,7 +453,11 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 
 ### Formant Extractors
 
-* [FAVE-Extract](https://github.com/JoFrhwld/FAVE/wiki/FAVE-extract) is the gold-standard that tons of people use.
+* Santiago Barreda's [Fast Track](https://github.com/santiagobarreda/FastTrack) is my current go-to tool for automated formant extraction. It's a Praat plug-in, but it works really well with the accompanying R package, [FastTrackR](https://github.com/santiagobarreda/FastTrack). Give them both a try!
+
+* [FAVE-Extract](https://github.com/JoFrhwld/FAVE/wiki/FAVE-extract) is the standard that tons of people use.
+
+* [PolyglotDB](https://github.com/MontrealCorpusTools/PolyglotDB) works well with large, force-aligned corpora. 
 
 * If you want to do write a script yourself, I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
