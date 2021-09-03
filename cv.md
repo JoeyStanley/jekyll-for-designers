@@ -137,6 +137,8 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
+**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9.
+
 **Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021
 
 **Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24.
