@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated August 11, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 2, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -137,7 +137,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
-**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9.
+**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
 
 **Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021
 
