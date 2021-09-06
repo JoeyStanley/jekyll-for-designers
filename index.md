@@ -33,7 +33,11 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of August 26, 2021, I am…
+As of September 6, 2021, I am…
+
+<!--Teaching-->
+
+👨🏻‍🏫 Teaching Varieties of English, Sociolinguistics, and Linguistics Tools.
 
 <!--Research-->
 <!--📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! -->
@@ -52,9 +56,7 @@ As of August 26, 2021, I am…
 
 
 
-<!--Teaching-->
 
-👨🏻‍🏫 Prepping for fall semester.
 
  
 
@@ -67,7 +69,7 @@ As of August 26, 2021, I am…
 
 🌵 Enjoying watching my (now too many) succulents grow in my office window.
 
-🎹 Playing my new digital piano!
+🎹 Learning some Debussey songs!
 
 🎹 Having way too much fun playing organ at church!
 
