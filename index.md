@@ -44,9 +44,9 @@ As of September 6, 2021, I am…
 
 <!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
-📝 Writing a paper on English in the Rockies.
+<!--📝 Writing a paper on English in the Rockies.-->
 
-<!--📝 Working on some ADS and ASA abstracts.-->
+📝 Prepping two NWAV presentations.
 
 📝 Trying to stick to my goal of writing at least a little bit each day.
 
@@ -57,12 +57,9 @@ As of September 6, 2021, I am…
 
 
 
-
- 
-
 <!--Reading-->
 
-📖 Reading Lindsey (2019) *English after RP* (mostly as I walk to and from my car and during my hourly loop around the building).
+📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car ).
 
 
 <!--Personal-->
