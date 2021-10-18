@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of October 4, 2021, I am…
+As of October 18, 2021, I am…
 
 <!--Teaching-->
 
@@ -46,11 +46,9 @@ As of October 4, 2021, I am…
 
 <!--📝 Writing a paper on English in the Rockies.-->
 
-📝 Finalizing my other NWAV presentation.
+📝 Attending NWAV49 online.
 
-📝 Working on an invited talk that I'll give in two weeks. 
-
-📝 Trying to stick to my goal of writing at least a little bit each day.
+<!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
 
 <!--💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.-->
 
@@ -61,14 +59,14 @@ As of October 4, 2021, I am…
 
 <!--Reading-->
 
-📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car ).
+📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car).
 
 
 <!--Personal-->
 
 🌵 Enjoying watching my (now too many) succulents grow in my office window.
 
-🎹 Learning some Debussey songs!
+<!--🎹 Learning some Debussey songs!-->
 
 🎹 Having way too much fun playing organ at church!
 
