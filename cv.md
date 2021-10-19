@@ -143,9 +143,11 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 **Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021.
 <a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" lass="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
+<a href="/downloads/211019-NWAV49_OoO.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24. 
 <a ref="https://www.youtube.com/watch?v=USF6fspxiGU" lass="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
+<a href="//downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). <s>Vancouver, British Columbia</s>[Online]. September, 2020.
 
