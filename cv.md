@@ -380,6 +380,9 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
+"What can vowel formant trajectories tell usabout language change?" Linguistics Colloquium Talks, University of Utah, Salt Lake City, Utah. October 28, 2021.
+<a href="/downloads/211028-UofU.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
 "Prepping for the future with a degree in linguistics." The Linguistics Club at the University of Georgia. Athens, GA (delivered remotely). November 12, 2020.
 
 Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA (delivered remotely). November 11, 2020.

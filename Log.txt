@@ -189,6 +189,7 @@ Tuesday, May 12, 2020
 * joeystanley.com/setup          -> pages/setup.md
 * joeystanley.com/tinytalks2018  -> pages/tinytalks2018.md -> /downloads/181403_tinytalks2018.pdf
 * joeystanley.com/today          -> [variable: depending on what workshop I'm doing]
+* joeystanley.com/uofu           -> pages/uofu.md -> /downloads/211028-UofU.pdf
 
 
 
