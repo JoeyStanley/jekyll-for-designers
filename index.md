@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of October 18, 2021, I am…
+As of Novmeber 1, 2021, I am…
 
 <!--Teaching-->
 
@@ -42,11 +42,11 @@ As of October 18, 2021, I am…
 <!--Research-->
 <!--📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! -->
 
-<!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
+📝 Writing a paper on order of operations in sociophonetic data analysis.
 
 <!--📝 Writing a paper on English in the Rockies.-->
 
-📝 Attending NWAV49 online.
+📝 Preparing two posters for ASA in Seattle.
 
 <!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
 
@@ -59,7 +59,7 @@ As of October 18, 2021, I am…
 
 <!--Reading-->
 
-📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car).
+<!--📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car).-->
 
 
 <!--Personal-->
