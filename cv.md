@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated September 2, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated November 23, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -225,12 +225,12 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 ### Poster Presentations
 
-*Joseph A. Stanley*, Jessica Shepherd, & Auna Nygaard. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
+**Joseph A. Stanley**, Jessica Shepherd, & Auna Nygaard. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
 
-*Joseph A. Stanley* & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
+**Joseph A. Stanley** & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
 <a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
-*Joseph A. Stanley*. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
+**Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
 <a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Katie Kuiper, Lisa Lipani, Michael Olsen, & Rachel Olsen. "The View of Southern Vowels from Large-Scale Data." Poster presentation at the American Dialect Society Annual Meeting. New Orleans, LA. January 2--5, 2020.
@@ -346,6 +346,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
+    <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the BYU Linguistics Department. Provo, UT. October 20, 2021.
+        <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.
         <a href="/downloads/200303-ling_club_talk.pdf" class="slides" target ="_blank" title="download the slides for this presentation"></a> </li>
     <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3, 2020.
