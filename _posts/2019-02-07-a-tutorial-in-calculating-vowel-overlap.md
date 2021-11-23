@@ -2,7 +2,7 @@
 layout: post
 title:  "A tutorial in measuring vowel overlap in R"
 date:   2019-02-07 15:00:00 -0400
-tags: [How-to Guides, Methods, Phonetics, R, Skills, Data Viz]
+tags: [Data Viz, How-to Guides, Methods, Phonetics, R, Skills, Vowel Overlap]
 ---
 
 
@@ -13,6 +13,8 @@ In the past, I've done tutorial on visualizing vowel data ([part 1](making-vowel
 When putting this together, I was surprised at how much I had to say. As it turns out, getting the Pillai score and the Bhattacharyya's Affinity isn't perfectly straightforward, especially if you want to do it for all your speakers individually. The techniques in this tutorial cover a wide range of R skills, ranging from relatively basic stuff to more advanced things. So, to keep this post as light as possible, I've moved all non-essential topics to [Part 2](vowel-overlap-in-r-advanced-topics). By the end of this one, you'll be able to get these measures in your own data. If you find it to be buggy, you want to learn more, or you have some additional R background, try looking at the next one too.
 
 I'll also say that this is not the first tutorial on calculating these measurements in R. Lauren Hall-Lew has already provided some R code in [her 2010 paper](https://www.research.ed.ac.uk/portal/files/16379107/Improved_representation_of_variance_in_measures_of_vowel_merger.pdf). Dan Johnson has code for Bhattacharyya's Affinity in his [2015 NWAV presentation](https://danielezrajohnson.shinyapps.io/nwav_44/). And Chris Strelluf's [new 2018 volume](https://files.warwick.ac.uk/cstrelluf/browse#faveR) comes with the code used for his analysis as well. Hopefully this tutorial will provide some additional clarity in a way that complements what others have done.
+
+***Update (November 23, 2021)** Sprinkled throughout this blog post are updates based on some recent research that Betsy Sneller and I have done. Please see the summary our [ASA2021](asa2021) poster (and the poster itself) for more information.*
 
 ## Data prep
 
@@ -144,11 +146,18 @@ summary(my_manova)
 
 Aha! Now we have all the numbers we need! If you look closely the Pillai score is right there, and for my vowels in this sample it's about 0.1. Remember that these scores range from 0 to 1, with 0 being completely overlapped and 1 meaning total separation. So a value like 0.1 indicates quite a bit of overlap. 
 
+#### 2.1.1 Tangent on *p*-values
+
 The model summary does also provide a *p*-value. The null hypothesis of the MANOVA is that the dependent variable is not a significant predictor of the data. So, the *p*-value is something like an indication of how surprised you should be to get the result you did, if that were true. Because the *p*-value is small, that suggests that adding `vowel` as a predictor to this model is a good idea and that that information is useful in predicting the F1 and F2 values of my low back vowels.
 
 Now, as a word of caution. I've played around with Pillai scores a lot and I've found that the *p*-values are significant a *lot*. I mean there have been times where the plots show what appear to me to be completely overlapped distributions, but the *p*-value says that they're significantly different. I'm not completely familiar with the inner workings of the MANOVA test, so I don't really know how sensitive it is to outliers, sample sizes, or other things. But in my opinion, it appears to be overly sensitive to minor differences that are probably not perceivable. In other words statistical significance does not necessarily mean social significance.
 
 But, we're here to look at the Pillai score, not the *p*-value. The problem is there's no Pillai score threshold for saying something is definitively merged or unmerged. By that I mean we can't just define a value like 0.05 and say if the Pillai score is less than that then we can conclude that the vowels are merged. As far as I'm aware, the Pillai scores are useful only in comparison to other Pillai scores, either from the same pair of vowels in other speakers, or perhaps from the same speaker but with other pairs of vowels.
+
+***Update (Novmeber 23, 2021):*** *Based on some recent research with Betsy Sneller (read more [here](asa2021)), I've learned more about the effect of sample sizes on Pillai scores and whether we should be reporting* p-*values. At least based on the bivariate normal distributuion that our simulations were based on, we found that larger samples will produce smaller Pillai scores. This means that, assuming two speakers have underlying merged vowels, the speaker with less data will have a higher Pillai score. This also means that if you're comparing across styles (say wordlists to conversational data), the subset with less data will have a higher Pillai score. So what will look like meaningful sociolinguistic differences (either between speakers or between styles within the same speaker) is actually just a product of how the Pillai score is calculated.* 
+
+*One way to resolve this is to actually start reporting* p-*values. Phoneticians do it but for some reason sociolinguists do not.  We're still not sure how this plays out with real vowel data rather than simulated data, but it probably is better to report them than to leave them off. This resolves the issue of coming up with ad hoc thresholds of putting too much weight into the interpretation of the Pillai score itself.*
+
 
 ### More complex MANOVA formulas
 
@@ -185,7 +194,7 @@ summary(my_manova)
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ~~~~~~
 
-<span class="sidenote">What's weird here is that the *p*-values don't really correlate with the Pillai score, so the variable that's that has the most separation is the one without statistical signifi&shy;cance. This is another problem when interpreting *p*-values in conjunction with Pillai scores.</span>
+<span class="sidenote">What's weird here is that the *p*-values don't really correlate with the Pillai score, so the variable that's that has the most separation is the one without statistical signifi&shy;cance. This is another problem when interpreting *p*-values in conjunction with Pillai scores. [Update (November 23, 2021): this is likely the result of sample size differences. See my note in section 2.1.1 and link to more recent research on this topic.]</span>
 Now the problem here is that we get a Pillai score for each one. How do we interpret this? To be honest, I've never encountered this before in my research. But, I *think* the way this is interpreted is that the Pillai score for the vowel is a measure of overlap between the two vowels after all the other variables have been controlled for. In my case, it's a little higher---0.14 instead of 0.12---when environmental effects are considered, which I guess makes sense.
 
 For the other variables, they each have their own Pillai scores. So like the `plt_manner` Pillai score would be a measure of overlap between the various manners of articulation, after the vowel class has been accounted for. To me, that seems a little high considering what the data looks like when it's colored by voicing of the following segment using the information returned from FAVE.
@@ -202,6 +211,7 @@ ggplot(low_back, aes(F2, F1, color = plt_voice, label = word)) +
 To me, 0.10 actually seems a little high still, but maybe that one token of a word-final vowel (*draw*) is throwing everything off.
 
 For simplicity, I'd say let's stick with interpreting the Pillai score for the vowel.
+<span class="sidenote">Update (November 23, 2021): Again, this is likely the result of sample size differences. See my note in section 2.1.1 and link to more recent research on this topic.</span>
 
 ### Extracting that Pillai score
 
@@ -371,6 +381,8 @@ low_back %>%
 ~~~~~~
 
 Okay, so that's kind of cool. That's the same number we saw from above. But that pools the entire dataset (both "Joey" and "Stanley") together. How do we group the data by the speaker name? Fortunately, there's another super handy function called `group_by`, also in the `dplyr` package, that will group the data by the values in some column. So, when we run `group_by(fake_speaker)` first, it'll essentially split the data up into subsets, one for each speaker, and then calculate the Pillai score for each group.
+
+<span class="sidenote">[Update (November 23, 2021): Here's some evidence for me and Betsy Sneller's recent finding that sample size matters. My Pillai score for all data is 0.119, but when I subset it into two smaller groups, the Pillai scores go up to 0.131 and 0.169. See my note in section 2.1.1 and link to more recent research on this topic.]</span>
 
 ~~~~~~r
 low_back %>%
@@ -596,7 +608,7 @@ low_back %>%
 ## 2 Stanley               0.900
 ~~~~~~
 
-Hooray! So, again, this will probably work fine for most people. But, if you find that the function is crashing, go on to the next section to see how you can make it more robust to errors. 
+Hooray! So, again, this will probably work fine for most people. But, if you find that the function is crashing, go on to the next blog post to see how you can make it more robust to errors. 
 
 In fact, the way the `bhatt` and `pillai` functions are set up now, you can actually extract both the Pillai score and the Bhattacharyya's Affinity all at once. You just put each on its own line within the `summarize` function and it'll take care of it all.
 

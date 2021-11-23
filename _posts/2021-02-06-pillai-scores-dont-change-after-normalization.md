@@ -2,12 +2,17 @@
 layout: post
 title: "Pillai scores don't change after normalization"
 date: 2021-02-06 15:30 -0600
-tags: [How-to Guides, Methods, Phonetics, R, Skills]
+tags: [How-to Guides, Methods, Phonetics, R, Skills, Vowel Overlap]
 ---
 
 I was playing around with some data the other day and I discovered that if you calculate the pillai score on raw data you get the same result as if you calculated it on normalized data. This might be common knowledge among sociophoneticians who work with this kind of data, and now that I think about how normalization works, it makes sense. But it's new to me so I thought I'd write about it and illustrate it.
 
+***Update (October 19, 2021)** Please see my [NWAV49](nwav49) presentation on order of operations in sociophonetic analysis. While this blog post shows that normalization doesn't affect the overall outcome, the order that you apply other sociophonetic data processing steps can have a substantial effect on your results!*
+
+***Update (November 23, 2021)** Betsy Sneller and I have done some recent research on Pillai scores. Please see the summary our [ASA2021](asa2021) poster (and the poster itself) for more information.*
+
 Incidentally, this post is also somewhat of a tutorial on how to do a few different vowel normalization procedures and how to calculate pillai scores. I hope to do a separate tutorial on normalization, but I do have a detailed tutorial on calculating vowel overlap already, which you can view [here](a-tutorial-in-calculating-vowel-overlap).
+
 
 
 ```r

@@ -2,12 +2,14 @@
 layout: post
 title:  "Vowel overlap in R: More advanced topics"
 date:   2019-02-07 15:01:00 -0400
-tags: [How-to Guides, Methods, Phonetics, R, Skills, Data Viz]
+tags: [How-to Guides, Methods, Phonetics, R, Skills, Data Viz, Vowel Overlap]
 ---
 
 This is a continuation of my [previous tutorial](a-tutorial-in-calculating-vowel-overlap) on how to calculate Pillai scores and Bhattacharyya's Affinity in R for the purposes of measuring vowel overlap. It occurred to me as I was putting the previous one together though that I had a *lot* of things to say and the tutorial got really long and complicated. So I moved all the more advanced topics to this one to keep the main one a little lighter and more approachable. 
 
 In this post, I'll cover some topics like what to do if you have multiple vowel pairs you want to measure in each speaker, errors you may encounter with the `select` function when you're calculating Bhattacharyya's Affinity, ways at making the functions less error-prone, and some visualizations you can do with your data after you've collected it.
+
+***Update (November 23, 2021):** Betsy Sneller and I have done some recent research on Pillai scores. Please see the summary of our [ASA2021](asa2021) poster (and the poster itself) for more information.*
 
 ## Data prep
 
