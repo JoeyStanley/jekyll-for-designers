@@ -227,9 +227,11 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 *Joseph A. Stanley*, Jessica Shepherd, & Auna Nygaard. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
 
-*Joseph A. Stanley* & Betsy Sneller. "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
+*Joseph A. Stanley* & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
+<a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 *Joseph A. Stanley*. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
+<a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Katie Kuiper, Lisa Lipani, Michael Olsen, & Rachel Olsen. "The View of Southern Vowels from Large-Scale Data." American Dialect Society Annual Meeting. New Orleans, LA. January 2--5, 2020.
 <a href="/downloads/200103-ads2020.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
