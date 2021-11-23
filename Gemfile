@@ -40,3 +40,7 @@ gem 'jekyll-feed'
 # I was again told to update to 1.9.5 (Jan 17, 2019) 
 # And again to 1.11.4 (Aug 31, 2021)
 gem "nokogiri", ">= 1.11.4"
+
+# November 23, 2021. It said that "sass" should no longer be used.
+# It directed me to https://github.com/sass/sassc-ruby#readme where it said to add this to the gemfile.
+gem 'sassc'

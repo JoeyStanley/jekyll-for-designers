@@ -55,6 +55,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  # Added based on https://github.com/jekyll/jekyll/issues/2938 (Nov 23, 21)
+  - vendor
 tags:
   - jekyll
   - code
