@@ -152,6 +152,11 @@ Monday, November 25, 2019
 Tuesday, May 12, 2020
 1:17pm - Working on some changes to reflect the fact I've graduated. Updated and cleaned up my CV. Changed my about me page so that the research activities are all in the past tense (I'll have to update it once I get some research going in Utah). I'm working on something that's been nagging at me for a while, which is my research page. Now that I have enough CV items on each of the research topics, I'll start fleshing those out more, with links to specific talks and papers. 
 
+Tuesday, November 23, 2021
+5:01am - I haven't been able to get this to run locally for a while. Perhaps as long as I've been on this computer at BYU. I decided to look into it more, and with some googling around, updating gems, modifying gemlock files, etc., I finally got it going. Great news!
+
+I also updated by Research page while I was here.
+
 
 # todo
 * Remove pptx files and replace them with PDFs
