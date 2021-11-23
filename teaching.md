@@ -48,11 +48,11 @@ I taught this course in Winter 2021. This is the undergraduate-level version of 
 
 ### [Sociolinguistics](https://catalog.byu.edu/humanities/linguistics/sociolinguistics)
 
-I taught this course in Winter 2021 and will teach it again in Winter 2022. This is the graduate-level version of the course and was similar to the undergraduate version except we took one day a week to read and discuss articles. 
+I taught this course in Winter 2021 and will teach it again in Fall 2021. This is the graduate-level version of the Introduction to Sociolinguistics course above (so it's still introductory course) and is similar to the undergraduate version except we take one day a week to read and discuss articles. 
 
 ### [Introduction to Varieties of English](https://catalog.byu.edu/humanities/linguistics/introduction-varieties-of-english)
 
-I've taught this course twice. In Summer 2020, it was completely online and had a focus on the British Isles to make up for the study abroad to the UK and Ireland that was cancelled due to COVID. In Fall 2020 and we covered 30 varieties of English in three broad units: North America, the British Isles, and everywhere else. [Here](/downloads/201231_E468_syllabus.pdf) is a syllabus. I'll teach it again Fall 2021.
+I've taught this course three times. In Summer 2020, it was completely online and had a focus on the British Isles to make up for the study abroad to the UK and Ireland that was cancelled due to COVID. In Fall 2020 and Fall 2021 we covered 30 varieties of English in three broad units: North America, the British Isles, and everywhere else. [Here](/downloads/201231_E468_syllabus.pdf) is a syllabus.
 
 ### [English Phonetics and Phonology](https://catalog.byu.edu/humanities/linguistics/english-phonetics-and-phonology)
 

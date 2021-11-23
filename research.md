@@ -20,6 +20,9 @@ In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www
 
 <h3>CV Highlights</h3>
 
+**Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
+<a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+
 **Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
 <a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
 
@@ -29,9 +32,6 @@ In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www
 **Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
 
-**Joseph A. Stanley**. (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” Paper presented at the American Dialect Society Annual Meeting. Austin, TX.
-<a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/170105-ADS-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <br/>
 
@@ -45,6 +45,8 @@ In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www
 Another area I focus on in the West is Utah. I worked on a <a href="/downloads/160714-LabPhon15-poster.pdf">poster</a> involving vowel mergers over time in a single speaker. Most recently, I've been working with Kyle Vanderniet on consonantal variation in Utah English, as in the words <i>mountain</i> and <i>false</i> or in word-final <i>-ing</i>. I was also able to conduct additional fieldwork in Utah County but I'd really like to do some more. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.
 
 <h3>CV Highlights</h3>
+
+**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
@@ -70,7 +72,11 @@ Having firmly established myself as a researcher of Western American English, I 
 
 ### CV Highlights
 
-**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
+**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24. 
+<a ref="https://www.youtube.com/watch?v=USF6fspxiGU" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
+<a href="/downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+<!--**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.*-->
 
 Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
 <a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
@@ -78,8 +84,8 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.
 <a href="/downloads/200105-lsa2020.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-**Joseph A. Stanley**. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
-<a href="/downloads/191004-LCUGA6.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+<!--**Joseph A. Stanley**. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
+<a href="/downloads/191004-LCUGA6.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>-->
 
 Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. (2017). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics* **30**, 060001; doi: http://dx.doi.org/10.1121/2.0000559.
 <a href="http://asa.scitation.org/doi/abs/10.1121/2.0000559" class="link" target="_blank" title="link to POMA online"></a>
@@ -91,6 +97,27 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 <br/>
 
 
+## Methods in Sociophonietic Data Analysis
+
+I'm increasingly becoming preoccupied with how sociophoneticians process their data. I've noticed I mostly point out problems without offering many solutions though. 
+
+**Joseph A. Stanley** & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
+<a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+
+**Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021.
+<a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
+<a href="/downloads/211019-NWAV49_OoO.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+
+
+
+
+<br/>
+
+---------------------------------------------------------
+
+<br/>
+
 
 
 ## Vowel Formant Trajectories
@@ -100,7 +127,10 @@ Traditional sociophonetic research analyzes vowels using a pair of measurements,
 
 ### CV Highlights
 
-**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.
+**Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
+<a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+
+<!--**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.-->
 
 **Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
 <a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
