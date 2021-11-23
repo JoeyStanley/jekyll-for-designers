@@ -5,13 +5,13 @@ layout: aside
 About me
 ========
 
-I’m an Assistant Professor in [Department of Linguistics](https://linguistics.byu.edu) at [Brigham Young University](https://www.byu.edu), doing a lot of sociophonetics and dialectology while finding new statistical and computational methods to help me in my research. In May 2020, I received my Ph.D in linguistics from the [Department of Linguistics](https://linguistics.uga.edu) at the [University of Georgia](https://www.uga.edu). 
+I’m an Assistant Professor in [Department of Linguistics](https://linguistics.byu.edu) at [Brigham Young University](https://www.byu.edu) specializing in sociophonetics,  dialectology, and quantitative methods. In May 2020, I received my Ph.D in linguistics from the [Department of Linguistics](https://linguistics.uga.edu) at the [University of Georgia](https://www.uga.edu). 
 
-My primary area of research is on English in the western United States. My [dissertation](/blog/dissertation) focused on English in Cowlitz County, Washington and the spread of the vowel patterns known to occur in other parts of the West. Because I mostly focus on vowels, I've had to learn the skills required to analyze them: Praat scripting, data visualization, and statistical methods. I also lean towards the variationist sociolinguistic perspective in data collection and analysis. 
+My primary area of research is on English in the western United States. My [dissertation](/blog/dissertation) focused on English in Cowlitz County, Washington with an emphasis on uncovering variation in vowel formant trajectories. I am currently involved in several research projects on Utah English (on vowels, consonants, and intonation), including a long-term project analyzing a [collection of 750 interviews](/blog/kohler-tapes) with residents of Heber City, Utah born in the early 20th Century.
 
-As a graduate student, I was involved with [Bill Kretzschmar](https://www.english.uga.edu/directory/495/detail) and [Peggy Renwick](https://faculty.franklin.uga.edu/mrenwick/about) and the other student workers at the [Linguistic Atlas Project](http://www.lap.uga.edu/) where my job was to act as the middleman between transcriptions and formant measurements. I wrote and maintained many of the Praat, R, and Perl scripts we used in the lab, and managed the various forced aligners and automatic formant extractors we worked with. I also created and manage the the [*Gazetteer of Southern Vowels*](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
+As a graduate student, I was involved with [Bill Kretzschmar](https://www.english.uga.edu/directory/495/detail) and [Peggy Renwick](https://faculty.franklin.uga.edu/mrenwick/about) and the other student workers at the [Linguistic Atlas Project](http://www.lap.uga.edu/). My job was to write and maintain many of the Praat, R, and Perl scripts we used in the lab; one product of this work is the  [*Gazetteer of Southern Vowels*](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/). Together with Peggy Renwick and other collaborators, I am still actively involved in analyzing legacy southern speech, paraticularly in the state of Georgia.
 
-I was also a research assistant in the [DigiLab](https://digi.uga.edu) in UGA's main library where I gave workshops and seminars on how to use computers in humanities research. I offered workshops on [R](pages/r-workshops), [data visualization](pages/dataviz), [Praat scripting](pages/praat-workshops), and about how grad students can get themselves more googleable. I also worked with students and faculty one-on-one during my Digital Humanities office hours.
+My reserach has recently been focused on sociophonetic data analysis methods. Some of this stems from my time as a research assistant in the [DigiLab](https://digi.uga.edu) in UGA's main library where I gave workshops on [R](pages/r-workshops), [Praat scripting](pages/praat-workshops), and [data visualization](pages/dataviz). Nowadays, I run simulations on real and artificual sociophonetic data, uncovering some overlooked aspects of methods that may in fact be rather important. (See my presentations in [Order of Operations](/blog/nwav49) and [Pillai Scores](/blog/asa2021).)
 
 <!--In the past I have done research on language change in real time, morphology in Quechua and Guarani, forms of address among members of the Church of Jesus Christ of Latter-day Saints, language documentation, and agent-based simulations of language change. Before switching to linguistics, I was a music performance major (on trombone believe it or not!) and you might still catch me playing some Shostakovich or Rachmaninoff on piano.  -->
 
@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of Novmeber 18, 2021, I am…
+As of Novmeber 23, 2021, I am…
 
 <!--Teaching-->
 
@@ -46,7 +46,7 @@ As of Novmeber 18, 2021, I am…
 
 <!--📝 Writing a paper on English in the Rockies.-->
 
-📝 Preparing two posters for ASA in Seattle.
+📝 Readay to head to ASA in Seattle right after Thanksgiving.
 
 <!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
 
@@ -55,19 +55,16 @@ As of Novmeber 18, 2021, I am…
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
 
-
-
 <!--Reading-->
 
 <!--📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car).-->
 
-
 <!--Personal-->
 
-🌵 Enjoying watching my (now too many) succulents grow in my office window.
+🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.
 
 <!--🎹 Learning some Debussey songs!-->
 
-🎹 Having way too much fun playing organ at church!
+🎹 Planning which organ pieces to play in church this Christmas season and wondering if a particular arrangement of "Joy to the World" is too big for woriship services...
 
 <!--🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.-->
