@@ -1,7 +1,7 @@
 ---
 layout: aside
 title: Today's Workshop
-redirect_to: "https://github.com/JoeyStanley/LaTeX_workshops/blob/master/intro.pdf"
+redirect_to: "/downloads/211028-UW.pdf"
 ---
 
-If you are not redirected to today's workshop, click [here](https://github.com/JoeyStanley/LaTeX_workshops/blob/master/intro.pdf) instead.
+If you are not redirected to today's presentation, click [here](/downloads/211130-UW.pdf) instead.

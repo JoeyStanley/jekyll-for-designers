@@ -145,7 +145,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 <a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 <a href="/downloads/211019-NWAV49_OoO.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24. 
+**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24, 2021. 
 <a ref="https://www.youtube.com/watch?v=USF6fspxiGU" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 <a href="/downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -384,7 +384,10 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-"What can vowel formant trajectories tell usabout language change?" Linguistics Colloquium Talks, University of Utah, Salt Lake City, Utah. October 28, 2021.
+"What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Utah, Salt Lake City, Utah. October 28, 2021.
+<a href="/downloads/211130-UW.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+"What can vowel formant trajectories tell us about language change?" Linguistics Colloquium Talks, University of Utah, Salt Lake City, Utah. October 28, 2021.
 <a href="/downloads/211028-UofU.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "Prepping for the future with a degree in linguistics." The Linguistics Club at the University of Georgia. Athens, GA (delivered remotely). November 12, 2020.
