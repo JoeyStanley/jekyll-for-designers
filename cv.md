@@ -384,7 +384,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-"What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Utah, Salt Lake City, Utah. October 28, 2021.
+"What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Washington, Seattle, Washington. November 30, 2021.
 <a href="/downloads/211130-UW.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "What can vowel formant trajectories tell us about language change?" Linguistics Colloquium Talks, University of Utah, Salt Lake City, Utah. October 28, 2021.
