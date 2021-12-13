@@ -33,16 +33,13 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of Novmeber 29, 2021, I am…
+As of December 13, 2021, I am…
 
 <!--Teaching-->
 
-<!--👨🏻‍🏫 Teaching Varieties of English, Sociolinguistics, and Linguistics Tools.-->
+👨🏻‍🏫 Entering finals week for Fall 2021.
 
 <!--Research-->
-📝 Attending the 181st meeting of the Acoustical Society of America in Seattle! 
-
-<!--📼 Celebrating the fact that the [tapes I recently acquired,](/blog/kohler-tapes) have all been digitized! -->
 
 📝 Writing a paper on order of operations in sociophonetic data analysis.
 
@@ -63,15 +60,9 @@ As of Novmeber 29, 2021, I am…
 
 <!--📖 Reading Asadoorian & Kantarelis (2009) *Essentials of Inferential Statistics* (mostly as I walk to and from my car).-->
 
-📖 Reading Laver (1980) *The Phonetic Description of Voice Quality*.
+<!--📖 Reading Laver (1980) *The Phonetic Description of Voice Quality*.-->
 
 
 <!--Personal-->
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
-
-<!--🎹 Learning some Debussey songs!-->
-
-<!--🎹 Planning which organ pieces to play in church this Christmas season and wondering if a particular arrangement of "Joy to the World" is too big for woriship services...-->
-
-<!--🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.-->
