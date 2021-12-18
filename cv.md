@@ -414,7 +414,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia.
 
 ### Miscellaneous Presentations
 
-"What can vowel formant trajectories tell usabout language change?" Linguistics Discussion Group. Provo, UT. October 12, 2021.
+"What can vowel formant trajectories tell us about language change?" Linguistics Discussion Group. Provo, UT. October 12, 2021.
 
 "Order of Operations in Sociophonetic Data Analysis." Linguistics Discussion Group. Provo, UT. January 26, 2021.
 
@@ -499,13 +499,17 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### At Brigham Young University
 
-Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020.
+Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020, Fall 2021.
 
-Linguistic Tools 1 (LING 240). Fall 2020.
+English Phonetics & Phonology (ELANG 327). Winter 2022.
 
-Sociolinguistics (LING 452/550). Winter 2021 (×2).
+Linguistic Tools 1 (LING 240). Fall 2020, Fall 2021.
 
-Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey).
+Intro to Sociolinguistics (LING 452). Winter 2021 (×2).
+
+Sociolinguistics (LING 550). Winter 2021, Fall 2021.
+
+Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey), Winter 2022.
 
 Linguistic Computing and Programming 1 (LINGC 220). Teaching Assistant for Jason Dzubak. Winter 2013.
 
@@ -530,6 +534,10 @@ Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peg
 ### MA Thesis Committee Member
 
 Rebecca Brenkman (MA, Linguistics)
+
+Heather Johnson (MA, Linguistics)
+
+Michelle Lung (MA, TESOL)
 
 ### Other Positions
 
@@ -634,7 +642,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Conference Committees
 
-[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee, webmaster,organizer of the Undergraduate Poster Session, typesetter, and miscellaneous other duties. 2019.
+[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee, webmaster, organizer of the Undergraduate Poster Session, typesetter, and miscellaneous other duties. 2019.
 
 [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Social media. 2018.
 
