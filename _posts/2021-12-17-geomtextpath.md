@@ -24,7 +24,7 @@ library(geomtextpath)
 
 ## Data prep
 
-I'll use some trajectory data I have in my `joeysvowels` package. I'll mostly work with data from the `coronals` object. This contains a bunch of formant trajectory data from me reading all my vowels flanked by a bunch of combinations of coronal consonants (they were mostly nonce words like /sneɪz/, /nɔdz/, and /dʊz/). 
+I'll use some trajectory data I have in my [`joeysvowels`](https://joeystanley.github.io/joeysvowels/) package. I'll mostly work with data from the `coronals` object. This contains a bunch of formant trajectory data from me reading all my vowels flanked by a bunch of combinations of coronal consonants (they were mostly nonce words like /sneɪz/, /nɔdz/, and /dʊz/). 
 
 ```r
 coronals
@@ -233,7 +233,7 @@ avg_trajs %>%
   geom_textpath(aes(group = traj_id, label = vowel), vjust = -0.1, hjust = 0.3) + 
   scale_y_log10() + 
   facet_wrap(~formant, nrow = 1, scales = "free") + 
-  theme_bw() + 
+  theme_joey() + 
   theme(legend.position = "none")
 ```
 <img width = "85%" src="/images/plots/geomtextpath/spectrogram.png">
