@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curved Text in ggplot2 with geomtextpath
-date: 2021-12-17 02:00:00 -0400
+date: 2021-12-17 22:00:00 -0400
 tags: [Data Viz, How-to Guides, Side Projects, Skills]
 excerpt: I recently saw a tweet by @timelyportfolio that mentions an R package, geomtextpath, by Allan Cameron. The function overlays text over curved lines, giving you the possibility to add nice labels to the data. Since I plot vowel trajectories a lot and have to label them, I thought I'd try it on some vowel data to see how well it works. 
 ---
