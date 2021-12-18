@@ -2,7 +2,7 @@
 layout: post
 title: "Kohler Tapes"
 date: 2021-02-13 15:16 -0600
-tags: []
+tags: [Research, Utah]
 ---
 
 So, I just acquired a goldmine of data that I can use for linguistic analysis. Sitting in my office are 452 cassette tapes, each containing at least 30 minutes of recorded interviews with an older folks from Heber City, Utah. And that's about half of the collection: the other half is with a historian in Midway, Utah. So, I'm looking at roughly 400--500 hours of audio. Not sure how I'm going to process it all, but I wanted to kick off the beginning of this long-term project with a blog post describing the history of the tapes, why I'm interested in them, and speculations about the future.

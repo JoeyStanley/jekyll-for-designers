@@ -2,7 +2,7 @@
 layout: post
 title: "#365 Papers (Update)"
 date: 2021-08-31 09:03 -0600
-tags: []
+tags: [Personal]
 ---
 
 At the beginning of 2018, I set the ambitious goal of reading 365 papers during that year. I [tweeted](https://twitter.com/joey_stan/status/971972160322387968?s=20) about it and [blogged](/blog/365_papers) about it, but ultimately didn't achieve my goal. Turns out 365 is a lot. Well, after 1338 days, I can finally say I've ready 365 papers! So here's just some visuals to see what kinds of things I've been reading.

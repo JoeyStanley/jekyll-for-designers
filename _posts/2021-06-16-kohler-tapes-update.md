@@ -2,7 +2,7 @@
 layout: post
 title: "Kohler Tapes (Update)"
 date: 2021-06-16 11:24 -0600
-tags: []
+tags: [Research, Utah]
 ---
 
 In [February](/blog/kohler-tapes), I acquired a goldmine of data that I can use for linguistic analysis. Here's an update on that project, now that I have some more solid numbers.
