@@ -72,16 +72,17 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Refereed Articles
 
-**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics.*
-
 **Joseph A. Stanley** (accepted). "Regional patterns in prevelar raising." *American Speech*.
 <a href="/downloads/210409-regional_prevelar.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
 <a href="/downloads/200801-proc_lcuga6.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics& 49(4): 389--418. https://doi.org/10.1177/00754242211043163. 
+<a href="https://doi.org/10.1177/00754242211043163" class="link" target="_blank" title="link to JEngL online"></a>
+
 Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
-<a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
+<a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link to JASA online"></a>
 <!--Published online January 31, 2020-->
 
 **Joseph A. Stanley** (2019). "Phonological Patterns in <sc>beg</sc>-Raising." *UGA Working Papers in Linguistics*, 4, 69--91.
