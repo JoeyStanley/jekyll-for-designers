@@ -142,11 +142,11 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 **Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
 
-**Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021.
+**Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation 49. Online. October 19--24, 2021.
 <a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 <a href="/downloads/211019-NWAV49_OoO.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24, 2021. 
+**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation 49. Online. October 19--24, 2021. 
 <a ref="https://www.youtube.com/watch?v=USF6fspxiGU" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 <a href="/downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -652,6 +652,9 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 
 ### Other Service
+
+<!--Invited October 2021, Official January 2022-->
+Linguistic Atlas Project Advisory Board. 2021--
 
 Three Minute Thesis (3MT™) Competition Judge for the BYU Linguistics Department MA students. 2021. 
 
