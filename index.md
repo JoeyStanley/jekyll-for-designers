@@ -33,17 +33,19 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of December 13, 2021, I am…
+As of December 27, 2021, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Entering finals week for Fall 2021.
+👨🏻‍🏫 Prepping my two courses for next semester.
 
 <!--Research-->
 
-📝 Writing a paper on order of operations in sociophonetic data analysis.
+📝 Turning my NWAV49 presentation on order of operations into a paper.
 
-<!--📝 Writing a paper on English in the Rockies.-->
+📝 Getting my LSA and ADS presentations finalized for next week.
+
+📝 Putting a LabPhon18 abstract together.
 
 
 
