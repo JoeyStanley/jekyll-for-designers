@@ -33,20 +33,19 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of December 27, 2021, I am…
+As of January 3, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Prepping my two courses for next semester.
+👨🏻‍🏫 Prepping my two courses for this semester
 
 <!--Research-->
 
 📝 Turning my NWAV49 presentation on order of operations into a paper.
 
-📝 Getting my LSA and ADS presentations finalized for next week.
+📝 Getting my LSA and ADS presentations finalized for this week.
 
 📝 Putting a LabPhon18 abstract together.
-
 
 
 <!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
