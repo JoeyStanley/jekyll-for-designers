@@ -656,7 +656,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 ### Other Service
 
 <!--Invited October 2021, Official January 2022-->
-Linguistic Atlas Project Advisory Board. 2021--
+Linguistic Atlas Project Advisory Board. 2022--
 
 Three Minute Thesis (3MT™) Competition Judge for the BYU Linguistics Department MA students. 2021. 
 
