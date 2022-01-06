@@ -1,7 +1,7 @@
 ---
 layout: aside
 title: Today's Workshop
-redirect_to: "/downloads/211130-UW.pdf"
+redirect_to: "/_posts/lsa_and_ads_2022"
 ---
 
-If you are not redirected to today's presentation, click [here](/downloads/211130-UW.pdf) instead.
+If you are not redirected to today's presentation, click [here](/_posts/lsa_and_ads_2022) instead.
