@@ -139,8 +139,10 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 ### Oral Presentations
 
 **Joseph A. Stanley**, Jon Forrest, Lelia Glass, & Margaret E. L. Renwick. "Perspectives on Georgia vowels: From legacy to syncrhony." The American Dialect Society Annual Meeting. Washington, D.C., January 6, 2022. 
+<a href="/downloads/220106-ADS-Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
+<a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation 49. Online. October 19--24, 2021.
 <a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
@@ -226,7 +228,10 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 ### Poster Presentations
 
-**Joseph A. Stanley**, Jessica Shepherd, & Auna Nygaard. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
+(* indicates student collaborator)
+
+**Joseph A. Stanley**, Jessica Shepherd\*, & Auna Nygaard\*. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
+<a href="/downloads/220107-ADS-MTurk.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 **Joseph A. Stanley** & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
 <a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
