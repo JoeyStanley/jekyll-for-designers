@@ -47,6 +47,7 @@ Another area I focus on in the West is Utah. I worked on a <a href="/downloads/1
 <h3>CV Highlights</h3>
 
 **Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
+<a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
@@ -68,13 +69,19 @@ Also, keep an eye out for blog posts tags with [***Utah***](/tags/index#Utah)!
 ## The South
 
 <img class="research-img" src="images/projects/lap.svg" alt="Linguistic Atlas Project Logo">
-Having firmly established myself as a researcher of Western American English, I was reluctant to start doing research on the South since the amount of existing literature is vast. But, as a research assistant for the Linguistic Atlas Project for four years, I couldn't help but begin analysis on DASS, a newly transcribed corpus of interviews from the 1970s and 1980s. Together with Peggy Renwick and the others at the Linguistic Atlas team, we've dug deep into the phonetics of how southerners sounded a couple generations ago. You can see and interact with some of this data by going a site I made called the <a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" title="GSV"><i>Gazetteer of Southern Vowels</i></a>.
+Having firmly established myself as a researcher of Western American English, I was reluctant to start doing research on the South since the amount of existing literature is vast. But, as a research assistant for the Linguistic Atlas Project for four years, I couldn't help but begin analysis on DASS, a newly transcribed corpus of interviews from the 1970s and 1980s. Together with Peggy Renwick and the others at the Linguistic Atlas team, we've dug deep into the phonetics of how southerners, and more specifically Georgians, sounded a couple generations ago. You can see and interact with some of this data by going a site I made called the <a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" title="GSV"><i>Gazetteer of Southern Vowels</i></a>.
 
 ### CV Highlights
 
-**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24. 
+**Joseph A. Stanley**, Jon Forrest, Lelia Glass, & Margaret E. L. Renwick. "Perspectives on Georgia vowels: From legacy to syncrhony." The American Dialect Society Annual Meeting. Washington, D.C., January 6, 2022. 
+<a href="/downloads/220106-ADS-Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (2021). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics* 49(4): 389--418. https://doi.org/10.1177/00754242211043163. 
+<a href="https://doi.org/10.1177/00754242211043163" class="link" target="_blank" title="link to JEngL online"></a>
+
+<!--**Joseph A. Stanley** & Margaret E. L. Renwick. "100 Years of Georgia English." New Ways of Analyzing Variation. Online. October 19--24. 
 <a ref="https://www.youtube.com/watch?v=USF6fspxiGU" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
-<a href="/downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/211019-NWAV49_Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>-->
 
 <!--**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.*-->
 
@@ -127,6 +134,12 @@ Traditional sociophonetic research analyzes vowels using a pair of measurements,
 
 ### CV Highlights
 
+**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
+<a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (2021). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics* 49(4): 389--418. https://doi.org/10.1177/00754242211043163. 
+<a href="https://doi.org/10.1177/00754242211043163" class="link" target="_blank" title="link to JEngL online"></a>
+
 **Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
 <a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
@@ -158,6 +171,9 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 I'm interested in phenomena on the margins of English phonology. There are some speech patterns that are quite infrequent because the particular sequence of sounds only exists in a handful of words. For example, I've found phonological and regional patterns in words with /ɛɡ/ (<i>beg</i>, <i>leg</i>). I've also found that people in Utah have a tap in /θɹ/ clusters (<i>three</i>, <i>throw</i>) but Washingtonians don't. Utahns also insert stops in /ls/ clusters (<i>false</i>, <i>salsa</i>). How infrequent can a variable be and still exhibit language-internal, regional, and sociolinguistic variability?
 
 ### CV Highlights
+
+**Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
+<a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 **Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). <s>Vancouver, British Columbia</s>[Online]. September, 2020.
 
