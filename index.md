@@ -33,17 +33,17 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of January 3, 2022, I am…
+As of January 10, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Prepping my two courses for this semester
+👨🏻‍🏫 Teaching English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604)
 
 <!--Research-->
 
 📝 Turning my NWAV49 presentation on order of operations into a paper.
 
-📝 Getting my LSA and ADS presentations finalized for this week.
+📝 Recovering from LSA2022. 
 
 📝 Putting a LabPhon18 abstract together.
 
