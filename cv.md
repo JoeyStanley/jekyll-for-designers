@@ -390,6 +390,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
+Panel member/presentor in a syllabus design webinar. Center for Teaching and Learning, Brigham Young University, Provo, Utah. February 17 & 18, 2022. 
+
 "What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Washington, Seattle, Washington. November 30, 2021.
 <a href="/downloads/211130-UW.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
