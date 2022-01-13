@@ -18,7 +18,7 @@ Here's what that image looks like up close:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After <a href="https://twitter.com/joey_stan?ref_src=twsrc%5Etfw">@joey_stan</a> teaches us all how to do it, trajectory gifs need to become the norm. <a href="https://twitter.com/hashtag/LSA2022?src=hash&amp;ref_src=twsrc%5Etfw">#LSA2022</a></p>&mdash; Andrew Bray (@arbray01) <a href="https://twitter.com/arbray01/status/1479541193168072712?ref_src=twsrc%5Etfw">January 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I haven't done a cool tutorial for a while and I thought it might make for a good one. So, in this blog post, I'll show you my step-by-step process for how I made that animation. Hopefully you can make it too with your own data!
+I haven't done a cool tutorial for a while and I thought it might make for a good one. So, in this blog post, I'll show you my step-by-step process for how I made that animation. It's a little long because I've tried to explain the reasoning for *why* I did what I did. I guess it just shows how much work goes into a nice visual I suppose. Anyway, hopefully you can make it too with your own data!
 
 
 ## Load the data
