@@ -6,9 +6,13 @@ tags: [Animations, Data Viz, How-to Guides, R, Skills, Vowel Overlap]
 excerpt: Last week, I presented some work that Lisa Johnson and I have been working on. We discussed ways that vowel formant trajectories can help us learn more about vowel mergers. What seemed to get the most attention though were the data visuals that I created for the talk. I haven't done a cool tutorial for a while, so I thought it might make for a good one. So, in this blog post, I'll show you my step-by-step process for how I made that animation. Hopefully you can make it too with your own data!
 ---
 
-Last week, I presented some work that Lisa Johnson and I have been working on. We discussed ways that vowel formant trajectories can help us learn more about vowel mergers. What seemed to get the most attention though were the data visuals that I created for the talk. 
+Last week, I [presented](/blog/lsa_and_ads_2022) some work that Lisa Johnson and I have been working on. We discussed ways that vowel formant trajectories can help us learn more about vowel mergers. What seemed to get the most attention though were the data visuals that I created for the talk. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just when I thought I couldn’t be more impressed with <a href="https://twitter.com/joey_stan?ref_src=twsrc%5Etfw">@joey_stan</a> ‘s data viz game, he pulls out these animated vowel trajectories! <a href="https://twitter.com/hashtag/LSA2022?src=hash&amp;ref_src=twsrc%5Etfw">#LSA2022</a> <a href="https://t.co/ZzKqvOWoR0">pic.twitter.com/ZzKqvOWoR0</a></p>&mdash; Nicole Holliday (@mixedlinguist) <a href="https://twitter.com/mixedlinguist/status/1479539882771066885?ref_src=twsrc%5Etfw">January 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Here's what that image looks like up close:
+
+<img width="100%" src="/images/plots/animating_trajectories/plot23_anim_final.gif">
 
 <span class="sidenote-left">Thanks for the idea, Andrew!</span>My friend Andrew Bray recommended I do a tutorial on how to do them:
 
