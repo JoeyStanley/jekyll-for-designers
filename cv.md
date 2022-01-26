@@ -138,6 +138,8 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
+**Joseph A. Stanley**. "Generational Change in Formant Trajectories: The Low-Back-Merger Shift in Longview, Washington." The 4th Cascadia Workshop in Sociolinguistics. Online, May, 2022. 
+
 **Joseph A. Stanley**, Jon Forrest, Lelia Glass, & Margaret E. L. Renwick. "Perspectives on Georgia vowels: From legacy to syncrhony." The American Dialect Society Annual Meeting. Washington, D.C., January 6, 2022. 
 <a href="/downloads/220106-ADS-Georgia.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
