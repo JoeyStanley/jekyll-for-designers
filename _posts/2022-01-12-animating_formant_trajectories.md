@@ -412,7 +412,7 @@ preds %>%
   # Make the color and size reflect the significance
   geom_path(aes(color = is_significant, size = is_significant)) +
   scale_x_continuous(breaks = seq(0, 1, by = 0.1)) +
-  # Adjust the size of hte plot
+  # Adjust the size of the lines
   scale_size_manual(values = c(1, 3)) + 
   scale_color_ptol() +
   facet_wrap(~formant, ncol = 1, scales = "free") +
@@ -560,6 +560,7 @@ preds %>%
   geom_ribbon(aes(ymin = hz_norm - CI, ymax = hz_norm + CI), fill = "grey75", alpha = 0.5) +
   geom_path(aes(color = allophone_plus_sig, size = is_significant)) +
   scale_x_continuous(breaks = seq(0, 1, by = 0.1)) +
+  # Update the sizes here
   scale_size_manual(values = c(0.5, 1)) + 
   # Update the colors here
   scale_color_manual(values = c(ptol_pal()(2), "gray50")) + 
@@ -697,8 +698,6 @@ preds %>%
   pivot_longer(cols = c(matches("hz_norm"), matches("CI")),
                names_to = c(".value", "allophone"),
                names_pattern = "(.+)_([A-Z]+)\\Z") %>%
-  
-
   
   # Add three-way significance + allophone
   mutate(allophone_plus_sig = case_when(!is_significant ~ "not significant",
@@ -919,7 +918,7 @@ ggplot(plotting_data, aes(percent, hz_norm, group = allophone)) +
 ```
 <img width="100%" src="/images/plots/animating_trajectories/plot17_labs2.png">
 
-There we go. That's a little bit better. For good measure, I'm going to also color the text using the same color assigned to the allophones. My first time doing this, I made the mistake of using the `allophone_plus_sig` column just like the lines. The problem is now I had gray labels, which is not what I wanted.
+There we go. That's a little bit better. For good measure, I'm going to also color the text using the same color assigned to the allophones. My first time doing this, I made the mistake of using the `allophone_plus_sig` column just like the lines. The problem is I ended up with gray labels, which is not what I wanted.
 
 ```r
 ggplot(plotting_data, aes(percent, hz_norm, group = allophone)) +
@@ -1040,7 +1039,7 @@ ggplot(animating_data, aes(percent, hz_norm, group = allophone)) +
 ```
 <img width="100%" src="/images/plots/animating_trajectories/plot20_anim_still1.png">
 
-So here's all the information at once. It's a mess but that's fine. What we need to do now is animate across the birth years. It literally takes one line of code to do this: `transition_time(yob)`. I'll save the plot into an object called `a` (short for *animation*). I'll then take that `a` object and animate it with `animate()`. I'll specificy the height, width, and resolution. This line of code may take a minute or so, so you could go run and get another drink or something. Finally, I'll export the plot with `anim_save()`, which lets me specify the path and the frames per second.  
+So here's all the information at once. It's a mess but that's fine. What we need to do now is animate across the birth years. It literally takes one line of code to do this: `transition_time(yob)`. I'll save the plot into an object called `a` (short for *animation*). I'll then take that `a` object and animate it with `animate()`. I'll specificy the height, width, and resolution. This line of code may take a minute or so, so you could stand up and stretch or get some water or something. Finally, I'll export the plot with `anim_save()`, which lets me specify the path and the frames per second.  
 
 ```r
 # Save the animation into the "a" object
