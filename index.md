@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of January 25, 2022, I am…
+As of February 7, 2022, I am…
 
 <!--Teaching-->
 
@@ -41,11 +41,13 @@ As of January 25, 2022, I am…
 
 <!--Research-->
 
+📝 Revising a manuscript on sociophonetics and dialectology.
+
 <!--📝 Turning my NWAV49 presentation on order of operations into a paper.-->
 
 📝 Putting together a manuscript for JASA on Pillai scores.
 
-📝 Helping some colleagues put together abstracts for [SECOL 89](https://www.lsu.edu/hss/linguistics/secol89).
+<!--📝 Helping some colleagues put together abstracts for [SECOL 89](https://www.lsu.edu/hss/linguistics/secol89).-->
 
 <!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
 
