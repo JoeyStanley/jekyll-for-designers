@@ -1,7 +1,12 @@
 ---
 layout: aside
-title: Today's Workshop
-redirect_to: "/_posts/lsa_and_ads_2022"
+title: Today's Class
 ---
 
-If you are not redirected to today's presentation, click [here](/_posts/lsa_and_ads_2022) instead.
+DARLA: [http://darla.dartmouth.edu](http://darla.dartmouth.edu)
+
+Adam Baker's Vowel Plotting tool: [https://adambaker.org/formant-chart/formant-chart.html](https://adambaker.org/formant-chart/formant-chart.html)
+
+My Vowel Visualizaton tool: [https://joeystanley.shinyapps.io/inclass_vowel_visuals/](https://joeystanley.shinyapps.io/inclass_vowel_visuals/)
+
+Visible Vowels: [https://www.visiblevowels.org](https://www.visiblevowels.org)
