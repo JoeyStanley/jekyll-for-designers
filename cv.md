@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated November 23, 2021. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated February 18, 2022. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -392,7 +392,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-Panel member/presentor in a syllabus design webinar. Center for Teaching and Learning, Brigham Young University, Provo, Utah. February 17 & 18, 2022. 
+"Explaining Office Hours." Panel member in a seminar called "Make a Good First Impression with Your Syllabus." Center for Teaching and Learning, Brigham Young University, Provo, Utah. February 18, 2022. 
 <a href="/downloads/220218-office_hours.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Washington, Seattle, Washington. November 30, 2021.
