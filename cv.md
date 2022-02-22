@@ -394,6 +394,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 "Explaining Office Hours." Panel member in a seminar called "Make a Good First Impression with Your Syllabus." Center for Teaching and Learning, Brigham Young University, Provo, Utah. February 18, 2022. 
 <a href="/downloads/220218-office_hours.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+<a ref="https://teachanywhere.byu.edu/training-workshops/make-a-good-first-impression-with-your-syllabus" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 
 "What can vowel formant trajectories tell us about language change?" Sociolinguistics Group, University of Washington, Seattle, Washington. November 30, 2021.
 <a href="/downloads/211130-UW.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
