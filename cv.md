@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated February 18, 2022. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 1, 2022. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -391,6 +391,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 ## Other Presentations
 
 ### Invited Presentations
+
+"Is Editing Racist, Elitist, or Discriminatory?" Panel member in "Situating Editing in a Linguistics Department: A Seminar Series." Brigham Young University, Provo, Utah. March 1, 2022. 
 
 "Explaining Office Hours." Panel member in a seminar called "Make a Good First Impression with Your Syllabus." Center for Teaching and Learning, Brigham Young University, Provo, Utah. February 18, 2022. 
 <a href="/downloads/220218-office_hours.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
