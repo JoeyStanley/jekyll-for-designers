@@ -65,9 +65,11 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Edited Volumes
 
-**Joseph A. Stanley**, Julia Steele Josephs, Jonathan Crum, & Frithjof Timo Wöhrmann (in prep). *Proceedings of the 6th Annual Linguistics Conference at UGA*. Linguistics Society at UGA, Athens, GA. 
+**Joseph A. Stanley**, Julia Steele Josephs, Jonathan Crum, & Frithjof Timo Wöhrmann (2022). *Proceedings of the 6th Annual Linguistics Conference at UGA*. Linguistics Society at UGA, Athens, GA. 
+<a href="https://linguistics.uga.edu/proceedings-lcuga6" class="link" target="_blank" title="link to this volume online"></a>
 
-**Joseph A. Stanley** and Conni Covington, co-editors (2019). [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. Linguistics Society at UGA, Athens, GA. 
+**Joseph A. Stanley** and Conni Covington, co-editors (2019). *UGA Working Papers in Linguistics*, Volume 4. Linguistics Society at UGA, Athens, GA. 
+<a href="http://www.linguistics.uga.edu/working-papers-vol-4-2018" class="link" target="_blank" title="link to this volume online"></a>
 
 
 ### Refereed Articles
@@ -75,8 +77,9 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 **Joseph A. Stanley** (accepted). "Regional patterns in prevelar raising." *American Speech*.
 <a href="/downloads/210409-regional_prevelar.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
-<a href="/downloads/200801-proc_lcuga6.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+**Joseph A. Stanley** (2022). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* Linguistics Society at UGA, Athens, GA. 
+<a href="https://linguistics.uga.edu/cp2019-stanley" class="link" target="_blank" title="link to this paper online"></a>
+<a href="/downloads/220119-lcuga6_proc.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (2021). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics* 49(4): 389--418. https://doi.org/10.1177/00754242211043163. 
 <a href="https://doi.org/10.1177/00754242211043163" class="link" target="_blank" title="link to JEngL online"></a>
