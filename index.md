@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 22, 2022, I am…
+As of March 7, 2022, I am…
 
 <!--Teaching-->
 
@@ -43,19 +43,13 @@ As of February 22, 2022, I am…
 
 📝 Revising a manuscript on sociophonetics and dialectology.
 
+📝 Trying to stick to my goal of writing at least a little bit each day.
+
 <!--📝 Turning my NWAV49 presentation on order of operations into a paper.-->
-
-📝 Putting together a manuscript for JASA on Pillai scores.
-
-<!--📝 Helping some colleagues put together abstracts for [SECOL 89](https://www.lsu.edu/hss/linguistics/secol89).-->
-
-<!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
-
-<!--💻 Working on [FastTrackR](https://github.com/santiagobarreda/FastTrackR), an R package to accompany the Praat plugin, Fast Track, with Santiago Barreda.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
-🎤 Collecting some basic, preliminary data for a project on Utah English.
+<!--🎤 Collecting some basic, preliminary data for a project on Utah English.-->
 
 
 
