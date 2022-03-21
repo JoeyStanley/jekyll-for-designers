@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated March 1, 2022. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 21, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -361,6 +361,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
+    <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the BYU Linguistics Department. Provo, UT. March 10, 2022.</li>
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the BYU Linguistics Department. Provo, UT. October 20, 2021.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.
@@ -552,9 +553,15 @@ Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peg
 
 ## Advising
 
+### MA Thesis Chair
+
+Chad Huckvale (MA, Linguistics)
+
 ### MA Thesis Committee Member
 
 Rebecca Brenkman (MA, Linguistics)
+
+Ammon Hunt (MA, TESOL)
 
 Heather Johnson (MA, Linguistics)
 

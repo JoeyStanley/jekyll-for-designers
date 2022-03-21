@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of March 7, 2022, I am…
+As of March 21, 2022, I am…
 
 <!--Teaching-->
 
@@ -45,11 +45,13 @@ As of March 7, 2022, I am…
 
 📝 Trying to stick to my goal of writing at least a little bit each day.
 
+👨🏻‍🏫 Prepping two talks for SECOL89.
+
 <!--📝 Turning my NWAV49 presentation on order of operations into a paper.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
-<!--🎤 Collecting some basic, preliminary data for a project on Utah English.-->
+🎤 Collecting some basic, preliminary data for a project on English in the Inter-Mountain West.
 
 
 
@@ -64,4 +66,4 @@ As of March 7, 2022, I am…
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
-🎹 Prepping for an organ solo that I'll play in church on in March.
+🎹 Prepping for an organ arrangement that I've written that I'll play in church in April.
