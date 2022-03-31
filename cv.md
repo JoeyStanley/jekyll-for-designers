@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated March 21, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 31, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -140,6 +140,8 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 ## Conference Presentations
 
 ### Oral Presentations
+
+Margaret E. L. Renwick, **Joseph A. Stanley**, Jon Forrest, & Lelia Glass. "A Mid-Century Peak for the Southern Vowel Shift: Evidence from Georgia." LabPhon 18. Online. June 23--25, 2022. 
 
 **Joseph A. Stanley**. "Generational Change in Formant Trajectories: The Low-Back-Merger Shift in Longview, Washington." The 4th Cascadia Workshop in Sociolinguistics. Online, May, 2022. 
 
