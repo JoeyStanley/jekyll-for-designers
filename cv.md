@@ -16,7 +16,7 @@ title: Curriculum Vitae
 
 <p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i>
 <a href="https://search.proquest.com/docview/2412335574/398995AF274140D8PQ/1?accountid=4488" class="link" target="_blank" title="link to this paper online"></a>
-<a href="http://joeystanley.com/downloads/200417-dissertation_revised.pdf" class="paper" target="_blank"></a></p>
+<a href="http://joeystanley.com/downloads/200417-dissertation-revised.pdf" class="paper" target="_blank"></a></p>
 
 
 
@@ -446,6 +446,9 @@ Professor's Story night. Linguistics Student Society. Provo, UT. November 19, 20
 
 "Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
 <a href="/downloads/200110-colloquium.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+"Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Dissertation defense. Athens, GA. December 19, 2019.
+<a href="/downloads/191209-dissertation_defense.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>  
 
 "Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
 
