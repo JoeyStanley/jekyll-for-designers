@@ -506,6 +506,10 @@ joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/Joe
 
 ### Media
 
+Lauren Paterson. "Language Of The Rockies: Linguist Seeks Speaking Patterns In Idaho And Utah." *Northwest Public Broadcasting*. April 13, 2022. A 1-minute radio clip about a project on Idaho English.
+
+https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/
+
 "PhD. Candidate Seeks to Interview Multigenerational Wasatch County Families." [*The Wasatch Wave*](http://www.wasatchwave.com). January 3, 2018. A local paper heard about my fieldwork and ran an article on the front page to help me find research participants. (Print only.)
 
 Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
