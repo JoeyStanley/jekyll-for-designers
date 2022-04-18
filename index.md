@@ -33,21 +33,21 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of April 5, 2022, I am…
+As of April 18, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Getting close to finishing my English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604) courses.
+👨🏻‍🏫 Wrapping up my English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604) courses.
 
 <!--Research-->
 
-📝 Revising a manuscript on sociophonetics and dialectology.
+<!--📝 Revising a manuscript on sociophonetics and dialectology.-->
 
-<!--📝 Trying to stick to my goal of writing at least a little bit each day.-->
+📝 Trying to stick to my goal of writing at least a little bit each day.
 
 <!--👨🏻‍🏫 Prepping two talks for SECOL89.-->
 
-<!--📝 Turning my NWAV49 presentation on order of operations into a paper.-->
+📝 Turning my NWAV49 presentation on order of operations into a paper.
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
@@ -64,4 +64,4 @@ As of April 5, 2022, I am…
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
-🎹 Prepping for an organ arrangement that I've written that I'll play in church in April.
+<!--🎹 Prepping for an organ arrangement that I've written that I'll play in church in April.-->
