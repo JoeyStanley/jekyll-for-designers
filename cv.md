@@ -576,8 +576,13 @@ Heather Johnson (MA, Linguistics)
 
 Michelle Lung (MA, TESOL)
 
+### Undergraduate Honors Thesis Chair
+
+Joshua Stevenson (BA, Linguistics)
+
 ### Other Positions
 
+<!--2018-->
 Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: "Conditioned Front Vowel Mergers in the American South." (Graduate Thesis Reader)
 
 
