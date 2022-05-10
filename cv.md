@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated March 31, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated May 10, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -661,6 +661,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 *Frontiers in Communication*. Reviewer. (2021)
 
 *Journal of English Linguistics* (2021)
+
+*Journal of the Acoustical Society of America* (2022)
 
 *Laboratory Phonology* (2021)
 
