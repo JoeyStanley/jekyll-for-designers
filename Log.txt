@@ -187,6 +187,7 @@ I also updated by Research page while I was here.
 * joeystanley.com/lsa2020        -> blog/ads-and-lsa-2020.md
 * joeystanley.com/nwav46         -> blog/nwav46.md
 * joeystanley.com/nwav47         -> blog/nwav47.md
+* joeystanley.com/office_hours   -> pages/office_hours.md -> /downloads/220218-office_hours.pdf
 * joeystanley.com/praat          -> pages/praat-workshops.md
 * joeystanley.com/r              -> pages/r-workshops.md (I'm trying to phase this one out)
 * joeystanley.com/r2018          -> pages/r-workshops.md
