@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of May 31, 2022, I am…
+As of June 27, 2022, I am…
 
 <!--Teaching-->
 
@@ -43,11 +43,9 @@ Enjoying my class-free summer!
 
 <!--Research-->
 
-📝 Revising a manuscript on Pillai scores.
+<!--👨🏻‍🏫 Prepping a talk for ..... -->
 
-<!--👨🏻‍🏫 Prepping two talks for SECOL89.-->
-
-<!--📝 Turning my NWAV49 presentation on order of operations into a (second) paper.-->
+📝 Working on a manuscript on Georgia English.
 
 📝 Working on a manuscript based on my dissertation (finally).
 
@@ -65,6 +63,8 @@ Enjoying my class-free summer!
 
 
 <!--Personal-->
+
+🦵🏻 Recovering from a leg surgury. 
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
