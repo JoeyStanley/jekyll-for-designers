@@ -509,9 +509,11 @@ joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/Joe
 
 ### Media
 
-Lauren Paterson. "Language Of The Rockies: Linguist Seeks Speaking Patterns In Idaho And Utah." *Northwest Public Broadcasting*. April 13, 2022. A 1-minute radio clip about a project on Idaho English. <a href="https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/" class="link" title="link to this report"></a> 
+<!--Justin Higginbottom. "" *KMZU*. 
 
-https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/
+Josh Burnham. "Title." *Montana Public Radio*. -->
+
+Lauren Paterson. "Language Of The Rockies: Linguist Seeks Speaking Patterns In Idaho And Utah." *Northwest Public Broadcasting*. April 13, 2022. A 1-minute radio clip about a project on Idaho English. <a href="https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/" class="link" title="link to this report"></a> 
 
 "PhD. Candidate Seeks to Interview Multigenerational Wasatch County Families." [*The Wasatch Wave*](http://www.wasatchwave.com). January 3, 2018. A local paper heard about my fieldwork and ran an article on the front page to help me find research participants. (Print only.)
 
