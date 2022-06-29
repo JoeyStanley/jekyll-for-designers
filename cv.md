@@ -509,15 +509,18 @@ joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/Joe
 
 ### Media
 
-<!--Justin Higginbottom. "" *KMZU*. 
+Justin Higginbottom. *KZMU*, based in Moab, Utah. June 28, 2022. A 3.5-minute radio clip about my research on Utah English and ``Mormonese.'' 
+<a href="https://www.kzmu.org/tuesday-june-28-2022/" class="link" title="link to this report"></a> 
 
-Josh Burnham. "Title." *Montana Public Radio*. -->
+<!--Josh Burnham. "Title." *Montana Public Radio*. -->
 
-Lauren Paterson. "Language Of The Rockies: Linguist Seeks Speaking Patterns In Idaho And Utah." *Northwest Public Broadcasting*. April 13, 2022. A 1-minute radio clip about a project on Idaho English. <a href="https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/" class="link" title="link to this report"></a> 
+Lauren Paterson. "Language Of The Rockies: Linguist Seeks Speaking Patterns In Idaho And Utah." *Northwest Public Broadcasting*, based in Coeur d'Alene, Idaho. April 13, 2022. A 1-minute radio clip about a project on Idaho English. 
+<a href="https://www.nwpb.org/2022/04/12/language-of-the-rockies-linguist-seeks-speaking-patterns-in-idaho-and-utah/" class="link" title="link to this report"></a> 
 
 "PhD. Candidate Seeks to Interview Multigenerational Wasatch County Families." [*The Wasatch Wave*](http://www.wasatchwave.com). January 3, 2018. A local paper heard about my fieldwork and ran an article on the front page to help me find research participants. (Print only.)
 
-Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
+Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. 
+<a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
 
 Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 2017, wherein I discuss my 2016 paper, “When do Mormons Call Each Other by First Name” published in the *Penn Working Papers in Linguistics*.
 <a href="http://faithpromotingrumors.com/12" class="audio" target="_blank" title="link to FPR podcast"></a>
