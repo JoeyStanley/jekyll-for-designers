@@ -686,6 +686,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Abstract Reviewer
 
+New Ways of Analyzing Variation 50 (2022)
+
 96th Annual Meeting of the Linguistic Society of America (2021)
 
 [6th Linguistics Conference at UGA](http://www.linguistics.uga.edu/lcuga-6) (2019)
