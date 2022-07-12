@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of June 27, 2022, I am…
+As of July 12, 2022, I am…
 
 <!--Teaching-->
 
