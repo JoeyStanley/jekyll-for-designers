@@ -681,7 +681,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *Language Variation and Change* (2020)
 
-*Linguistics Vanguard* (2021, 2022)
+*Linguistics Vanguard* (2021, 2022 (×2))
 
 *Studia Linguistica Universitatis Iagellonicae Cracoviensis* (2021)
 
