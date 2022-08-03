@@ -2,7 +2,7 @@
 layout: post
 title: Using Phonic for Collecting Sociophonetic Data
 date: 2022-07-19 15:19:00 -0400
-tags: [Animations, Data Viz, How-to Guides, R, Skills, Vowel Overlap]
+tags: [How-to Guides, Research, Skills, Utah, West]
 ---
 
 A few months ago, I was looking for ways to collect audio within a Qualtrics survey and I stumbled upon [this answer](https://community.qualtrics.com/XMcommunity/discussion/4517/i-wonder-how-can-i-record-interviewees-audio-response-in-qualtrics) which lead me to [Phonic.ai](https://www.phonic.ai). It looked good, so I decided to try it out for a new project. I'm happy to report that I'm overall very satisfied with how it all turned out. In this post, I'll explain how to use Phonic, tell about some of my experiences with using it, and give you some tips.
