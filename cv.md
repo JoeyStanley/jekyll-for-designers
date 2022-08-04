@@ -143,6 +143,8 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 Heather Johnson, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough. "Ducks in the pond: Elementary-school-age children's perception of Standard American English, African American English, and Spanish-accented English on scales of status and solidarity." The 47th Boston University Conference on Language Development (BUCLD). Boston, MA. November 3--6, 2022.
 
+**Joseph A. Stanley** & Betsy Sneller. "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. Stanford, CA. October 13--15, 2022.
+
 Margaret E. L. Renwick, **Joseph A. Stanley**, Jon Forrest, & Lelia Glass. "A Mid-Century Peak for the Southern Vowel Shift: Evidence from Georgia." LabPhon 18. Online. June 23--25, 2022. 
 
 **Joseph A. Stanley**. "Generational Change in Formant Trajectories: The Low-Back-Merger Shift in Longview, Washington." The 4th Cascadia Workshop in Sociolinguistics. Online, May, 2022. 
@@ -259,13 +261,13 @@ William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Kati
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." Poster presentation at the 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190103-lsa2019.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
-**Joseph A. Stanley**. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
+**Joseph A. Stanley**. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation New Ways of Analyzing Variation 47. New York City, New York. October 18–21, 2018.
 <a href="/downloads/181019-nwav47.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
 
-**Joseph A. Stanley**. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017.
+**Joseph A. Stanley**. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at New Ways of Analyzing Variation 46. Madison, WI. November 2–5, 2017.
 <a href="/downloads/171103-nwav46-abstract.pdf" class="abstract" target="_blank" title="download the abstract"></a>
 <a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
@@ -690,7 +692,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 New Ways of Analyzing Variation 50 (2022)
 
-96th Annual Meeting of the Linguistic Society of America (2021)
+96th--97th Annual Meetings of the Linguistic Society of America (2021--2022)
 
 [6th Linguistics Conference at UGA](http://www.linguistics.uga.edu/lcuga-6) (2019)
 
