@@ -33,11 +33,11 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of July 26, 2022, I am…
+As of August 8, 2022, I am…
 
 <!--Teaching-->
 
-Enjoying my class-free summer!
+👨🏻‍🏫 Starting to prepare my classes for the fall (sociolinguistics, varieties of English, and linguistic data analysis)
 
 <!--👨🏻‍🏫 Wrapping up my English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604) courses.-->
 
@@ -63,8 +63,6 @@ Enjoying my class-free summer!
 
 
 <!--Personal-->
-
-🦵🏻 Recovering from a leg surgury. 
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
