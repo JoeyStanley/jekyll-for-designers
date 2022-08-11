@@ -513,7 +513,7 @@ joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/Joe
 
 ### Media
 
-Justin Higginbottom. *KZMU*, based in Moab, Utah. June 28, 2022. A 3.5-minute radio clip about my research on Utah English and ``Mormonese.'' 
+Justin Higginbottom. *KZMU*, based in Moab, Utah. June 28, 2022. A 3.5-minute radio clip about my research on Utah English and "Mormonese."
 <a href="https://www.kzmu.org/tuesday-june-28-2022/" class="link" title="link to this report"></a> 
 
 <!--Josh Burnham. "Title." *Montana Public Radio*. -->
