@@ -5,7 +5,7 @@ date: 2022-08-03 16:38:00 -0400
 tags: [Research, Utah, West]
 ---
 
-Between April and July, I distributed a survey to people in Idaho, Montana, Wyoming, and Utah, asking them to record themselves reading a bunch of words and answering some open-ended questions about language. The results from this study will be published in more academic venues, but for now I wanted to explain in non-academic terms what the (basic) presults are from that study.
+Between April and July, I distributed a survey to people in Idaho, Montana, Wyoming, and Utah, asking them to record themselves reading a bunch of words and answering some open-ended questions about language. The results from this study will be published in more academic venues, but for now I wanted to explain in non-academic terms what the (basic) results are from that study.
 
 ## Overview of the study
 
@@ -28,7 +28,7 @@ Hopefully that gives you an decent big-picture view of what's going on with this
 
 In the survey, I asked people to read aloud a list of 200 words. Each of those words was specifically targetting one more of the following linguistic variables. I'll briefly mention them here as an overview, but I'll give more detail in the sections below.
 
-
+TODO: add linguistic variables
 
 
 
@@ -48,6 +48,7 @@ Of course there are many, many other questions I can of this data that I just ha
 * Do Mormons have an accent? Is that distinct from non-practicing Mormons, ex-Mormons, and non-members? I don't know. I asked about it and I have data on people's affiliation with the Church of Jesus Christ of Latter-day Saints. I suspect that I'll find very slight differences, but we'll see.
 * If people said they had some connection to the Church, I asked some additional questions about "Relief Society Voice," "Missionary Voice," and "General Authorty Voice." I got some great comments. So the question is, are those real? I won't be able to answer this question directly with this data, but I certainly have a lot of comments to draw from when designing my next study!
 
+<br/>
 So, I apoligize if the question you want me to ansewr hasn't been addressed. Hopefully I can get to some of these soon!
 
 Without futher ado, let's get into the results!
