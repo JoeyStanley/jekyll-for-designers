@@ -28,7 +28,7 @@ This is a multi-part tutorial on how to make sort of the typical vowel plots in 
 
 This is a two-part tutorial on calculating Pillai scores and Bhattacharyya's Affinity in R. The first covers what I consider the bare necessities, culminating custom R functions for each. The second is a bit more in-depth as it looks at ways to make the functions more robust, but it also shows some simple visualizations you can make with the output.
 
-### [Make yourself googleable](downloads/161111-DigiLab-slides.pptx)
+### [Make yourself googleable](/downloads/200303-brand-yourself_linguistics.pdf)
 
 I'm no expert, but I have given a workshop on how grad students can increase their online presence and make themselves more googleable, based in large part to ImpactStory's fantastic 30-day challenge, which you can read [here](http://blog.impactstory.org/research-impact-challenge-ebook/).
 
@@ -38,7 +38,7 @@ In response to the need for a "How to Make an Academic Poster" workshop, I put o
 
 ### [Excel Workshop](/excel.html)
 
-Last year I gave a workshop on Excel and ended producing a long handout, that goes from the very basics to relatively tricky techniques. The link above will take you to a blog post that summarizes the workshop, and you can also find the handout itself.
+I once gave a workshop on Excel and ended producing a long handout, that goes from the very basics to relatively tricky techniques. The link above will take you to a blog post that summarizes the workshop, and you can also find the handout itself.
 
 <!--
 ### MANOVA
