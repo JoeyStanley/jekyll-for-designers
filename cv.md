@@ -407,6 +407,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
+<!--"Title of talk." Statistics Department, Brigham Young University, Provo, Utah. September 8, 2022-->
+
 "A Brief Intro to the study of Varieties of English." Invited lecture for BYU's Summer of Academic Refinement program (SOAR). Brigham Young University, Provo, Utah. June 22, 27, and July 11.
 
 "Is Editing Racist, Elitist, or Discriminatory?" Panel member in "Situating Editing in a Linguistics Department: A Seminar Series." Brigham Young University, Provo, Utah. March 1, 2022. 
