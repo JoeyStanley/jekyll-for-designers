@@ -8,6 +8,8 @@ toc: false
 
 On this page you'll find links to all sorts of stuff that I have found useful, including tutorials, books, and general reading on R and Praat, statistics, software, corpora, design, and other stuff.
 
+Note that I haven't really updated this page in a while [as of August 2022], so it may not include the latest resources and some links may be dead.
+
 <br/>
 
 ## My handouts, tutorials, and workshops
