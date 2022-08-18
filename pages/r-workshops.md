@@ -8,7 +8,7 @@ redirect_from:
 
 # R Workshops
 
-For two years I have offered workshops on a variety of topics. In Fall 2017 and Spring 2018, I offered a series of workshops on R. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). In Fall 2019, I am offering additional workshops on data visualization. Below you will find materials for these workshops. I hope they are thorough enough that you can make use of them as stand-alone documents. 
+In grad school I offered workshops on a variety of topics relating to R between Fall 2017 and Spring 2020. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). Below you will find materials for these workshops. I hope they are thorough enough that you can make use of them as stand-alone documents. 
 
 The data used in these workshops can be found at my [datasets page](/data).
 
@@ -26,7 +26,7 @@ In this first workshop I cover the basics of R itself. I talk about the differen
 
 <br/>
 
-## *Visualizations with ggplot2*
+## *Visualizations with ggplot2* <!-- This section is also duplicated in pages/dataviz -->
 
 ggplot2 is a widely used package that allows for high-quality visualizations. These workshops take you from installation to pretty advanced topics.
 
