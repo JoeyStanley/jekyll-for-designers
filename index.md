@@ -33,11 +33,11 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of August 8, 2022, I am…
+As of August 26, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Starting to prepare my classes for the fall (sociolinguistics, varieties of English, and linguistic data analysis)
+👨🏻‍🏫 One day away from the start of the semester. I'll be teaching, sociolinguistics, varieties of English, and linguistic data analysis.
 
 <!--👨🏻‍🏫 Wrapping up my English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604) courses.-->
 
@@ -45,15 +45,19 @@ As of August 8, 2022, I am…
 
 <!--👨🏻‍🏫 Prepping a talk for ..... -->
 
-📝 Working on a manuscript on Georgia English.
+📝 Finalizing a manuscript on Georgia English.
+
+📝 Revising and resubmitting two papers (one on Pillai scores and the other on Order of Operations).
+
+📝 Finalizing proofs for a paper on BEG-raising.
 
 <!--📝 Working on a manuscript based on my dissertation (finally).-->
 
-😅 Trying to finish up some of the projects I was hoping to finish this summer.
+<!--😅 Trying to finish up some of the projects I was hoping to finish this summer.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
-🎤 Analyzing some data for a project on English in the Intermountain West.
+🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West. Stay tuned for a blog post about Idaho, Montana, Wyoming, and Utah Englishes!
 
 
 
