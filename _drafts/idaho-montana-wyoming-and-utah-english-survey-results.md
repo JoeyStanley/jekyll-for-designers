@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Idaho, Montana, Wyoming, and Utah English Survey Results (DRAFT)
+title: Idaho, Montana, Wyoming, and Utah English Survey Results
 date: 2022-08-03 16:38:00 -0400
 tags: [Research, Utah, West]
 ---
 
-Between April and July, I distributed a survey to people in Idaho, Montana, Wyoming, and Utah, asking them to record themselves reading a bunch of words and answering some open-ended questions about language. The results from this study will be published in more academic venues, but for now I wanted to explain in non-academic terms what the (basic) results are from that study. 
+Between April and July, I distributed a survey to people in Idaho, Montana, Wyoming, and Utah, asking them to record themselves reading a bunch of words and answering some open-ended questions about language. The results from this study will be published in more academic venues, but for now I wanted to explain in non-academic terms what the basic, preliminary results are from that study. 
 
 ## Overview of the study
 
-I set up a study to analyze pronunciation in Idaho, Montana, Wyoming, and Utah. Of the four states, Utah has been reseached the most by linguists. There have been very occasional occasional studies on word choice and grammar in the other states over the last century, but the number of studies on actual pronunciation can be counted on one hand: two in Idaho, two in Montana, and zero in Wyoming. So, this study aims to give a basic first-look at what's going on.
+I set up a study to analyze pronunciation in Idaho, Montana, Wyoming, and Utah. Of the four states, Utah has been reseached the most by linguists. There have been very occasional occasional studies on word choice and grammar in the other states over the last century, but the number of studies on actual pronunciation can be counted on one hand: two in Idaho, two in Montana, and zero in Wyoming. So, this study aims to give a basic first look at what's going on.
 
 I decided to have people record audio from their own devices. Yes, this is going to make some things inconsistent across recordings because people will use different microphones. Again, this is a first pass at what's going on. Besides, it's a lot easier (and more covid-friendly) to collect data remotely than it is to travel to people in-person.
 
@@ -39,7 +39,7 @@ Things having to do with vowels:
 
 * The cord-card merger.
 * Vowels before *l*'s like in *feel* and *fill*, *sale* and *sell*, and *pull* and *pole*.
-* Other vowels like in *that* and *goose*.
+* Other vowels like in *bat* and *boot*.
 
 
 
@@ -94,7 +94,7 @@ For those with good ears though, you might have picked up on a slightly differen
 <br/>
 <i>mountain</i>
 <br/>
-(Kimberly, female, 1994, Salt Lake City, UT)
+(Kimberly, White, female, 1994, Salt Lake City, UT)
 </center>
 <br/>
 
@@ -103,20 +103,20 @@ What we have here is that same glottal stop that we had in the standard variant 
 <span class="sidenote">In *Encanto*, Luisa says this variant in the song "Under the Surface" in the line "I move mountains, I move churches…". I don't think I've ever heard it in the media anywhere else.</span>As it turns out, this variant is somewhat common in Utah. Several studies have anaylzed it and have found that it occurs roughly 15% of the time. It's not unique to Utah, but it is more common there than in most other areas.
 
 ### Tangent: Commentary on <span style="color:#7570b3;">moun'n</span> and <span style="color:#d95f02;">moun'in</span>
-However, even though it's not particularly common, it's *very much* on the mind of Utahns. Ask any random Utahn about Utah English and odds are pretty good that they'll say something about *mountain*. As a grad student, I traveled to Utah to collect some audio and people said, "Oh, so you want me to say *mountain*, right?" 
+The interesting thing is that even though this pronunciation of <span style="color:#d95f02;">moun'in</span> is not particularly common, it's *very much* on the mind of Utahns. Ask any random Utahn about Utah English and you've got decent odds that they'll say something about *mountain*. As a grad student, I traveled to Utah to collect some audio and people said, "Oh, so you want me to say *mountain*, right?" 
 
-In these comments, it's clear that this pronunciation is stigmatized. People make fun of it and think it's bad in some way. However, what's interesting to me is that the stigma is associated with not just this <span style="color:#d95f02;">moun'in</span> variant, but it's also associated with the General American standard, <span style="color:#7570b3;">moun'n</span>. In fact, most of the participants for this study, when discussing *mountain*, mentioned <span style="color:#7570b3;">moun'n</span> instead of <span style="color:#d95f02;">moun'in</span>. For example, "Catherine" here apparently feels like <span style="color:#7570b3;">moun'n</span> is a Utah thing and has consciously avoided using it.
+In the comments people left on the survey, particularly when people talked about whether their state has an accent, it's clear that this pronunciation is stigmatized. People make fun of it and think it's bad in some way. However, what's interesting to me is that the stigma is associated with not just this <span style="color:#d95f02;">moun'in</span> variant, but it's also associated with the General American standard, <span style="color:#7570b3;">moun'n</span>. In fact, most of the participants for this study, when discussing *mountain*, mentioned <span style="color:#7570b3;">moun'n</span> instead of <span style="color:#d95f02;">moun'in</span>. For example, "Catherine" here apparently feels like <span style="color:#7570b3;">moun'n</span> is a Utah thing and has consciously avoided using it.
 
 <center style = "font-size: 85%;">
 <audio src="/audio/ID_WY_MT_UT/PhonicUT042-Catherine_no longer say mountain.mp3" controls preload></audio>
 <br/>
 Commentary on <i>mountain</i>
 <br/>
-(Catherine, female, 1978, Farmington, UT)
+(Catherine, White, female, 1978, Farmington, UT)
 </center>
 <br/>
 
-Sure enough, in the 17 words where Catherine could have used the glottal stop, she did so in zero of them.
+Sure enough, in the 17 words where Catherine could have used the glottal stop (so like in *fountain*, *button*, *kitten*, etc.), she did so in zero of them.
 
 So, what seems to be happening is that the stigma associated with the glottal stop in <span style="color:#d95f02;">moun'in</span> has spread to the glottal stop in <span style="color:#7570b3;">moun'n</span>---even though that's how most people say it. I don't know if I've ever seen another case where the mainstream, General American pronunciation is stigmatized. For a linguistic nerd like me, this is super fascinating.
 
@@ -128,19 +128,18 @@ So, for people like Catherine who don't like the glottal stop, what do they do? 
 <br/>
 <i>mountain</i>
 <br/>
-(Catherine, female, 1978, Farmington, UT)
+(Catherine, White, female, 1978, Farmington, UT)
 </center>
 <br/>
 
-Based on people's comments, it seems like many Utahns are under the impression that *this* is how most North Americans say *mountain* most of the time. I don't know how else to say this… but that's simply not acurate. Yes, it is true that most people say *mountain* with a nice strong *t* sometimes, particularly when trying to speak clearly or if they're in a formal situation. But, most of the time, most North Americans say *mountain* as <span style="color:#7570b3;">moun'n</span>. Here's a chart show the distribution of variants across three states:
+Based on people's comments, it seems like many Utahns are under the impression that *this* is how most North Americans say *mountain* most of the time. I don't know how else to say this… but that's simply not accurate! Yes, it is true that most people say *mountain* with a nice strong *t* sometimes, particularly when trying to speak clearly or if they're in a formal situation. But, most of the time, most North Americans say *mountain* as <span style="color:#7570b3;">moun'n</span>. Here's a chart show the distribution of variants across the four states I collected data from:
 
 <img width = "100%" src="/images/plots/phonic/mountain_by_state.jpg">
 <br/>
 
-The data shows that all three variants are used in all three states. However, you'll notice that the purple bars, representing <span style="color:#7570b3;">moun'n</span>, are the highest in Idaho and Wyoming. People from those two states typically pronounced *mountain* and similar words in the standard American English way, with a glottal stop and no vowel sound in the second syllable. You'll also hear <span style="color:#d95f02;">moun'in</span> in those two states, though not very often. Research has shown that this variant is not limited to Utah and can be found across the United States, so this is to be expected.
+The data shows that all three variants are used in all three states. However, you'll notice that Idaho, Montana, and Wyoming have similar-looking patterns. Pay attention in particular to the height of the purple bars, representing <span style="color:#7570b3;">moun'n</span>. People from those three states typically pronounced *mountain* and similar words in the standard American English way, with a glottal stop and no vowel sound in the second syllable. You'll also hear <span style="color:#d95f02;">moun'in</span> in those three states, though not very often. Research has shown that this variant is not limited to Utah and can be found across the United States, so this is to be expected.
 
-What strikes me though is that the hyperarticulated variant, <span style="color:#1b9e77;">mountain</span>, is the most common in Utah. It seems like the stigma associated with the glottal stop in the other two variants has gotten to people. In Idaho and Wyoming, you don't get this variant nearly as much; it seems like saying *mountain* with a nice clear *t* is a Utah thing. So, in a bit of irony, in an effort to avoid sounding like a Utahn (by saying <span style="color:#d95f02;">moun'in</span>), Utahns actually sound like Utahns (by overusing the hyperarticulated <span style="color:#1b9e77;">mountain</span>). Isn't that wild?
-
+What strikes me though is that the hyperarticulated variant, <span style="color:#1b9e77;">mountain</span>, is the most common in Utah. Visually, it's the tallest bar in the plot above. It seems like the stigma associated with the glottal stop in the other two variants has gotten to people. In Idaho, Montana, and Wyoming, you don't get this variant nearly as much; it seems like saying *mountain* with a nice clear *t* is a Utah thing. So, in a bit of irony, in an effort to avoid sounding like a Utahn (by saying <span style="color:#d95f02;">moun'in</span>), Utahns actually sound like Utahns (by overusing the hyperarticulated <span style="color:#1b9e77;">mountain</span>). Isn't that wild?
 
 ### Mountain in Idaho
 
@@ -159,7 +158,7 @@ So, next time you hear someone talking about *mountain* in Utah, you can tell th
 TODO
 
 
-## -ing
+## -ing (TODO)
 
 The most common way of pronouncing *ing* at the ends of words (as in *bowling*, *talking*, and *sitting*) is with that sort of *ng* sound said towards the back of the mouth. <span class="sidenote">Linguists call this sound a "velar nasal" and use the symbol [ŋ] to represent it.</span> It the result of an *n* and a *g* sound combining into one sound. 
 
@@ -192,32 +191,46 @@ The other one I heard is that sometimes people put almost a vowel-like sound at 
 
 ## THR
 
-This last one is one of my favorites. What's going on is that some people pronounce the *r* in a word like *three* with what linguists call this sound a "flap" or a "tap."  This is the same sound that you get in the American English pronounciation of *t*'s (*water*, *latter*) and *d*'s (*feeding*, *ladder*) in certain contexts. It's also pretty much the same sound that you use for a Spanish *r* like in *pero*. What I've noticed is that people pronounce *r*'s as a flap when they occur after *th*, as in *three*, *throw*, and *threat*.
+This last one is one of my favorites because very few people have noticed it. Consider the sound you hear when an American says the *t* in words like *water* and *latter*. <span class="sidenote">You may notice the <i>d</i> in <i>ladder</i> or <i>feeding</i> is quicker and ligher than the <i>d</i> in <i>Adobe</i>.</span>Most people describe it as a *d* sound, though it's not exactly the same as the *d* you get in like *dog*. It's pretty much the same sound that you use for a Spanish *r* like in *pero*. Linguists call this sound a "tap" or a "flap." Despite what some people said on social media maybe a year ago, this is not a just California thing---it's typical of any American or Canadian English speaker. 
 
-If you don't believe me, here is a recording of someone. In the wordlist she read, she pronounces taps 100% of the time. 
+So, what I've noticed is that people pronounce *r*'s as a flap when they occur after *th*, as in *three*, *throw*, and *threat*. If you don't believe me, here is a recording of someone doing that. In the wordlist she read, she pronounces taps 100% of the time. 
 
 <center style = "font-size: 85%;">
-<audio src="/audio/ID_WY_MT_UT/UT026-Bonnie_THR_only.wav" controls preload></audio>
+<audio src="/audio/ID_WY_MT_UT/UT026-Bonnie_THR_only.mp3" controls preload></audio>
 <br/>
-<i>*thrust*, *thrive*, *threaten*, *thrash*, *three*, *through*, *thrill*, *throne*, *throb*, *thread*, *throng*</i>
+<i>thrust</i>, <i>thrive</i>, <i>threaten</i>, <i>thrash</i>, <i>three</i>, <i>through</i>, <i>thrill</i>, <i>throne</i>, <i>throb</i>, <i>thread</i>, <i>throng</i>
 <br/>
-(Bonnie, female, 1948, Wallsburg, UT)
+(Bonnie, female, White, 1948, Wallsburg, UT)
 </center>
 <br/>
 
-And in case you thought it was exclusive to older, rural people, here's a clip from a younger person from suburban Utah County:
+And in case you thought it was exclusive to older, rural people, here's a clip from a younger person from suburban Utah County<span class="sidenote">You may notice she has other features in her speech like hyperarticulated <span style="color:#1b9e77;">mountain</span> and adding a <i>k</i> after <i>ing</i>.</span>:
 
 <center style = "font-size: 85%;">
-<!--<audio src="/audio/ID_WY_MT_UT/UT026-Bonnie_THR_only.wav" controls preload></audio>-->
+<audio src="/audio/ID_WY_MT_UT/THR_PhonicUT054-Deborah.mp3" controls preload></audio>
 <br/>
-<i></i>
+<i>thrill</i>, <i>thrashing</i>, <i>throat</i>, <i>throttle</i>, <i>threaten</i>, <i>thrive</i>, <i>thrust</i>, <i>throne</i>, <i>thrift</i>, <i>throw</i>, <i>thread</i>, <i>throbbing</i>, <i>through</i>, <i>three</i>
 <br/>
-(Deborah, female, 1989, Highland, UT)
+(Deborah, White, female, 1989, Highland, UT)
 </center>
 <br/>
 
+Despite these examples where people do this a lot, pronouncing these words in this way is not particularly common. I heard it about 8.7% of the time. Here's the breakdown by state.
 
-What I found is that, overall, it's not particularly common. I heard it about 8% of the time. But, it seems like it's a little more common in Utah than it is in other places. 
+<img width = "100%" src="/images/plots/phonic/thr_by_state.jpg">
+<br/>
+
+<span class="sidenote">The difference between Utah and Wyoming was not statistically significant according to a chi-squared test (χ² = 0.074, df = 1, *p* = 0.78), neither was difference between Idaho and Wyoming (χ² = 0.057, df = 1, *p* = 0.81). Collapsing those two pairs of states down, the difference between them *was* significant (χ² = 9.275, df = 1, *p* = 0.002). <br/><br> Interestingly, I took some similar data I had from Washington and it turns out it patterned pretty close to Idaho and Wyoming.</span>So, while not super common anywhere, the flap is heard in all four states. It looks like Utah and Montana are pretty even at around 10% of the time. Meanwhile, Idaho and Wyoming are a little less at roughly 6% of the time. 
 
 
+## The <sc>cord-card</sc> Merger
 
+TODO
+
+## Vowels Before the *L* Sound
+
+TODO
+
+## A Few Other Vowels
+
+TODO
