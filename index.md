@@ -33,11 +33,11 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of August 29, 2022, I am…
+As of September 5, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Starting my first day of the semester! I'll be teaching, sociolinguistics, varieties of English, and linguistic data analysis.
+👨🏻‍🏫 Teaching sociolinguistics, varieties of English, and linguistic data analysis.
 
 <!--👨🏻‍🏫 Wrapping up my English Phonetics and Phonology (ELANG 327) and Research Methods (LING 604) courses.-->
 
@@ -48,8 +48,6 @@ As of August 29, 2022, I am…
 📝 Finalizing a manuscript on Georgia English.
 
 📝 Revising and resubmitting two papers (one on Pillai scores and the other on Order of Operations).
-
-📝 Finalizing proofs for a paper on BEG-raising.
 
 <!--📝 Working on a manuscript based on my dissertation (finally).-->
 
