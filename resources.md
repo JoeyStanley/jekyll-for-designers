@@ -8,7 +8,7 @@ toc: false
 
 On this page you'll find links to all sorts of stuff that I have found useful, including tutorials, books, and general reading on R and Praat, statistics, software, corpora, design, and other stuff.
 
-Note that I haven't really updated this page in a while [as of August 2022], so it may not include the latest resources and some links may be dead.
+Note that [as of September 2022] I haven't really updated this page since about 2019, so it may not include the latest resources and some links may be dead.
 
 <br/>
 
@@ -59,8 +59,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[R for Data Science](http://r4ds.had.co.nz/index.html)* by Garrett Grolemund & Hadley Wickham is a fantastic overview of tidyverse functions. 
 
-* *[Intro to Tidyverse](http://varianceexplained.org/r/intro-tidyverse/)* by David Robinson. 
-
 * *[Advanced R](https://adv-r.hadley.nz)* by Hadley Wickham with the [solutions](https://bookdown.org/Tazinho/Advanced-R-Solutions/) by Malte Grosser, Henning Bumann, Peter Hurford & Robert Krzyzanowski.
 
 * *[R Packages](http://r-pkgs.had.co.nz)* by Hadley Wickham. Also try Shannon Pileggi's tutorial called [*Your first R package in 1 hour*](https://www.pipinghotdata.com/posts/2020-10-25-your-first-r-package-in-1-hour/) to see some of these tools in action.
@@ -73,7 +71,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)* by [Rebecca Barter](http://www.rebeccabarter.com) is the tutorial on purrr that I wish I had.
 
-* *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress, but it's another free eBook that shows R and the Tidyverse.
+* *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress (as of June 2022), but it's another free eBook that shows R and the Tidyverse.
 
 * [Easystats](https://easystats.github.io/easystats/) "is a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models."
 
@@ -85,31 +83,31 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Handling Strings with R](http://www.gastonsanchez.com/r4strings/)* by Gaston Sanchez.
 
-* *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
+* If you use the CMU Pronouncing Dictionary, you should look at the *[phon](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)* package. It makes the whole thing searchable and easy to find rhymes. Personally, this'll make it a lot easier to find potential words for a word list.  
 
-* If you use the CMU Pronouncing Dictionary, you should look at the new *[phon](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)* package. It makes the whole thing searchable and easy to find rhymes. Personally, this'll make it a lot easier to find potential words for a word list.  
+* The [ggtext package](https://wilkelab.org/ggtext/) by [Claus O. Wilke](https://serialmentor.com/blog/) makes it a lot easier to work with text if you want to add a little bit of rich text to your plots.
 
-* The [ggtext package](https://github.com/clauswilke/ggtext) by [Claus O. Wilke](https://serialmentor.com/blog/) makes it a lot easier to work with text if you want to add a little bit of rich text to your plots.
-
+<!--
 ### Working with Twitter
 
 * *[21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/)* by Bob Rudis is a tutorial that illustrates how to extract and do a whole bunch of stuff with Twitter data in R.
 
 * *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
+-->
 
 ### RMarkdown, Bookdown, and Blogdown
+
+*Note: Now that [Quarto](https://quarto.org) is available, some of this material may be out of date.*
 
 * *[Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)* by Yihui Xie is a great resource for RMarkdown.
 
 * [*R Markdown: The Definitive Guide*](https://bookdown.org/yihui/rmarkdown/) Yihui Xie, J. J. Allaire, and Garrett Grolemund is the comprehensive guide to R Markdown and Bookdown. 
 
-* [15 Tips on Making Better Use of R Markdown](https://slides.yihui.org/2019-dahshu-rmarkdown#1) by Yihue Xie offers some very useful and practical tips for getting the most out of RMarkdown.
+* [15 Tips on Making Better Use of R Markdown](https://slides.yihui.org/2019-dahshu-rmarkdown#1) by Yihue Xie offers some very useful and practical tips for getting the most out of RMarkdown. (These are slides from a presentation in 2019.)
 
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
 * If your love for Zotero is what's preventing you from using RMarkdown, never fear! *[Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)* by [Ilya Kashnitsky](https://ikashnitsky.github.io) is the perfect guide to getting those two integrated.
-
-* Want to start your own blog entirely in R? Try Alison Hill's tutorial, [*Up & Running with blogdown*](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/), to get you started.
 
 * This is an excellent blog post by Rebecca Barter about how to start a blog and what kinds of things to do on it. [*Becoming an R blogger*](http://www.rebeccabarter.com/blog/2020-02-03_blogger/).
 
@@ -117,7 +115,9 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### GIS and Spatial Stuff
 
+<!-- (Looks good, but I can't find the updated link.)
 * *[Maps and Data Visualisations with R](http://spatial.ly/r/)* by [James Cheshire](http://spatial.ly/about/) is a treasure trove of tutorials on doing a whole bunch of maps in R.
+-->
 
 * *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org). 
 
@@ -465,6 +465,7 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 
 <br/>
 
+<!--
 ## Corpora
 
 For whatever reason, sometimes it's nice to uses data that already exists rather than collect your own. Here are just a few of the sites I've seen for downloading audio for (potential) linguistic research.
@@ -491,6 +492,7 @@ For whatever reason, sometimes it's nice to uses data that already exists rather
 * Jason Baumbartner has done the legwork to make [the entirety of Reddit](https://files.pushshift.io/reddit/) available for download. I worked with this data when he first released it in 2015, and it was about a 50-*billion* word corpus back then. Reddit has grown tremendously even since then so you're looking at some truly big data. Super cool. 
 
 <br/>
+-->
 
 ## Phonetics Resources
 
