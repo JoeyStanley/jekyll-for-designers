@@ -225,6 +225,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
     * [`dutchmasters`](github.com/EdwinTh/dutchmasters): Instead of coming up with your own colors, why not use ones created by Dutch painters? This is an R package by [Edwin Thoen](https://github.com/EdwinTh). 
 
+    * [`PrettyCols`](https://nrennie.rbind.io/blog/2022-09-02-introducing-prettycols/) by Nicola Rennie.
+
 * [Colors.css: A nicer color palette for the web](http://clrs.cc) look like nice, customizable colors that work great for websites. 
 
 #### Creating your own color palettes
