@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated August 8, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 15, 2022. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -106,6 +106,9 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 
 ### Other Publications
+
+**Joseph A. Stanley** (2022) "Order of Operations in Sociophonetic Analysis," University of Pennsylvania Working Papers in Linguistics: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
+<a href="https://repository.upenn.edu/pwpl/vol28/iss2/17/" class="link" target="_blank" title="link to this paper online"></a>
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
