@@ -114,7 +114,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38831/49-63%20Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-**Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
+**Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics*: Vol. 24: Iss. 2, Article 16. Available at: https://repository.upenn.edu/pwpl/vol24/iss2/16
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
 
 **Joseph A. Stanley** & [Kyle Vanderniet](https://clyguy.wixsite.com/profile) (2018). "Consonantal Variation in Utah English." *Proceedings of the 4th Annual Linguistics Conference at UGA*, 50--65. 
@@ -131,7 +131,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 <a href="http://www.linguistics.uga.edu/pacific-northwest-english-historical-overview-and-current-directions" class="link" target="_blank" title="link to this issue"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38074/WP2016_Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-**Stanley, Joseph A.** (2016). "When do Mormons Call Each Other by First Name?" *Penn Working Papers in Linguistics*, 22(1). 
+**Stanley, Joseph A.** (2016). "When do Mormons Call Each Other by First Name?" *Penn Working Papers in Linguistics*: Vol. 22: Iss. 1, Article 31. Available at: https://repository.upenn.edu/pwpl/vol22/iss1/31. 
 <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="link" target="_blank" title="link to repository.upenn.edu/pwpl/"></a>
 <a href="/downloads/160101-PWPL22.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
