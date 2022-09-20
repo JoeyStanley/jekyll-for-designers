@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of September 5, 2022, I am…
+As of September 20, 2022, I am…
 
 <!--Teaching-->
 
@@ -45,7 +45,7 @@ As of September 5, 2022, I am…
 
 <!--👨🏻‍🏫 Prepping a talk for ..... -->
 
-📝 Finalizing a manuscript on Georgia English.
+<!--📝 Finalizing a manuscript on Georgia English.-->
 
 📝 Revising and resubmitting two papers (one on Pillai scores and the other on Order of Operations).
 
