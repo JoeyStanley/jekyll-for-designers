@@ -130,7 +130,7 @@ Based on people's comments, it seems like many Utahns are under the impression t
 <img width = "100%" src="/images/plots/phonic/mountain_by_state.jpg">
 <br/>
 
-The data shows that all three variants are used in all three states. However, you'll notice that Idaho, Montana, and Wyoming have similar-looking patterns. Pay attention in particular to the height of the purple bars, representing <span style="color:#7570b3;">moun'n</span>. People from those three states typically pronounced *mountain* and similar words in the standard American English way, with a glottal stop and no vowel sound in the second syllable. You'll also hear <span style="color:#d95f02;">moun'in</span> in those three states, though not very often. Research has shown that this variant is not limited to Utah and can be found across the United States, so this is to be expected.
+The data shows that all three variants are used in all four states. However, you'll notice that Idaho, Montana, and Wyoming have similar-looking patterns. Pay attention in particular to the height of the purple bars, representing <span style="color:#7570b3;">moun'n</span>. People from those three states typically pronounced *mountain* and similar words in the standard American English way, with a glottal stop and no vowel sound in the second syllable. You'll also hear <span style="color:#d95f02;">moun'in</span> in those three states, though not very often. Research has shown that this variant is not limited to Utah and can be found across the United States, so this is to be expected.
 
 What strikes me though is that the hyperarticulated variant, <span style="color:#1b9e77;">mountain</span>, is the most common in Utah. Visually, it's the tallest bar in the Utah panel of the plot above. It seems like the stigma associated with the glottal stop in the other two variants has gotten to people. In Idaho, Montana, and Wyoming, you don't get this variant nearly as much; it seems like saying *mountain* with a nice clear *t* is a Utah thing. So, in a bit of irony, in an effort to avoid sounding like a Utahn (by saying <span style="color:#d95f02;">moun'in</span>), Utahns actually sound like Utahns (by overusing the hyperarticulated <span style="color:#1b9e77;">mountain</span>). Isn't that wild?
 
@@ -319,7 +319,7 @@ The other one I heard is that sometimes people put almost a vowel-like sound at 
 <br/>
 <i>polling</i>, <i>scaling</i>, <i>spelling</i>, <i>shelling</i>, <i>bowling</i>, <i>drilling</i>, <i>mulling</i>, <i>feeling</i>, <i>stealing</i>, <i>pulling</i>, <i>fooling</i>, <i>willing</i>, <i>sailing</i>, <i>chilling</i>, <i>kneeling</i>, <i>smelling</i>, <i>pooling</i>, <i>lulling</i>, <i>spooling</i>, <i>ceiling</i>, <i>wailing</i>
 <br/>
-(Albert, White, female, 1982, Idaho Falls, ID)
+(Albert, White, male, 1982, Idaho Falls, ID)
 </center>
 <br/>  
 
