@@ -150,7 +150,7 @@ So, next time you hear someone talking about *mountain* in Utah, you can tell th
 
 Something that I think has largely flown under the radar is the fact that, in some parts of the Mountain West, people put a *t* sound between *l* and *s* sounds, as in *faltse*, *eltse*, *saltsa*, *Cheltsea*, *Oltsen*, and *Neltson*. We'll call this *t*-insertion. I have a [collection of tapes](kohler-tapes-update.md) from rural Utahns born in the 1910s and 1920s and it seems to be quite common among those people. Is it as common today?
 
-As it turns out, no. Of the 2,476 words I've listened to so far, just 51 of them (2.1%) had *t*-insertion. Another 76 words (3.1%) sounded like there could have been a *t* but I wasn't sure<span class="sidenote">I'll have to do a more detailed phonetic analysis later.</span> so I decided to classify them as "maybe." Still, that means that about 95% of the data didn't have any indication of *t* insertion at all.
+As it turns out, no. Of the 2,476 words I've listened to so far, just 51 of them (2.1%) had *t*-insertion. Another 76 words (3.1%) sounded like there could have been a *t* but I wasn't sure<span class="sidenote">I'll have to do a more detailed phonetic analysis later.</span> so I decided to classify them as "maybe." Still, that means that about 95% of the data didn't have any indication of *t*-insertion at all.
 
 That's not to say it didn't happen at all. In fact, a couple people did it quite a bit. Here are a few examples (words with asterisks indicate *t* insertion):
 
@@ -181,7 +181,7 @@ That's not to say it didn't happen at all. In fact, a couple people did it quite
 </center>
 <br/>
 
-So it's not terribly common, but it's not a dead linguistic variant (yet). 
+This *t*-insertion appears to be the most common (or perhaps the least rare) in Utah, showing up in about 10% of the words there. In the other states, it's marginal at best.
 
 
 ## -ing
@@ -324,6 +324,23 @@ The other one I heard is that sometimes people put almost a vowel-like sound at 
 <br/>  
 
 For these last two, it's hard to tell whether their extra *h* or *uh* only happens after *ing* words, or if it happens more generally. Listening through the words, there are definitely people who add these sounds at the ends of other words too. I'll have to do some more listening and digging to see if it's just something that that person does after all/most words or if it really is something to do with *ing* words in particular.
+
+### Regional variation on ING
+
+Here's an overall view of the variants across the states:
+
+<img width = "100%" src="/images/plots/phonic/ing_variants_by_state.jpg">
+<br/>
+
+Overall, somewhat similar to each other. Some of the less common variants are more common in some states but not others, but at this point it's hard to say whether it's representative of the whole state or just the influence of one person there. 
+
+Again, focusing on Idaho, there did seem to be some differences within the state. I'll again show it compared to Utah:
+
+<img width = "100%" src="/images/plots/phonic/ing_by_idaho_region.jpg">
+<br/>
+
+It's a bit messy just because there are so many variants, but what stands out to me is that soutwestern Idaho (the purple bar) has the least amount of standard variants *ing* compared to northern and southwest Idaho and even Utah. Utah has more of the *g* and *k* variants than any region in Idaho, but where you hear the most of the other variants is all in southwest Idaho. Again, it's hard to say whether this is indicative of something going on in the entire region or if it's just the influence of a couple people, but I thought that pattern was interesting. 
+
 
 ### Final thoughts on ING
 
