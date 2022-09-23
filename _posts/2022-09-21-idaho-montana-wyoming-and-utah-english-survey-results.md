@@ -114,7 +114,7 @@ I know I've corrected some of my Utah accent since I've been gone for about twen
 So, what seems to be happening is that the stigma associated with the glottal stop in <span style="color:#d95f02;">moun'in</span> has spread to the glottal stop in <span style="color:#7570b3;">moun'n</span>---even though that's how most people say it. I don't know if I've ever seen another case where the mainstream, General American pronunciation is stigmatized. For a linguistic nerd like me, this is super fascinating.
 
 ### Variant 3: <span style="color:#1b9e77;">mountain</span>
-So, for people like Catherine who don't like the glottal stop, what do they do? They say the *t* in *moutain* very clearly. I call this the *hyperarticulated* variant, <span style="color:#1b9e77;">mountain</span>. Here's how Catherine said the word *mountain* in the wordlist:
+So, for people like Catherine who don't like the glottal stop, what do they do? They say the *t* in *moutain* very clearly. I call this the *hyperarticulated* variant, <span style="color:#1b9e77;">mountain</span>. Here's how Catherine said *mountain* and similar words in the wordlist:
 
 <center style = "font-size: 85%;">
 <audio src="/audio/ID_WY_MT_UT/mountain_hypercorrect_PhonicUT042-Catherine.mp3" controls preload></audio>
