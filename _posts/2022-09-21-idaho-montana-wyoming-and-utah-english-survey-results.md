@@ -398,3 +398,6 @@ Despite these examples where people do this a lot, pronouncing these words in th
 That's it for now! I'm sorry I wasn't able to explore more linguistic features. In particular, I'd like to start analyzing some vowels, but acoustic analysis of vowels takes more time and I wanted to get some results out to you in a reasonable amount of time. I will continue to update this page as I get more results, so be sure to check back every few months for new findings. 
 
 If you participated in this study, thank you! I gathered way more data than I anticipated, which is always a delight. If you did not participate in the survey and would like to, you can try taking it here. Note that it costs money to keep the survey active because of the third-party plugin I'm using to collect audio, so the survey won't be live for too much longer. Regardless, thanks for your interest in the project!
+
+<br/>
+<br/>
