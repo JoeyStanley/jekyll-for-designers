@@ -150,7 +150,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 Heather Johnson, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough. "Ducks in the pond: Elementary-school-age children's perception of Standard American English, African American English, and Spanish-accented English on scales of status and solidarity." The 47th Boston University Conference on Language Development (BUCLD). Boston, MA. November 3--6, 2022.
 
-**Joseph A. Stanley** & Betsy Sneller. "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. Stanford, CA. October 13--15, 2022.
+**Joseph A. Stanley** & Betsy Sneller. "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. San Jose, CA. October 13--15, 2022.
 
 Margaret E. L. Renwick, **Joseph A. Stanley**, Jon Forrest, & Lelia Glass. "A Mid-Century Peak for the Southern Vowel Shift: Evidence from Georgia." LabPhon 18. Online. June 23--25, 2022. 
 
