@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of September 20, 2022, I am…
+As of October 4, 2022, I am…
 
 <!--Teaching-->
 
@@ -49,13 +49,15 @@ As of September 20, 2022, I am…
 
 📝 Revising and resubmitting two papers (one on Pillai scores and the other on Order of Operations).
 
+📝 Preparing a talk for NWAV50 on Pillai scores (with Betsy Sneller)
+
 <!--📝 Working on a manuscript based on my dissertation (finally).-->
 
 <!--😅 Trying to finish up some of the projects I was hoping to finish this summer.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
-🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West. Stay tuned for a blog post about Idaho, Montana, Wyoming, and Utah Englishes!
+🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West. 
 
 
 
