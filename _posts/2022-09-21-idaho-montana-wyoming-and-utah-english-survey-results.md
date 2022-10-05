@@ -7,6 +7,8 @@ tags: [Research, Utah, West]
 
 Between April and July, I distributed a survey to people in Idaho, Montana, Wyoming, and Utah, asking them to record themselves reading a bunch of words and answering some open-ended questions about language. The results from this study will be published in more academic venues, but for now I wanted to explain in non-academic terms what the basic, preliminary results are from that study. 
 
+If you haven't taken the survey yet and you want to, you can do so by clickin [here](https://byu.az1.qualtrics.com/jfe/form/SV_1UeqqeZFuNxD1e6).
+
 ## Overview of the study
 
 I set up a study to analyze pronunciation in Idaho, Montana, Wyoming, and Utah. Of the four states, Utah has been reseached the most by linguists. There have been very occasional studies on word choice and grammar in the other states over the last century, but the number of studies on actual pronunciation can be counted on one hand: two in Idaho, two in Montana, and zero in Wyoming. So, this study aims to give a basic first look at what's going on.
@@ -397,7 +399,7 @@ Despite these examples where people do this a lot, pronouncing these words in th
 
 That's it for now! I'm sorry I wasn't able to explore more linguistic features. In particular, I'd like to start analyzing some vowels, but acoustic analysis of vowels takes more time and I wanted to get some results out to you in a reasonable amount of time. I will continue to update this page as I get more results, so be sure to check back every few months for new findings. 
 
-If you participated in this study, thank you! I gathered way more data than I anticipated, which is always a delight. If you did not participate in the survey and would like to, you can try taking it here. Note that it costs money to keep the survey active because of the third-party plugin I'm using to collect audio, so the survey won't be live for too much longer. Regardless, thanks for your interest in the project!
+If you participated in this study, thank you! I gathered way more data than I anticipated, which is always a delight. If you did not participate in the survey and would like to, you can try taking it [here](https://byu.az1.qualtrics.com/jfe/form/SV_1UeqqeZFuNxD1e6). Note that it costs money to keep the survey active because of the third-party plugin I'm using to collect audio, so the survey won't be live for too much longer. Regardless, thanks for your interest in the project!
 
 <br/>
 <br/>
