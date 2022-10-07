@@ -144,7 +144,11 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
+(* indicates student collaborator)
+
 **Joseph A. Stanley** & Brett Hashimoto. "Dialect mapping of grammatical features in North American English using a corpus of geotagged Youtube transcriptions." American Association for Applied Linguistics Conference. Portland, OR. March 18--21, 2023. 
+
+**Joseph A. Stanley** & KaTrina Jackson*. "Is Idaho English really 'the Epitome of Average English'?". The American Dialect Society Annual Meeting. Washington, D.C., January 5--8, 2023. 
 
 **Joseph A. Stanley**. "Utahns sound Utahn when they avoid sounding Utahn." The 97th Annual Meeting of the Linguistic Society of America. Denver, CO. January 5--8, 2023.
 
