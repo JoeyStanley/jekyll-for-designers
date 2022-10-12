@@ -74,6 +74,8 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Refereed Articles
 
+**Joseph A. Stanley** (accepted). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard*
+
 **Joseph A. Stanley** (accepted). "Regional patterns in prevelar raising." *American Speech*.
 <a href="/downloads/210409-regional_prevelar.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
