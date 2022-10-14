@@ -13,32 +13,6 @@ This page highlights some of my research, organized thematically. I am a dialect
 
 <br/>
 
-## Cowlitz County, Washington
-
-<img class="research-img" src="images/projects/cowlitz.png" alt="Cowlitz County">
-In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www.google.com/maps/place/Cowlitz+County,+WA/@46.1203776,-123.0089545,10z/data=!3m1!4b1!4m5!3m4!1s0x549415fb272f02b1:0x925df86af59a9d68!8m2!3d46.1746472!4d-122.7746902), and since not a lot of research is done in the Pacific Northwest, I've been trying to document the English spoken there. In my dissertation, I showed that the younger people are shifting their front lax vowels like in other parts of the US and Canada. I've also done a couple spin-off studies on <sc>bag</sc>-raising, prelateral mergers, and prerhotic mergers. It's a fun area and look forward to uncovering more detail on southwest Washington!
-
-<h3>CV Highlights</h3>
-
-**Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
-<a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
-
-**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
-<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
-
-**Joseph A. Stanley** (2020). "Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Ph.D Dissertation. University of Georgia, Athens, GA.
-<a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a>
-
-**Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
-<a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
-
-
-<br/>
-
----------------------------------------------------------
-
-<br/>
-
 ## Utah English
 <img class="research-img" src="images/projects/utah.jpg" alt="Utah">
 
@@ -58,6 +32,32 @@ Another area I focus on in the West is Utah. I worked on a <a href="/downloads/1
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/stanley-and-vanderniet.pdf?sequence=8&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 Also, keep an eye out for blog posts tags with [***Utah***](/tags/index#Utah)!
+
+
+<br/>
+
+---------------------------------------------------------
+
+<br/>
+
+## Cowlitz County, Washington
+
+<img class="research-img" src="images/projects/cowlitz.png" alt="Cowlitz County">
+In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www.google.com/maps/place/Cowlitz+County,+WA/@46.1203776,-123.0089545,10z/data=!3m1!4b1!4m5!3m4!1s0x549415fb272f02b1:0x925df86af59a9d68!8m2!3d46.1746472!4d-122.7746902), and since not a lot of research is done in the Pacific Northwest, I've been trying to document the English spoken there. In my dissertation, I showed that the younger people are shifting their front lax vowels like in other parts of the US and Canada. I've also done a couple spin-off studies on <sc>bag</sc>-raising, prelateral mergers, and prerhotic mergers. It's a fun area and look forward to uncovering more detail on southwest Washington!
+
+<h3>CV Highlights</h3>
+
+**Joseph A. Stanley**. "Beyond Midpoints: Vowel Dynamics of the Low-Back-Merger Shift." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021. 
+<a href="/downloads/211129-ASA2021-trajs.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+
+**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
+<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
+
+**Joseph A. Stanley** (2020). "Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Ph.D Dissertation. University of Georgia, Athens, GA.
+<a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a>
+
+**Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
+<a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
 
 
 <br/>
@@ -106,14 +106,18 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ## Methods in Sociophonietic Data Analysis
 
-I'm increasingly becoming preoccupied with how sociophoneticians process their data. I've noticed I mostly point out problems without offering many solutions though. 
+I'm increasingly becoming preoccupied with how sociophoneticians process their data.
 
+**Joseph A. Stanley** & Betsy Sneller (2022). "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. San Jose, CA. October 14.
+<a href="/downloads/221014-NWAV50_pillai.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+<!--
 **Joseph A. Stanley** & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
 <a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+-->
 
-**Joseph A. Stanley**. "Order of Operations in Sociophonetic Data Analysis." New Ways of Analyzing Variation. Online. October 19--24, 2021.
-<a ref="https://www.youtube.com/watch?v=8TEip-Fixyw" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
-<a href="/downloads/211019-NWAV49_OoO.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
+**Joseph A. Stanley** (2022) "Order of Operations in Sociophonetic Analysis," University of Pennsylvania Working Papers in Linguistics: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
+<a href="https://repository.upenn.edu/pwpl/vol28/iss2/17/" class="link" target="_blank" title="link to this paper online"></a>
 
 
 
