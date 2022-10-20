@@ -176,6 +176,8 @@ I'm interested in phenomena on the margins of English phonology. There are some 
 
 ### CV Highlights
 
+**Joseph A. Stanley** (2022). "Regional patterns in prevelar raising." *American Speech*. 97(3): 374--411. [http://doi.org/10.1215/00031283-9308384](97(3): 374--411. http://doi.org/10.1215/00031283-9308384).
+
 **Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
 <a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -184,9 +186,6 @@ I'm interested in phenomena on the margins of English phonology. There are some 
 **Joseph A. Stanley** (2019). "Phonological Patterns in <sc>beg</sc>-Raising." *UGA Working Papers in Linguistics*, 4, 69--91.
 <a href="https://ling.franklin.uga.edu/wp2019-Stanley" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38626/WP2019_Stanley.pdf?sequence=2&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
-
-**Joseph A. Stanley** (2019). "Are <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>-raising distinct? Regional patterns in prevelar raising in North American English." American Dialect Society Annual Meeting. New York City, NY.
-<a href="/downloads/190104-ads2019_prevelar.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
