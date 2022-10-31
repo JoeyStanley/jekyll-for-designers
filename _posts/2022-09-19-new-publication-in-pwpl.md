@@ -2,7 +2,7 @@
 layout: post
 title: "New publication in the Penn Working Papers in Linguistics"
 date: 2022-09-19 22:11:00 -0600
-tags: [Methods, Research, Vowel Overlap]
+tags: [Methods, Research, Publications, Vowel Overlap]
 ---
 
 I've just been informed that a manuscript I submitted to the *Penn Working Papers in Linguistics* has been published! It's called "Order of Operations in Sociophonetic Analysis" and is available [here](https://repository.upenn.edu/pwpl/vol28/iss2/17/). In a nutshell, I discuss the various processing steps that are typical of a sociophonetic analysis an I show that changing the order that you run them can have a non-negligible impact on the overall results. I end the paper with a recommended order that we can use.

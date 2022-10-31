@@ -2,7 +2,7 @@
 layout: post
 title: "New publication in the latest PADS volume"
 date: 2020-12-04 22:11:00 -0600
-tags: [Pacific Northwest, Research, West]
+tags: [Pacific Northwest, Publications, Research, West]
 ---
 
 This week I finally got to lay my hands on a physical copy of my latest publication! It's called ["The Absence of a Religiolect among Latter-day Saints in Southwest Washington"](https://read.dukeupress.edu/pads/article/105/1/95/167300/6-The-Absence-of-a-Religiolect-Among-Latter-Day) and it's in the latest Publication of the American Dialect Society, [*Speech in the Western States Volume III: Understudied Dialects*](https://read.dukeupress.edu/pads/issue/105/1) by Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall. The physical copy was delivered to my office about two weeks ago, but my wife and daughter had just tested positive for covid-19 (they're fine---very mild symptoms) so I was only just now able to see it now that my two-week quarantine is over. 
