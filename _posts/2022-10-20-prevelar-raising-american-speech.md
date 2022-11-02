@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prevelar raising paper published in <i>American Speech</i>
-date: 2022-11-02 28:45:00 -0600
+date: 2022-11-02 08:45:00 -0600
 tags: [Publications, Research]
 ---
 
