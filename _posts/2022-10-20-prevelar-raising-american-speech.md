@@ -32,6 +32,7 @@ I take careful notes of when my projects hit major milestones. I figued I'd shar
 * June 8, 2021: Returned the manuscript. I was told by *American Speech* that there's a bit of a backlog, so it'd come out in 2022. 
 * August 26, 2022: Got proofs from *American Speech*.
 * October 19, 2022: Got the physical copy in the mail!
+* November 2, 2022: I noticed it was published online!
 
 <br>
 So from the start of the idea until publication was just about five years. I don't really work on prevelar raising anymore, and this was a side project I wanted to get done quickly in grad school. It's just interesting that a project I started so long ago and presented first as a grad student was used as a writing sample for job appications, and now it'll go in my tenure portfolio! I've had a few papers that I started after this one come out already, but I guess I'm particilarly excited about this because it was my first manuscript submitted to a peer-reviewed journal.
