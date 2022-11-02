@@ -49,7 +49,7 @@ This is basically impossible to print in black and white though, so I was asked 
 
 <img width = "85%" src="/images/plots/prevelar/stanley2022_figure9_bw.png">
 
-Unfortunately, it looks like the Figure 9 in my physical copy is just a black-and-white version of the online map, rather than the one specifically for print. This is especially confusing because the print version specifically mentions the slashes even though they're not there. Oh well: more people will read the online version anyway.
+Unfortunately, it looks like the Figure 9 in my physical copy is just a black-and-white version of the online map, rather than the one specifically for print. This is especially confusing because the print version specifically mentions the slashes even though they're not there. Oh well. More people will read the online version anyway.
 
 ### Boustrophedonic plots
 
