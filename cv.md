@@ -154,7 +154,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 **Joseph A. Stanley**. "Utahns sound Utahn when they avoid sounding Utahn." The 97th Annual Meeting of the Linguistic Society of America. Denver, CO. January 5--8, 2023.
 
-Heather Johnson, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough. "Ducks in the pond: Elementary-school-age children's perception of Standard American English, African American English, and Spanish-accented English on scales of status and solidarity." The 47th Boston University Conference on Language Development (BUCLD). Boston, MA. November 3--6, 2022.
+Heather Johnson, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough. "Ducks in the pond: Elementary-school-age children's perception of Standard American English, African American English, and Spanish-accented English on scales of status and solidarity." The 47th Boston University Conference on Language Development (BUCLD). Boston, MA. November 4, 2022.
 
 **Joseph A. Stanley** & Betsy Sneller. "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. San Jose, CA. October 14, 2022.
 <a href="/downloads/221014-NWAV50_pillai.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
