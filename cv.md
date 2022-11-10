@@ -260,6 +260,8 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 (* indicates student collaborator)
 
+Margaret E. L. Renwick, Jon Forrest, Lelia Glass, & **Joseph A. Stanley**. "Vowel trajectories of African Americans in Georgia, USA." Poster presentation at the 183rd Meeting of the Acoustical Society of America (ASA). Nashville, TN. December 9, 2022. 
+
 **Joseph A. Stanley**, Jessica Shepherd\*, & Auna Nygaard\*. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
 <a href="/downloads/220107-ADS-MTurk.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
