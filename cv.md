@@ -560,29 +560,37 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ## Teaching
 
-### At Brigham Young University
+### At Brigham Young University (as faculty)
 
 Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020, Fall 2021.
 
-English Phonetics & Phonology (ELANG 327). Winter 2022.
+English Phonetics & Phonology (ELANG 327). Winter 2022, Winter 2023.
 
 Linguistic Tools 1 (LING 240). Fall 2020, Fall 2021.
 
 Intro to Sociolinguistics (LING 452). Winter 2021 (×2).
 
-Sociolinguistics (LING 550). Winter 2021, Fall 2021.
+African American English (LING 495R). Spring 2023.
+
+Sociolinguistics (LING 550). Winter 2021, Fall 2021, Fall 2022.
+
+Linguistic Data Analysis (LING 580R). Fall 2022 (with Earl Brown).
+
+Sociolinguistic Fieldwork (LING 580R). Winter 2023 (with Lisa Johnson).
 
 Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey), Winter 2022.
-
-Linguistic Computing and Programming 1 (LINGC 220). Teaching Assistant for Jason Dzubak. Winter 2013.
-
-Basic Humanities Computing Skills (LINGC 200). Teaching Assistant for Monte Shelley. Fall 2011, Winter 2012, Fall 2012.
 
 ### At the University of Georgia
 
 Phonetics and Phonology (LING 3060). Fall 2017, Spring 2019.
 
 Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peggy Renwick. Spring 2017.
+
+### At Brigham Young University (as a student)
+
+Linguistic Computing and Programming 1 (LINGC 220). Teaching Assistant for Jason Dzubak. Winter 2013.
+
+Basic Humanities Computing Skills (LINGC 200). Teaching Assistant for Monte Shelley. Fall 2011, Winter 2012, Fall 2012.
 
 <br/>
 <br/>
