@@ -596,26 +596,26 @@ Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peg
 
 ### MA Thesis Chair
 
-Chad Huckvale (MA, Linguistics)
+Chad Huckvale (MA, Linguistics, *current*). Thesis title: *Utah English: A Perceptual Dialectology Study*
 
 ### MA Thesis Committee Member
 
-Rebecca Brenkman (MA, Linguistics)
+Rebecca Brenkman (MA, Linguistics, *current*): *Afrikaans Taboo Words: Offensiveness Ranking and Reflections of Usage*
 
-Ammon Hunt (MA, TESOL)
+Ammon Hunt (MA, TESOL, *current*). Thesis title: *Pausing Patterns in American English*
 
-Heather Johnson (MA, Linguistics)
+Ying Suet Michelle Lung (MA, TESOL, 2022). Thesis title: *The Impact of Rubric Training on Students' Self-Efficacy and Self-Regulated Learning*
 
-Michelle Lung (MA, TESOL)
+Heather Johnson (MA, Linguistics, 2022). Thesis title: *Ducks in the pond: Elementary-school-age children’s perceptions of Standard American English, African American English, and Spanish-accented English on scales of status and solidarity*
 
 ### Undergraduate Honors Thesis Chair
 
-Joshua Stevenson (BA, Linguistics)
+Joshua Stevenson (BA, Linguistics, current). Thesis title: *The "Missionary Voice": Bona Fide Sociolect or Figment of the Mormon Linguistic Imagination?*
 
 ### Other Positions
 
 <!--2018-->
-Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: "Conditioned Front Vowel Mergers in the American South." (Graduate Thesis Reader)
+Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: *Conditioned Front Vowel Mergers in the American South* (Graduate Thesis Reader)
 
 
 <br/>
