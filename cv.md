@@ -44,9 +44,11 @@ Instructional Designer, Brigham Young University. March--May, 2020.
 
 ### At Brigham Young University
 
+BYU College of Humanities Research Funding ($2,500). "Idaho English." 
+
 John Topham and Susan Redd Butler BYU Faculty Research Award ($2,000), awarded by the Charles Redd Center for Western Studies. "The Development of Utah English in Heber City."
 
-BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States." (Six research assistants hired as transcribers.)
+BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States."
 
 ### At the University of Georgia
 
