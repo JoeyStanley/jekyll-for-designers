@@ -701,7 +701,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *Language and Speech* (2021)
 
-*Language Variation and Change* (2020)
+*Language Variation and Change* (2020, 2022)
 
 *Linguistics Vanguard* (2021, 2022 (×2))
 
