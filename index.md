@@ -33,15 +33,17 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of November 29, 2022, I am…
+As of December 12, 2022, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Teaching sociolinguistics, varieties of English, and linguistic data analysis.
+👨🏻‍🏫 Wrapping up sociolinguistics, varieties of English, and linguistic data analysis.
+
+👨🏻‍🏫 Prepping to teach Sociolinguistics Field Methods and English Phonetics & Phonology next semester
 
 <!--Research-->
 
-<!--👨🏻‍🏫 Prepping a talk for ..... -->
+👨🏻‍🏫 Prepping a talks for LSA and ADS.
 
 <!--📝 In the throes of a third round of revisions on a paper on Pillai scores.-->
 
