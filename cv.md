@@ -82,15 +82,15 @@ Stefano Coretta, Joseph V. Casillas, Simon Roessig, Michael Franke, [126 other a
 -->
 
 **Joseph A. Stanley** & Betsy Sneller (accepted). "Sample Size Matters in Calculating Pillai Scores." *Journal of the Acoustical Society of America.*
-<a href="/downloads/221202-Pillai-preprint.pdf" class="link" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="/downloads/221202-Pillai-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2022). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard*. [https://doi.org/10.1515/lingvan-2022-0065](https://doi.org/10.1515/lingvan-2022-0065).
 <a href="https://doi.org/10.1515/lingvan-2022-0065" class="link" target="_blank" title="link to this paper online"></a>
-<a href="/downloads/221011-OoOII-preprint.pdf" class="link" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="/downloads/221011-OoOII-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2022). "Regional patterns in prevelar raising." *American Speech*. 97(3): 374--411. 97(3): 374--411. [http://doi.org/10.1215/00031283-9308384](http://doi.org/10.1215/00031283-9308384).
 <a href="http://doi.org/10.1215/00031283-9308384" class="link" target="_blank" title="link to this paper online"></a>
-<a href="/downloads/210409-regional_prevelar.pdf" class="link" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="/downloads/210409-regional_prevelar.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2022). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* Linguistics Society at UGA, Athens, GA. 
 <a href="https://linguistics.uga.edu/cp2019-stanley" class="link" target="_blank" title="link to this paper online"></a>
