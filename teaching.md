@@ -8,7 +8,8 @@ title: Teaching
 In the 2022--2023 academic year, I'll teach…
 
 * ELING 327: English Phonetics and Phonology
-* ELING 468: Varities of English
+* ELING 468: Varieties of English
+* LING/ELING 495R: African American English
 * LING 550: Sociolinguistics
 * LING 580R: Linguistic Data Analysis (with Earl Brown)
 * LING 580R: Sociolinguistic Fieldwork (with Lisa Johnson)
