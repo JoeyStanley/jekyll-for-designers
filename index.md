@@ -33,11 +33,9 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of December 12, 2022, I am…
+As of December 26, 2022, I am…
 
 <!--Teaching-->
-
-👨🏻‍🏫 Wrapping up sociolinguistics, varieties of English, and linguistic data analysis.
 
 👨🏻‍🏫 Prepping to teach Sociolinguistics Field Methods and English Phonetics & Phonology next semester
 
@@ -66,4 +64,4 @@ As of December 12, 2022, I am…
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
-🎹 Prepping some Christmas organ music.
+<!--🎹 Prepping some Christmas organ music.-->
