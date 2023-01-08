@@ -81,7 +81,8 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 Stefano Coretta, Joseph V. Casillas, Simon Roessig, Michael Franke, [126 other authors], **Joseph A. Stanley**, [23 other authors], & Timo B. Roettger (submitted)."Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses." *Advances in Methods and Practices in Psychological Sciences*.
 -->
 
-**Joseph A. Stanley** & Betsy Sneller (accepted). "Sample Size Matters in Calculating Pillai Scores." *Journal of the Acoustical Society of America.*
+ **Joseph A. Stanley** & Betsy Sneller. 2023. Sample size matters in calculating Pillai scores. *Journal of the Acoustical Society of America* 153(1). 54--67. https://doi.org/10.1121/10.0016757.
+<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0016757" class="link" target="_blank" title="link to this paper online"></a>
 <a href="/downloads/221202-Pillai-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2022). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard*. [https://doi.org/10.1515/lingvan-2022-0065](https://doi.org/10.1515/lingvan-2022-0065).
