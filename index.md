@@ -33,17 +33,19 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of January 3, 2023, I am…
+As of January 9, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Prepping to teach Sociolinguistics Field Methods and English Phonetics & Phonology next semester
+👨🏻‍🏫 Just starting my Sociolinguistics Field Methods (with Lisa Johnson) and English Phonetics & Phonology courses!
 
 <!--Research-->
 
-👨🏻‍🏫 Prepping a talks for LSA and ADS.
+🥱 Recovering after an exhausting but fantastic LSA/ADS conference.
 
-<!--📝 Writing... -->
+📝 With some colleagues, making revisions to a manuscript about Georgia English over time.
+
+🗒️ Making plans for what my next publications should be and were I should submit them.
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
@@ -51,13 +53,17 @@ As of January 3, 2023, I am…
 
 
 
+
+
 <!--Reading-->
 
-<!--📖 Reading Laver (1980) *The Phonetic Description of Voice Quality*.-->
+📖 Reading Eckert (2018) *Meaning and Linguistic Variation*.
+
+📖 Reading Grieser (2022) *The Black Side of the River*. 
 
 
 <!--Personal-->
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
-<!--🎹 Prepping some Christmas organ music.-->
+🎹 Prepping some organ hymns, prelude, and a solo for a big church meeting coming up. 
