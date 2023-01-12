@@ -210,7 +210,7 @@ Jon Forrest, Margaret E. L. Renwick, **Joseph A. Stanley**, & Lelia Glass. "Cons
 **Joseph A. Stanley**. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
 <a href="/downloads/191004-LCUGA6.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-William A. Kretzschmar, Jr. & **Joseph A. Stanley**. "Visualization of Big Data Phonetics." [Digitial Humanities Confernce 2019](https://dh2019.adho.org). Utrecht, the Netherlands. July 9–12, 2019. 
+William A. Kretzschmar, Jr. & **Joseph A. Stanley**. "Visualization of Big Data Phonetics." [Digital Humanities Conference 2019](https://dh2019.adho.org). Utrecht, the Netherlands. July 9–12, 2019. 
 
 **Joseph A. Stanley**. "Are <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>-raising distinct? Regional patterns in prevelar raising in North American English." American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190104-ads2019_prevelar.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
