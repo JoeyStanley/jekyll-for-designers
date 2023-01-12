@@ -128,7 +128,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
-<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38831/49-63%20Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="https://esploro.libs.uga.edu/esploro/outputs/conferencePaper/thr-Flapping-in-American-English-Social-factors/9949315918102959/filesAndLinks?index=0" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics*: Vol. 24: Iss. 2, Article 16. Available at: https://repository.upenn.edu/pwpl/vol24/iss2/16
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
