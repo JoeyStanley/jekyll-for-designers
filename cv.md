@@ -731,6 +731,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *Studia Linguistica Universitatis Iagellonicae Cracoviensis* (2021)
 
+*University of Georgia Working Papers in Linguistics* (2023)
+
 
 ### Abstract Reviewer
 
