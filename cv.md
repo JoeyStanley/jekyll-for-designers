@@ -40,29 +40,6 @@ Instructional Designer, Brigham Young University. March--May, 2020.
 
 
 
-## Grants
-
-### At Brigham Young University
-
-BYU College of Humanities Research Funding ($2,500). "Idaho English." 
-
-John Topham and Susan Redd Butler BYU Faculty Research Award ($2,000), awarded by the Charles Redd Center for Western Studies. "The Development of Utah English in Heber City."
-
-BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States."
-
-### At the University of Georgia
-
-Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
-
-Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
-
-Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
-
-University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
-
-<br/>
-
-
 ## Publications
 
 ### Edited Volumes
@@ -578,23 +555,23 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### At Brigham Young University (as faculty)
 
-Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020, Fall 2021.
+African American English (LING 495R). Spring 2023.
 
 English Phonetics & Phonology (ELANG 327). Winter 2022, Winter 2023.
 
-Linguistic Tools 1 (LING 240). Fall 2020, Fall 2021.
-
 Intro to Sociolinguistics (LING 452). Winter 2021 (×2).
 
-African American English (LING 495R). Spring 2023.
-
-Sociolinguistics (LING 550). Winter 2021, Fall 2021, Fall 2022.
+Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020, Fall 2021.
 
 Linguistic Data Analysis (LING 580R). Fall 2022 (with Earl Brown).
 
-Sociolinguistic Fieldwork (LING 580R). Winter 2023 (with Lisa Johnson).
+Linguistic Tools 1 (LING 240). Fall 2020, Fall 2021.
 
 Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey), Winter 2022.
+
+Sociolinguistic Fieldwork (LING 580R). Winter 2023 (with Lisa Johnson).
+
+Sociolinguistics (LING 550). Winter 2021, Fall 2021, Fall 2022.
 
 ### At the University of Georgia
 
@@ -653,6 +630,26 @@ Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantsh
 
 ## Funding and Awards
 
+## Grants
+
+BYU College of Humanities Research Funding ($2,500). "Idaho English." 
+
+John Topham and Susan Redd Butler BYU Faculty Research Award ($2,000), awarded by the Charles Redd Center for Western Studies. "The Development of Utah English in Heber City."
+
+BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States."
+
+Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
+
+American Dialect Society student travel grant. ADS. Salt Lake City, UT. January 2018.
+
+Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
+
+Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
+
+University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
+
+<br/>
+
 ### Research Assistantships
 
 Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia (\$17,664 per year). Split time between the [Linguistic Atlas Project](http://www.lap.uga.edu) and the [DigiLab](http://digi.uga.edu/digilab/), under the direction of [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail) and [Emily McGinn](https://emilymcginn.com). 2016--2020.
@@ -673,8 +670,6 @@ Linguistic Atlas Project travel award. ADS and LSA. Salt Lake City, UT. January 
 
 University of Georgia Graduate School travel award. NWAV47. New York City, NY. October, 2018.
 
-American Dialect Society student travel grant. ADS. Salt Lake City, UT. January 2018.
-
 Linguistic Atlas Project travel award. ADS. Salt Lake City, UT. January 2018.
 
 University of Georgia Department of Linguistics travel award. NWAV46. Madison, WI. November, 2017.
@@ -687,7 +682,7 @@ University of Georgia Graduate School travel award. ADS. Austin, TX. January, 20
 
 University of Georgia Linguistics Program travel award. ADS. Austin, TX. January, 2016. 
 
-Brigham Young University Department of Linguistics and English Language Conference Travel Grant. SSILA. January, 2013. 
+Brigham Young University Department of Linguistics and English Language conference travel grant. SSILA. January, 2013. 
 
 
 ### Other Employment
