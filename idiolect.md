@@ -7,11 +7,11 @@ title: My Idiolect
 
 Here is a never-complete but growing description of my idiolect. I'll add to it whenever I think of or discover new things about the way I speak English.
 
-## Pronunciation
+## Overview
 
 I don't like it when people say they don't have an accent, however, my pronunciation is pretty close to what I'd call standard American English. I grew up in St. Charles County, Missouri, which is a suburb of St. Louis. You can read Matt Gordon and Chris Strelluf's work for an in-depth analysis of Missouri English. See also Dan Duncan's research which is focuses specifically on St. Charles County for an even closer match to my speech. My mom grew up in Minnesota and my dad grew up in Upstate New York and Minnesota. 
 
-### Vowels
+## Vowels
 
 Here is a general look at my monophthongs. These come from a recording of me reading a bunch of real and nonce words where the vowel is flanked by coronals. (You can access this dataset with my [joeysvowels](https://joeystanley.github.io/joeysvowels/) package.)
 
@@ -19,7 +19,7 @@ Here is a general look at my monophthongs. These come from a recording of me rea
 
 As far as I can tell, I don't have really any indication of any of the chain shifts that people are studying. Even though I grew up in the St. Louis Corridor, I don't have the Northern Cities Shift. I also don't have the Low-Back-Merger or the Low-Back-Merger Shift. 
 
-#### My lack of a *cot*-*caught* merger
+### My lack of a *cot*-*caught* merger
 
 My <sc>lot</sc> and <sc>thought</sc> vowels are rather close phonetically but are definitely not merged. <sc>Lot</sc> is slightly fronter and unrounded while <sc>thought</sc> is slightly backer and rounded. They are very close to what Jonathan Dowse transcribes as \[ɐ̞\] and \[ɒ̈\] [here](https://jbdowse.com/ipa/). 
 
@@ -29,20 +29,20 @@ Like a lot of Americans even with the distinction, *dog* is <sc>thought</sc>, as
 
 Prelaterally, I have a conditioned merger, which is best described in [Aaron Dinkin's (2016) JEngL paper](https://doi.org/10.1177/0075424216634795). (Aaron's paper is based in Upstate New York, close to where my dad is from, so perhaps this is something I've gotten from him.) I have <sc>lot</sc> if the vowel is in an open syllable (and the following lateral is the onset of the following syllable), as in *collar*, *dollar*, *anthropology*, *ollie*, and *trolley*. In fact, I have a rather fronted vowel, fronter than my <sc>lot</sc> normally is. However, I have <sc>thought</sc> if the lateral is tautosyllabic, as in *golf*, *dolphin*, *volume*, and *doll*. Thus, words like *doll* & *hall* rhyme, while *hollar* & *hauler* and *collar* & *caller* do not. You can hear me pronounce these words in the video in [this tweet](https://twitter.com/joey_stan/status/1440022805039353856?s=20&t=RLBVBLgh7rnp0TMTUqnObg).
 
-#### /æ/ and /ɛ/ before nasals
+### /æ/ and /ɛ/ before nasals
 
 I raise /æ/ before nasals. Before /n/ and /m/, it's raised, fronted, and nasalized, such that *ban* is definitely not the same as *bat* or even *bad*. Before /ŋ/, it's raised even higher to the point that naive me would classify the vowel in *bang* as /e/. In fact, I'm not actually 100% convinced that it even is /æ/ underlyingly; I may have rephonologized it as being truly /e/.
 
 As I point out on [page 74 of my dissertation](/downloads/200417-dissertation-revised.pdf), there are very few words with /ɛɡ/. A nearly complete list, as far as I know, is *length*, *lengthen*, *strength*, *strengthen*, *penguin*, *dengue*, and *Bengal (tiger)*. For what it's worth, those vowels are the same as /æŋ/, so that *bang* and the first syllable of *Bengal* are the same for me. 
 
-#### *beg*-raising
+### *beg*-raising
 
 As I explain on page 400 of [my 2022 *American Speech* paper on prevelar raising](http://doi.org/10.1215/00031283-9308384), I raise historic /ɛɡ/ to something like [eɪɡ] such that *beg*, *egg*, *leg*, and *Greg* all rhyme with *vague*. It happens in open syllables like in *legacy*, *negative*, and *megaphone*. It occurs in some infrequent words like *renege*. I've also got it when the vowel has secondary stress, like in *Winnipeg*, *stegosaurus*, and *nutmeg*. 
 
 However, there are a handful of exceptions, which was a major part of the reason why I did that paper in the first place. For an unclear reason to me, *integrity*, *segregate*, *interregnum*, and *segment* all have [ɛ]. I noticed that the /ɡ/ in those words are all followed by sonorants, but that's not a guarantee blocker of raising since *regulate*, *pregnant*, and *segue* are raised. Interestingly, *negligible* is raised but *negligent* is not. Also, *peg* is raised but *JPEG* is not. Finally, any word with \<x\> pronounced as [ɡz] (yes, it's voiced for me) like *exit*, *exile*, *excerpt*, and *exigence* are firmly \[ɛ\] and not \[e\].
 
 
-#### Rosa's Roses
+### Rosa's Roses
 
 I don't know the technical term for this, but I have two, possibly three, unstressed vowels, such that *Rosa's* and *roses* aren't homophonous to me. The first has [ə] while the second is what I'd transcribe as [ɨ]. 
 
@@ -55,7 +55,7 @@ Word-internally though, I haven't done enough digging to see if there are any pa
 As for a possible third one, I have some [ʊ]-like vowel in words like *success*, *support*, and *suggest*. It seems like word-initial \<su\> might be the environment, but I also get it in *to*. I'll have to dig a little deeper to think of other examples. 
 
 
-#### Prelaterals
+### Prelaterals
 
 I have lost the ability to intuit what's going on with my back vowels before laterals, but I'll try to explain what I think I have. I know I merge /ʊl/ with /ol/, so that *pull* and *pole* are homophonous. However, it's the /ʌl/ class that is really tricky for me. When it's in a closed syllable, like in *hull*, *dull*, *cull*, and *mulch*, I'm pretty sure I at least had it merged with /ol/. However, I've looked at the list of words so much and I've thought about this enough that I pretty much know all the words that fall into this category without thinking (at least the on-syllable words) and I apparently want to unmerge them, so now you'll be hard pressed to find me saying *hull* the same as *hole*, even in casual situations. Words like *culture, *result*, *vulnerable*, *multuple*, and *ultimately*, I have no idea what I do.
 
