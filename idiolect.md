@@ -81,7 +81,7 @@ Here are a list of a few non-standard things I have in my idiolect.
 
 ## Other things
 
-* I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>. 
+* I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>, <i>yolk</i>, and <i>folk</n>. 
 
 * I don't pronounce the \<t\> in <i>often</i>. 
 
