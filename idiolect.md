@@ -66,7 +66,7 @@ However, when it's in an open syllable, like *color*, *gullet*, and *sculley*. T
 
 ## Some of my favorite quirks
 
-Here are a list of a few non-standard things I have in my idiolect.
+Here are a list of some of my favorite things I have in my idiolect.
 
 * I epenthesize a [k] in <i>ancient</i>, [ẽɪ̃ŋkʃɨnt]. I think what's going on is I have [ŋ] instead of [n] in the first syllable, possibly analogous to <i>anxious</i>, and the [k] slips in there as I transition from the velar nasal to the post-alveolar fricative.
 
@@ -90,6 +90,8 @@ Here are a list of a few non-standard things I have in my idiolect.
 * <i>lair</i> is homophonous with <i>layer</i> and does not rhyme with <i>hair</i>.
 
 * I think I say <i>violet</i> with two syllables, meaning it's [ˈvɑɪ.lɨt] instead of [ˈvɑɪ.ə.lət]. However, <i>alveolar</i> does have a very short schwa, so it's [æɫˈvi.ə.lɚ], which does not rhyme with <i>velar</i> [ˈvi.lɚ].
+
+* /t/ and /d/ before /ɹ/ (as in <i>try</i>, <i>train</i>, <i>dry</i>, and <i>drain</i>) are affricated to [tʃɹ] and [dʒɹ]. In other words, little kid me would spell them as "chry" and "jrain".
 
 
 ## My kids' speech
