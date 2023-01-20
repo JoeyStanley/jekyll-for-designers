@@ -81,7 +81,7 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 ## Other things
 
-* I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>, <i>yolk</i>, and <i>folk</n>. 
+* I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>, <i>yolk</i>, and <i>folk</n>. I know I used to insert an [ɫ] in <i>both</i> and <i>local</i>, but I don't think I do that anymore. I do do it in <i>only</i> though.
 
 * I don't pronounce the \<t\> in <i>often</i>. 
 
