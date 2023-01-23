@@ -74,12 +74,20 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * <i>want</i> is [wʌnt]. In other words <i>wants</i> is homophonous with <i>once</i>.
 
-* <i>camouflague</i> is 100% "camel-flague". So I have an extra /l/ in there. 
+* I 100% say <i>camouflague</i> as "camel-flague". So I have an extra /l/ in there. 
 
 * The last syllable of <i>kindergarten</i> has a /d/ underlyingly rather than /t/. 
 
 
 ## Other things
+
+### Phonological
+
+* /t/ and /d/ before /ɹ/ (as in <i>try</i>, <i>train</i>, <i>dry</i>, and <i>drain</i>) are affricated to [tʃɹ] and [dʒɹ]. In other words, little kid me would spell them as "chry" and "jrain".
+
+* I raise /æ/ before nasals but not in other environments. 
+
+### Lexical
 
 * I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>, <i>yolk</i>, and <i>folk</n>. I know I used to insert an [ɫ] in <i>both</i> and <i>local</i>, but I don't think I do that anymore. I do do it in <i>only</i> though.
 
@@ -90,8 +98,6 @@ Here are a list of some of my favorite things I have in my idiolect.
 * <i>lair</i> is homophonous with <i>layer</i> and does not rhyme with <i>hair</i>.
 
 * I think I say <i>violet</i> with two syllables, meaning it's [ˈvɑɪ.lɨt] instead of [ˈvɑɪ.ə.lət]. However, <i>alveolar</i> does have a very short schwa, so it's [æɫˈvi.ə.lɚ], which does not rhyme with <i>velar</i> [ˈvi.lɚ].
-
-* /t/ and /d/ before /ɹ/ (as in <i>try</i>, <i>train</i>, <i>dry</i>, and <i>drain</i>) are affricated to [tʃɹ] and [dʒɹ]. In other words, little kid me would spell them as "chry" and "jrain".
 
 
 ## My kids' speech
