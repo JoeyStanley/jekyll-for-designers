@@ -139,9 +139,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 (* indicates student collaborator)
 
-<!-- (Forgot to register. Removed from program Nov 15, 2022)
-**Joseph A. Stanley** & Brett Hashimoto. "Dialect mapping of grammatical features in North American English using a corpus of geotagged Youtube transcriptions." American Association for Applied Linguistics Conference. Portland, OR. March 18--21, 2023.
--->
+Kateryna Kravchenko* & **Joseph A. Stanley**. "Surzhyk: Attitudes and Usage among Ukrainian People." 5th annual Sociolinguistics Symposium. Champaign, Illinois. March 2--3, 2023.
 
 **Joseph A. Stanley** & KaTrina Jackson*. "Is Idaho English really 'the Epitome of Average English'?". The American Dialect Society Annual Meeting. Denver, CO. January 6, 2023. 
 <a href="/downloads//downloads/230106-ADS_Idaho_notes.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
