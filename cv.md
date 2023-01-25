@@ -456,6 +456,8 @@ Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia.
 
 ### Miscellaneous Presentations
 
+"Why I'm glad I learned statistics and coding as a linguistics major." Professor's Story night. Linguistics Student Society. Provo, UT. January 24, 2023.
+
 "What can vowel formant trajectories tell us about language change?" Linguistics Discussion Group. Provo, UT. October 12, 2021.
 
 "Order of Operations in Sociophonetic Data Analysis." Linguistics Discussion Group. Provo, UT. January 26, 2021.
