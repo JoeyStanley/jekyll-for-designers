@@ -78,6 +78,8 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * The last syllable of <i>kindergarten</i> has a /d/ underlyingly rather than /t/. 
 
+* The default way I say <i>grandma</i> is [ɡɹæ̃mə].
+
 
 ## Other things
 
@@ -98,6 +100,8 @@ Here are a list of some of my favorite things I have in my idiolect.
 * <i>lair</i> is homophonous with <i>layer</i> and does not rhyme with <i>hair</i>.
 
 * I think I say <i>violet</i> with two syllables, meaning it's [ˈvɑɪ.lɨt] instead of [ˈvɑɪ.ə.lət]. However, <i>alveolar</i> does have a very short schwa, so it's [æɫˈvi.ə.lɚ], which does not rhyme with <i>velar</i> [ˈvi.lɚ].
+
+* The second syllable of <i>caterpiller</i> doesn't have an /ɹ/ underlyingly: /kætəpɪlɚ/
 
 
 ## My kids' speech
