@@ -62,7 +62,7 @@ Stefano Coretta, Joseph V. Casillas, Simon Roessig, Michael Franke, [126 other a
 <a href="https://asa.scitation.org/doi/pdf/10.1121/10.0016757" class="link" target="_blank" title="link to this paper online"></a>
 <a href="/downloads/221202-Pillai-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-**Joseph A. Stanley** (2022). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard*. [https://doi.org/10.1515/lingvan-2022-0065](https://doi.org/10.1515/lingvan-2022-0065).
+**Joseph A. Stanley** (2022). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard* 8(1). 279--289. [https://doi.org/10.1515/lingvan-2022-0065](https://doi.org/10.1515/lingvan-2022-0065).
 <a href="https://doi.org/10.1515/lingvan-2022-0065" class="link" target="_blank" title="link to this paper online"></a>
 <a href="/downloads/221011-OoOII-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
