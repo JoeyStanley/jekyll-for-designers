@@ -601,6 +601,8 @@ Chad Huckvale (MA, Linguistics, *current*). Thesis title: *Utah English: A Perce
 
 ### MA Thesis Committee Member
 
+Max Jensen (MA, Linguistics, *current*)
+
 Rebecca Brenkman (MA, Linguistics, *current*): *Afrikaans Taboo Words: Offensiveness Ranking and Reflections of Usage*
 
 Ammon Hunt (MA, TESOL, *current*). Thesis title: *Pausing Patterns in American English*
