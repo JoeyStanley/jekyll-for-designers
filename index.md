@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of January 23, 2023, I am…
+As of February 6, 2023, I am…
 
 <!--Teaching-->
 
@@ -43,7 +43,7 @@ As of January 23, 2023, I am…
 
 📝 With some colleagues, making revisions to a manuscript about Georgia English over time.
 
-🗒️ Making plans for what my next publications should be and were I should submit them.
+<!--🗒️ Making plans for what my next publications should be and were I should submit them.-->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
@@ -57,7 +57,7 @@ As of January 23, 2023, I am…
 
 📖 Green (2002): *African American English: A Linguistic Introduction*
 
-📖 Reading Grieser (2022) *The Black Side of the River*. 
+<!--📖 Reading Grieser (2022) *The Black Side of the River*. -->
 
 
 <!--Personal-->
