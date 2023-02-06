@@ -720,7 +720,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 *Language and Linguistic Compass* (2022)
 
-*Language and Speech* (2021)
+*Language and Speech* (2021, 2023)
 
 *Language Variation and Change* (2020, 2022)
 
