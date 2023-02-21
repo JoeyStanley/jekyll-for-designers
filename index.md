@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 6, 2023, I am…
+As of February 21, 2023, I am…
 
 <!--Teaching-->
 
@@ -41,9 +41,9 @@ As of February 6, 2023, I am…
 
 <!--Research-->
 
-📝 With some colleagues, making revisions to a manuscript about Georgia English over time.
+🗒️ Writing a paper with a student on [t]-insertion in /ls/ clusters (like in *health* and *wealth*). 
 
-<!--🗒️ Making plans for what my next publications should be and were I should submit them.-->
+👨🏻‍🏫 Preparing a presentation with a student on [Surzhyk](https://en.wikipedia.org/wiki/Surzhyk) for [SoSy](https://publish.illinois.edu/sociolinguisticssymposium/) at the University of Illinois at Urbana-Champaign. 
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
@@ -55,7 +55,7 @@ As of February 6, 2023, I am…
 
 <!--Reading-->
 
-📖 Green (2002): *African American English: A Linguistic Introduction*
+📖 Reading Green (2002): *African American English: A Linguistic Introduction*.
 
 <!--📖 Reading Grieser (2022) *The Black Side of the River*. -->
 
@@ -64,4 +64,4 @@ As of February 6, 2023, I am…
 
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
-🎹 Working on an arrangement of Jurassic Park for the organ.
+<!--🎹 Working on an arrangement of Jurassic Park for the organ.-->
