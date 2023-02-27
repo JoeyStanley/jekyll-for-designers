@@ -103,6 +103,7 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * The second syllable of <i>caterpiller</i> doesn't have an /ɹ/ underlyingly: /kætəpɪlɚ/
 
+* I don't have the <i>pin-pen</i> merger, but I have /ɪ/ in <i>par<u>e</u>ntheses</i> and /ɛ/ in <i>s<u>y</u>mmetry</i>.
 
 ## My kids' speech
 
