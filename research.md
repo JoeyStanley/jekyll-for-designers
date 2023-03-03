@@ -20,6 +20,9 @@ Another area I focus on in the West is Utah. I worked on a <a href="/downloads/1
 
 <h3>CV Highlights</h3>
 
+**Joseph A. Stanley**. "Utahns sound Utahn when they avoid sounding Utahn." The 97th Annual Meeting of the Linguistic Society of America. Denver, CO. January 6. 2023.
+<a href="/downloads/230106-LSA_mountain.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
 **Joseph A. Stanley** & Lisa Morgan Johnson. "Vowels can merge because of changes in trajectory: Prelaterals in rural Utah English." The 96th Annual Meeting of the Linguistic Society of America. Washington, D.C. January 6--9, 2022.
 <a href="/downloads/220107-ADS-MTurk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -108,13 +111,14 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 I'm increasingly becoming preoccupied with how sociophoneticians process their data.
 
-**Joseph A. Stanley** & Betsy Sneller (2022). "How Sample Size Impacts Pillai Scores – and What Sociophoneticians Should Do About It." New Ways of Analyzing Variation 50. San Jose, CA. October 14.
-<a href="/downloads/221014-NWAV50_pillai.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<!--
-**Joseph A. Stanley** & [Betsy Sneller](https://betsysneller.github.io). "Sample size matters when calculating Pillai scores." Poster presentation at the 181st Meeting of the Acoustical Society of America (ASA). Seattle, WA. November 29, 2021.
-<a href="/downloads/211129-ASA2021_pillai.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
--->
+ **Joseph A. Stanley** & Betsy Sneller. 2023. Sample size matters in calculating Pillai scores. *Journal of the Acoustical Society of America* 153(1). 54--67. https://doi.org/10.1121/10.0016757.
+<a href="https://asa.scitation.org/doi/pdf/10.1121/10.0016757" class="link" target="_blank" title="link to this paper online"></a>
+<a href="/downloads/221202-Pillai-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+
+**Joseph A. Stanley** (2022). "Interpreting the Order of Operations in Sociophonetic Analysis." *Linguistics Vanguard* 8(1). 279--289. [https://doi.org/10.1515/lingvan-2022-0065](https://doi.org/10.1515/lingvan-2022-0065).
+<a href="https://doi.org/10.1515/lingvan-2022-0065" class="link" target="_blank" title="link to this paper online"></a>
+<a href="/downloads/221011-OoOII-preprint.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2022) "Order of Operations in Sociophonetic Analysis," University of Pennsylvania Working Papers in Linguistics: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
 <a href="https://repository.upenn.edu/pwpl/vol28/iss2/17/" class="link" target="_blank" title="link to this paper online"></a>
