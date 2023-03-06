@@ -105,7 +105,7 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * I don't have the <i>pin-pen</i> merger, but I have /ɪ/ in <i>par<u>e</u>ntheses</i> and /ɛ/ in <i>s<u>y</u>mmetry</i>.
 
-* I consistently <i>settler</i> with three syllables ([sɛ.ɾl̩.ɚ]) and not two (*[sɛʔ.lɚ]), even when saying the name of the game <i>Settlers of Catan</i>. 
+* I consistently say <i>settler</i> with three syllables ([sɛ.ɾl̩.ɚ]) and not two (*[sɛʔ.lɚ]), even when saying the name of the game <i>Settlers of Catan</i>. 
 
 ## My kids' speech
 
