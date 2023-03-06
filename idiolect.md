@@ -105,6 +105,8 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * I don't have the <i>pin-pen</i> merger, but I have /ɪ/ in <i>par<u>e</u>ntheses</i> and /ɛ/ in <i>s<u>y</u>mmetry</i>.
 
+* I consistently <i>settler</i> with three syllables ([sɛ.ɾl̩.ɚ]) and not two (*[sɛʔ.lɚ]), even when saying the name of the game <i>Settlers of Catan</i>. 
+
 ## My kids' speech
 
 Since my kids are growing up in an area different from where I grew up, they will likely acquire a different variety of English from my own. Here's a list of things I've heard my 6-year-old say that is different from my own speech.
