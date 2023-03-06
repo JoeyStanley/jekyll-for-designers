@@ -43,7 +43,7 @@ As of February 21, 2023, I am…
 
 🗒️ Writing a paper with a student on [t]-insertion in /ls/ clusters (like in *health* and *wealth*). 
 
-👨🏻‍🏫 Preparing a presentation with a student on [Surzhyk](https://en.wikipedia.org/wiki/Surzhyk) for [SoSy](https://publish.illinois.edu/sociolinguisticssymposium/) at the University of Illinois at Urbana-Champaign. 
+🗒️ Writing a paper with a student on Idaho English. 
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
