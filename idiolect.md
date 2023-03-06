@@ -93,19 +93,23 @@ Here are a list of some of my favorite things I have in my idiolect.
 
 * I pronounce the \<l\> in words like <i>psalm</i>, <i>alm</i>, <i>palm</i>, <i>qualm</i>. I also pronounce it in <i>wolf</i>, <i>yolk</i>, and <i>folk</n>. I know I used to insert an [ɫ] in <i>both</i> and <i>local</i>, but I don't think I do that anymore. I do do it in <i>only</i> though.
 
+* The second syllable of <i>caterpiller</i> doesn't have an /ɹ/ underlyingly: /kætəpɪlɚ/
+
+* <i>lair</i> is homophonous with <i>layer</i> and does not rhyme with <i>hair</i>.
+
 * I don't pronounce the \<t\> in <i>often</i>. 
 
 * Though both my parents grew up north of the <i>on</i> line and therefore have <sc>lot</sc> in <i>on</i>, I don't, so <i>on</i> is firmly <sc>thought</sc>.
 
-* <i>lair</i> is homophonous with <i>layer</i> and does not rhyme with <i>hair</i>.
-
-* I think I say <i>violet</i> with two syllables, meaning it's [ˈvɑɪ.lɨt] instead of [ˈvɑɪ.ə.lət]. However, <i>alveolar</i> does have a very short schwa, so it's [æɫˈvi.ə.lɚ], which does not rhyme with <i>velar</i> [ˈvi.lɚ].
-
-* The second syllable of <i>caterpiller</i> doesn't have an /ɹ/ underlyingly: /kætəpɪlɚ/
-
 * I don't have the <i>pin-pen</i> merger, but I have /ɪ/ in <i>par<u>e</u>ntheses</i> and /ɛ/ in <i>s<u>y</u>mmetry</i>.
 
 * I consistently say <i>settler</i> with three syllables ([sɛ.ɾl̩.ɚ]) and not two (*[sɛʔ.lɚ]), even when saying the name of the game <i>Settlers of Catan</i>. 
+
+* I think I say <i>violet</i> with two syllables, meaning it's [ˈvɑɪ.lɨt] instead of [ˈvɑɪ.ə.lət]. However, <i>alveolar</i> does have a very short schwa, so it's [æɫˈvi.ə.lɚ], which does not rhyme with <i>velar</i> [ˈvi.lɚ].
+
+
+
+
 
 ## My kids' speech
 
