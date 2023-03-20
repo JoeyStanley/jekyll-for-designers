@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 21, 2023, I am…
+As of March 20, 2023, I am…
 
 <!--Teaching-->
 
@@ -41,7 +41,7 @@ As of February 21, 2023, I am…
 
 <!--Research-->
 
-🗒️ Writing a paper with a student on [t]-insertion in /ls/ clusters (like in *health* and *wealth*). 
+🗒️ R&Ring a paper on Georgia English.
 
 🗒️ Writing a paper with a student on Idaho English. 
 
@@ -55,7 +55,9 @@ As of February 21, 2023, I am…
 
 <!--Reading-->
 
-📖 Reading Green (2002): *African American English: A Linguistic Introduction*.
+📖 Reading Rickford (1999): *African American Vernacular English*
+
+<!--📖 Reading Green (2002): *African American English: A Linguistic Introduction*.-->
 
 <!--📖 Reading Grieser (2022) *The Black Side of the River*. -->
 
