@@ -33,15 +33,13 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of March 20, 2023, I am…
+As of April 3, 2023, I am…
 
 <!--Teaching-->
 
 👨🏻‍🏫 Teaching Sociolinguistics Field Methods (with Lisa Johnson) and English Phonetics & Phonology.
 
 <!--Research-->
-
-🗒️ R&Ring a paper on Georgia English.
 
 🗒️ Writing a paper with a student on Idaho English. 
 
@@ -55,7 +53,9 @@ As of March 20, 2023, I am…
 
 <!--Reading-->
 
-📖 Reading Rickford (1999): *African American Vernacular English*
+📖 Reading Bonfiglio (2002): *Race and the Rise of Standard American* (thanks for the recommendation, Katie!)
+
+<!--📖 Reading Rickford (1999): *African American Vernacular English*-->
 
 <!--📖 Reading Green (2002): *African American English: A Linguistic Introduction*.-->
 
