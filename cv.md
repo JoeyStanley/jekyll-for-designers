@@ -603,13 +603,15 @@ Basic Humanities Computing Skills (LINGC 200). Teaching Assistant for Monte Shel
 
 Chad Huckvale (MA, Linguistics, *current*). Thesis title: *Utah English: A Perceptual Dialectology Study*
 
+Kateryna Kravchenko (MA, Linguistics, *current*).
+
 ### MA Thesis Committee Member
 
 Max Jensen (MA, Linguistics, *current*)
 
-Rebecca Brenkman (MA, Linguistics, *current*): *Afrikaans Taboo Words: Offensiveness Ranking and Reflections of Usage*
+Rebecca Brenkman (MA, Linguistics, 2023): *Afrikaans Taboo Words: Offensiveness Ranking and Reflections of Usage*
 
-Ammon Hunt (MA, TESOL, *current*). Thesis title: *Pausing Patterns in American English*
+Ammon Hunt (MA, TESOL, 2023). Thesis title: *Pausing Patterns in American English*
 
 Ying Suet Michelle Lung (MA, TESOL, 2022). Thesis title: *The Impact of Rubric Training on Students' Self-Efficacy and Self-Regulated Learning*
 
@@ -710,7 +712,7 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Manuscript reviewer
 
-*American Speech* (2021, 2022)
+*American Speech* (2021, 2022, 2023)
 
 *Frontiers in Artificial Intelligence*. Handling Editor. (2021)
 
