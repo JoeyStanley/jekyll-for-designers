@@ -449,6 +449,12 @@ Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia.
 
 ### Guest Lectures
 
+"Why I'm glad I learned statistics and coding as a linguistics major." Guest lecturer in LING 198: Career Explorations in Linguistics. Brigham Young University, Provo, UT. April 3, 2023.
+
+"Generalized Additive Mixed Effects Models." Guest lecturer in LING 604: Research Methods. Brigham Young University, Provo, UT. March 28, 2023.
+
+Guest discussant in Advanced Methods in Sociophonetics. Georgetown University, Washington DC (delivered remotely). January 23, 2023.
+
 4-day lecture series on Praat: Introduction to the Software, Analyzing Consonants, Analyzing Vowels, and Audio Manipulation & Visualization. LING 240: Linguistics Tools. Brigham Young University, Provo, UT. October 16--23, 2020.
 
 "Modeling non-linear changes in time using generalized additive models." LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
