@@ -466,6 +466,8 @@ Guest discussant in Advanced Methods in Sociophonetics. Georgetown University, W
 
 ### Miscellaneous Presentations
 
+"The Boomer--Gen X Transition and its effect on American English." Linguistics Discussion Group. Provo, UT. April 11, 2023. 
+
 "Why I'm glad I learned statistics and coding as a linguistics major." Professor's Story night. Linguistics Student Society. Provo, UT. January 24, 2023.
 
 "What can vowel formant trajectories tell us about language change?" Linguistics Discussion Group. Provo, UT. October 12, 2021.
