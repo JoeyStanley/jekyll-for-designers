@@ -37,11 +37,13 @@ As of April 3, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Teaching Sociolinguistics Field Methods (with Lisa Johnson) and English Phonetics & Phonology.
+👨🏻‍🏫 Finishing up my semester of teaching Sociolinguistics Field Methods (with Lisa Johnson) and English Phonetics & Phonology.
+
+👨🏻‍🏫 Preparing to teach African American English in May--June. 
 
 <!--Research-->
 
-🗒️ Writing a paper with a student on Idaho English. 
+<!--🗒️ Writing a paper with a student on Idaho English. -->
 
 <!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
 
@@ -67,3 +69,5 @@ As of April 3, 2023, I am…
 <!--🌵 Celebrating the 1-year anniversary of acquiring my (now too many) succulents.-->
 
 <!--🎹 Working on an arrangement of Jurassic Park for the organ.-->
+
+🏞️ Enjoying the beautiful weather we've having right now before it gets too hot.
