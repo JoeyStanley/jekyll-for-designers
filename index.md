@@ -33,13 +33,11 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of April 19, 2023, I am…
+As of May 1, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Finishing up my semester of teaching Sociolinguistics Field Methods (with Lisa Johnson) and English Phonetics & Phonology.
-
-👨🏻‍🏫 Preparing to teach African American English in May--June. 
+👨🏻‍🏫 Getting read to teach African American English in May--June. 
 
 <!--Research-->
 
