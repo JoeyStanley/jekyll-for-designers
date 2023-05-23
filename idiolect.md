@@ -23,7 +23,7 @@ As far as I can tell, I don't have really any indication of any of the chain shi
 
 My <sc>lot</sc> and <sc>thought</sc> vowels are rather close phonetically but are definitely not merged. <sc>Lot</sc> is slightly fronter and unrounded while <sc>thought</sc> is slightly backer and rounded. They are very close to what Jonathan Dowse transcribes as \[ɐ̞\] and \[ɒ̈\] [here](https://jbdowse.com/ipa/). 
 
-You can read a fairly comprehensive list of words that I classify as <sc>lot</sc> and <sc>thought</sc> in Appendix C (pg. 209) of my [dissertation](/downloads/200417-dissertation-revised.pdf). On page 161, I explain that I have a clear intuition about which words are classified into which lexical set, though admittedly a few like *probably*, *prom*, *mom*, *bronco*, and *pond* could go either way. 
+You can read a fairly comprehensive list of words that I classify as <sc>lot</sc> and <sc>thought</sc> in Appendix C (pg. 209) of my [dissertation](/downloads/200417-dissertation-revised.pdf), reproduced in a blog post [here](/blog/my-cot-caught-distribution). On page 161, I explain that I have a clear intuition about which words are classified into which lexical set, though admittedly a few like *probably*, *prom*, *mom*, *bronco*, and *pond* could go either way. 
 
 Like a lot of Americans even with the distinction, *dog* is <sc>thought</sc>, as are many other pre-/ɡ/ words. However, there are a few exceptions, like *cog*, which has an especially fronted vowel quality. Also, the name Og, as in the author Og Mandino, which is short for *Augustine*, bothers me because *Og* is clearly <sc>lot</sc> while *Augustine* is <sc>thought</sc>.
 
