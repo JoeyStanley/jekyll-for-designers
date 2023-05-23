@@ -7,7 +7,7 @@ tags: [Dissertation, Lexical Sets, Personal]
 
 In appendix C of my [dissertation](/pages/dissertation), I listed 838 words that contain low vowels, classified as /ɑ/ or /ɔ/ according to my idiolect. I think it may be a useful resource for those who have the *cot-caught* merger, so I thought I'd pull it out and make it more available. 
 
-The words that are included here are all those that came up in the course of the 54 sociolinguistic interviews I did in Washington State as part of my dissertation work. This means that there are some quirky ones included, like nonce words (*electronical*), and certain common words may be missing.
+The words that are included here are all those that came up in the course of the 54 sociolinguistic interviews I did in Washington State as part of my dissertation work. This means that there are some quirky ones included, like nonce words (*electronical*). By nature of the naturalistic data, certain common words may be missing.
 
 Please note that, again, this reflects *my* idiolect, and may not be reflective of others' speech, other varieties of English, or historical distributions. For more information about the phonetic realization my two vowels and some phonological peculiarities, please see my description of my [idiolect](/idiolect). 
 
