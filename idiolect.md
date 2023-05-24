@@ -19,17 +19,19 @@ Here is a general look at my monophthongs. These come from a recording of me rea
 
 As far as I can tell, I don't have really any indication of any of the chain shifts that people are studying. Even though I grew up in the St. Louis Corridor, I don't have the Northern Cities Shift. I also don't have the Low-Back-Merger or the Low-Back-Merger Shift. 
 
-### My lack of a *cot*-*caught* merger
+### My low back vowels
 
 My <sc>lot</sc> and <sc>thought</sc> vowels are rather close phonetically but are definitely not merged. <sc>Lot</sc> is slightly fronter and unrounded while <sc>thought</sc> is slightly backer and rounded. They are very close to what Jonathan Dowse transcribes as \[ɐ̞\] and \[ɒ̈\] [here](https://jbdowse.com/ipa/). 
 
 You can read a fairly comprehensive list of words that I classify as <sc>lot</sc> and <sc>thought</sc> in Appendix C (pg. 209) of my [dissertation](/downloads/200417-dissertation-revised.pdf), reproduced in a blog post [here](/blog/my-cot-caught-distribution). On page 161, I explain that I have a clear intuition about which words are classified into which lexical set, though admittedly a few like *probably*, *prom*, *mom*, *bronco*, and *pond* could go either way. 
 
-Like a lot of Americans even with the distinction, *dog* is <sc>thought</sc>, as are many other pre-/ɡ/ words. However, there are a few exceptions, like *cog*, which has an especially fronted vowel quality. Also, the name Og, as in the author Og Mandino, which is short for *Augustine*, bothers me because *Og* is clearly <sc>lot</sc> while *Augustine* is <sc>thought</sc>.
+Like a lot of Americans even with the distinction, *dog* is <sc>thought</sc>, as are many other pre-/ɡ/ words. However, there are a few exceptions, like *cog*, which has an especially fronted vowel quality. Also, the name *Og*, as in the author Og Mandino, which is short for *Augustine*, bothers me because *Og* is clearly <sc>lot</sc> while *Augustine* is <sc>thought</sc>.
 
 Prelaterally, I have a conditioned merger, which is best described in [Aaron Dinkin's (2016) JEngL paper](https://doi.org/10.1177/0075424216634795). (Aaron's paper is based in Upstate New York, close to where my dad is from, so perhaps this is something I've gotten from him.) I have <sc>lot</sc> if the vowel is in an open syllable (and the following lateral is the onset of the following syllable), as in *collar*, *dollar*, *anthropology*, *ollie*, and *trolley*. In fact, I have a rather fronted vowel, fronter than my <sc>lot</sc> normally is. However, I have <sc>thought</sc> if the lateral is tautosyllabic, as in *golf*, *dolphin*, *volume*, and *doll*. Thus, words like *doll* & *hall* rhyme, while *hollar* & *hauler* and *collar* & *caller* do not. You can hear me pronounce these words in the video in [this tweet](https://twitter.com/joey_stan/status/1440022805039353856?s=20&t=RLBVBLgh7rnp0TMTUqnObg).
 
 As is typical of American English, the <sc>cloth</sc> lexical set is indistinguishable from my <sc>thought</sc>. Similarly, the <sc>palm</sc> set (and any "Foreign *a* words; Boberg 2020) mostly fits in with my <sc>lot</sc>. Except, ironically, *palm* itself (as well as *psalm*, *qualm*, and *alms*), because of that /l/, which makes it part of <sc>thought</sc>.
+
+One important phonological distinction between my <sc>lot</sc> and <sc>thought</sc> is that, even though Hayes (2009:82) says tenseness is not specified for low vowels, <sc>lot</sc> appears to be a lax vowel. Like other lax vowels, it doesn't appear word-finally, except in marginal cases like *ma* and *pa* and in onomatopoeia (*fa-la-la-la-la*, *haha*, *blah*) and interjections (*aha!*, *hurrah!*). This means that some <sc>palm</sc> words like *bra* are reclassifed as <sc>thought</sc>. There are some exceptions though, like *spa* and *schwa*. So yes, for me, *spa* /spɑ/ and *bra* /bɹɔ/ don't rhyme. 
 
 ### /æ/ and /ɛ/ before nasals
 
