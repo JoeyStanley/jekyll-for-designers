@@ -37,7 +37,7 @@ As of May 19, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Teaching African American English in May--June. 
+👨🏻‍🏫 Teaching a course on African American English. 
 
 <!--Research-->
 
@@ -55,7 +55,7 @@ As of May 19, 2023, I am…
 
 <!--Reading-->
 
-<!--📖 Reading Grieser (2022) *The Black Side of the River*. -->
+📖 Reading Twenge (2023) *Generations: The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents―and What They Mean for America's Future*
 
 
 <!--Personal-->
