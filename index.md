@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of May 19, 2023, I am…
+As of June 12, 2023, I am…
 
 <!--Teaching-->
 
@@ -41,7 +41,7 @@ As of May 19, 2023, I am…
 
 <!--Research-->
 
-📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).
+<!--📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).-->
 
 <!--🗒️ Writing a paper with a student on Idaho English. -->
 
