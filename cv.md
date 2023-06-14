@@ -94,6 +94,9 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 ### Book Chapters 
 
+Dominic Watt, Margaret E. L. Renwick, & **Joseph A. Stanley** (forthcoming). "Regional dialects." In Christopher Strelluf (ed.) *The Routledge Handbook of Sociophonetics*. 
+<a href="https://www.routledge.com/The-Routledge-Handbook-of-Sociophonetics/Strelluf/p/book/9780367472795" class="link" target="_blank" title="link to this book online"></a>
+
 **Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
 <a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
 <!-- Published online around December 4, 2020-->
@@ -101,7 +104,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 ### Other Publications
 
-**Joseph A. Stanley** (2022) "Order of Operations in Sociophonetic Analysis," *University of Pennsylvania Working Papers in Linguistics*: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
+**Joseph A. Stanley** (2022). "Order of Operations in Sociophonetic Analysis," *University of Pennsylvania Working Papers in Linguistics*: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
 <a href="https://repository.upenn.edu/pwpl/vol28/iss2/17/" class="link" target="_blank" title="link to this paper online"></a>
 
 **Joseph A. Stanley** (2022). "Perceptual Dialectology of Utah." *Schwa: Language and Linguistics*: 26. 1--10.
