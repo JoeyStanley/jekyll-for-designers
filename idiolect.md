@@ -29,9 +29,9 @@ Like a lot of Americans even with the distinction, *dog* is <sc>thought</sc>, as
 
 Prelaterally, I have a conditioned merger, which is best described in [Aaron Dinkin's (2016) JEngL paper](https://doi.org/10.1177/0075424216634795). (Aaron's paper is based in Upstate New York, close to where my dad is from, so perhaps this is something I've gotten from him.) I have <sc>lot</sc> if the vowel is in an open syllable (and the following lateral is the onset of the following syllable), as in *collar*, *dollar*, *anthropology*, *ollie*, and *trolley*. In fact, I have a rather fronted vowel, fronter than my <sc>lot</sc> normally is. However, I have <sc>thought</sc> if the lateral is tautosyllabic, as in *golf*, *dolphin*, *volume*, and *doll*. Thus, words like *doll* & *hall* rhyme, while *hollar* & *hauler* and *collar* & *caller* do not. You can hear me pronounce these words in the video in [this tweet](https://twitter.com/joey_stan/status/1440022805039353856?s=20&t=RLBVBLgh7rnp0TMTUqnObg).
 
-As is typical of American English, the <sc>cloth</sc> lexical set is indistinguishable from my <sc>thought</sc>. Similarly, the <sc>palm</sc> set (and any "Foreign *a* words; Boberg 2009) mostly fits in with my <sc>lot</sc>. Except, ironically, *palm* itself (as well as *psalm*, *qualm*, and *alms*), because of that /l/, which makes it part of <sc>thought</sc>.
+As is typical of American English, the <sc>cloth</sc> lexical set is indistinguishable from my <sc>thought</sc>. Similarly, the <sc>palm</sc> set (and any "Foreign *a*" words; [Boberg 2009](https://doi.org/10.1017/S0954394509990172)) mostly fits in with my <sc>lot</sc>. Except, ironically, *palm* itself (as well as *psalm*, *qualm*, and *alms*), because of that /l/, which makes it part of <sc>thought</sc>.
 
-One important phonological distinction between my <sc>lot</sc> and <sc>thought</sc> is that, even though Hayes (2009:82) says tenseness is not specified for low vowels, <sc>lot</sc> appears to be a lax vowel. Like other lax vowels, it doesn't appear word-finally, except in marginal cases like *ma* and *pa* and in onomatopoeia (*fa-la-la-la-la*, *haha*, *blah*) and interjections (*aha!*, *hurrah!*). This means that some <sc>palm</sc> words like *bra* are reclassifed as <sc>thought</sc>. There are some exceptions though, like *spa* and *schwa*. So yes, for me, *spa* /spɑ/ and *bra* /bɹɔ/ don't rhyme. 
+One important phonological distinction between my <sc>lot</sc> and <sc>thought</sc> is that, even though [Hayes (2009:82)](https://www.wiley.com/en-us/Introductory+Phonology-p-9781405184113) says tenseness is not specified for low vowels, <sc>lot</sc> appears to be a lax vowel. Like other lax vowels, it doesn't appear word-finally, except in marginal cases like *ma* and *pa* and in onomatopoeia (*fa-la-la-la-la*, *haha*, *blah*) and interjections (*aha!*, *hurrah!*). This means that some <sc>palm</sc> words like *bra* are reclassifed as <sc>thought</sc>. There are some exceptions though, like *spa* and *schwa*. So yes, for me, *spa* /spɑ/ and *bra* /bɹɔ/ don't rhyme. 
 
 ### /æ/ and /ɛ/ before nasals
 
@@ -122,18 +122,4 @@ Since my kids are growing up in an area different from where I grew up, they wil
 * <i>kindergarten</i> has a clear [t], i.e [kʰɨndɚɡɑɹtʰɨn] while I definitely have an underlying /d/ there. 
 
 * Occasional use of [ʔɨn] in words like <i>Martin</i>
-
-
-
-
-
-## References
-
-Boberg, Charles. 2009. The emergence of a new phoneme: Foreign (a) in Canadian English. *Language Variation and Change* 21(3). 355–380. https://doi.org/10.1017/S0954394509990172.
-
-Dinkin, Aaron J. 2016. Phonological Transfer as a Forerunner of Merger in Upstate New York. *Journal of English Linguistics* 44(2). 162–188. https://doi.org/10.1177/0075424216634795.
-
-Hayes, Bruce. 2009. *Introductory Phonology*. John Wiley & Sons.
-
-Stanley, Joseph A. 2022. Regional Patterns in Prevelar Raising. *American Speech* 97(3). 374–411. https://doi.org/10.1215/00031283-9308384.
 
