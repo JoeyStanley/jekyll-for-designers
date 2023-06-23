@@ -5,7 +5,7 @@ date: 2023-05-27 15:00:00 -0600
 tags: [Personal]
 ---
 
-There's a trend on linguistics Twitter right now, where people are sharing the ages that they started studying/learning whatever languages they know. As I thought about the ones I know, I realized that there's a story behind each one, and like many linguists, I have a list of languages and a few-word summary of their fluency at the bottom of my CV. But the stories are much more than I'd like to explain on my CV or in a tweet. So, here are some of those stories behind the languages I've studied.
+There's a trend on linguistics Twitter right now where people are sharing the ages that they started studying/learning whatever languages they know. As I thought about the ones I know, I realized that there's a story behind each one, and like many linguists, I have a list of languages and a few-word summary of their fluency at the bottom of my CV. But the stories are much more than I'd like to explain on my CV or in a tweet. So, here are some of those stories behind the languages I've studied.
 
 ## English
 
