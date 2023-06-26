@@ -33,21 +33,19 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of June 12, 2023, I am…
+As of June 26, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Teaching a course on African American English. 
+👨🏻‍🏫 Just finished teaching a course on African American English. It was perhaps the most challenging course I've taught but the most rewarding. Very cool. 
 
 <!--Research-->
 
-<!--📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).-->
+📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).
 
 <!--🗒️ Writing a paper with a student on Idaho English. -->
 
-<!--🧑‍💻 Managing several RAs to help transcribe a bunch of audio I collected as a grad student.-->
-
-<!--🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West. -->
+🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West.
 
 
 
@@ -62,4 +60,4 @@ As of June 12, 2023, I am…
 
 <!--🎹 Working on an arrangement of Jurassic Park for the organ.-->
 
-🏞️ Enjoying the beautiful weather we've having right now before it gets too hot.
+👶🏻 Counting down the days until we welcome a new baby into our family!
