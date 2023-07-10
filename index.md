@@ -33,19 +33,19 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of June 26, 2023, I am…
+As of July 10, 2023, I am…
 
 <!--Teaching-->
 
-👨🏻‍🏫 Just finished teaching a course on African American English. It was perhaps the most challenging course I've taught but the most rewarding. Very cool. 
+<!--👨🏻‍🏫 Just finished teaching a course on African American English. It was perhaps the most challenging course I've taught but the most rewarding. Very cool. -->
 
 <!--Research-->
 
-📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).
+<!--📖 Excitedly reading through the brand new submissions to a volume I'm co-editing (with Peggy Renwick & Monica Nesbitt).-->
 
 <!--🗒️ Writing a paper with a student on Idaho English. -->
 
-🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West.
+<!--🎤 Transcribing and coming up with preliminary results for a project on English in the Intermountain West.-->
 
 
 
@@ -53,11 +53,11 @@ As of June 26, 2023, I am…
 
 <!--Reading-->
 
-📖 Reading Twenge (2023) *Generations: The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents―and What They Mean for America's Future*
+<!--📖 Reading Twenge (2023) *Generations: The Real Differences Between Gen Z, Millennials, Gen X, Boomers, and Silents―and What They Mean for America's Future*-->
 
 
 <!--Personal-->
 
 <!--🎹 Working on an arrangement of Jurassic Park for the organ.-->
 
-👶🏻 Counting down the days until we welcome a new baby into our family!
+👶🏻 Doing nothing but taking care of a newborn.
