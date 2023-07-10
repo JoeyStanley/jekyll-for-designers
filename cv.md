@@ -425,7 +425,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-<!-->Macquarie University Centre for Language Sciences (CLaS) Colloquium series. August 2023.<-->
+<!--Macquarie University Centre for Language Sciences (CLaS) Colloquium series. August 2023.-->
 
 "Modeling Change in American English Accents." BYU Statistics Department Seminar. Brigham Young University, Provo, Utah. September 8, 2022.
 
