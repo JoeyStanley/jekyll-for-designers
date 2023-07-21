@@ -106,7 +106,7 @@ Dominic Watt, Margaret E. L. Renwick, & **Joseph A. Stanley** (forthcoming). "Re
 
 (* indicates student collaborator)
 
-Johnson, Heather J.\*, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough (2023). "Ducks in the Pond: Elementary-School-Age Children’s Perceptions of Standard American English, African American English, and Spanish-Accented English on Scales of Status and Solidarity." In Paris Gappmayr & Jackson Kellogg (eds.), *Proceedings of the 47th annual Boston University Conference on Language Development*, 394–407. Smoerville, MA: Cascadilla Press.
+Johnson, Heather J.\*, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough (2023). "Ducks in the Pond: Elementary-School-Age Children's Perceptions of Standard American English, African American English, and Spanish-Accented English on Scales of Status and Solidarity." In Paris Gappmayr & Jackson Kellogg (eds.), *Proceedings of the 47th annual Boston University Conference on Language Development*, 394--407. Smoerville, MA: Cascadilla Press.
 
 **Joseph A. Stanley** (2022). "Order of Operations in Sociophonetic Analysis," *University of Pennsylvania Working Papers in Linguistics*: Vol. 28: Iss. 2, Article 17. Available at: https://repository.upenn.edu/pwpl/vol28/iss2/17
 <a href="https://repository.upenn.edu/pwpl/vol28/iss2/17/" class="link" target="_blank" title="link to this paper online"></a>
