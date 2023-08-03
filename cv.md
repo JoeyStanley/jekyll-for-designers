@@ -271,6 +271,8 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 (* indicates student collaborator)
 
+Ammon Hunt\*, Mark Tanner, **Joseph A. Stanley**, and Jeff Parker. "Using Corpus Data to Empirically Investigate Native English Speakers' Pausing Patterns." PSLLT2023 (Pronunciation in Second Language Learning and Teaching). West Lafayette, IN. September 6--8, 2023.
+
 Margaret E. L. Renwick, Jon Forrest, Lelia Glass, & **Joseph A. Stanley**. "Vowel trajectories of African Americans in Georgia, USA." Poster presentation at the 183rd Meeting of the Acoustical Society of America (ASA). Nashville, TN. December 9, 2022. 
 
 **Joseph A. Stanley**, Jessica Shepherd\*, & Auna Nygaard\*. "Homogeneity and Heterogeneity in Western American English." Poster presentation at the American Dialect Society Annual Meeting. Washington, D.C. January 7, 2022.
