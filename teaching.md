@@ -5,9 +5,9 @@ title: Teaching
 
 # Teaching
 
-I am currently teaching…
+I am currently teaching… 
 
-* LING/ELING 421R/495R: African American English
+* Nothing! I'm on parental leave!
 
 <br/>
 
@@ -17,6 +17,7 @@ Previously, I've taught…
 * ELING 468: Varieties of English (×4)
 * LING 240: Linguistic Tools 1 (×2)
 * LING 452: Introduction to Sociolinguistics (×2)
+* LING 495R: African American English
 * LING 550: Sociolinguistics (×3)
 * LING 580R: Linguistic Data Analysis (with Earl Brown)
 * LING 580R: Sociolinguistic Fieldwork (with Lisa Johnson)
@@ -50,6 +51,14 @@ I taught this undergraduate version of sociolinguistics in Winter 2021. You can 
 ### [Sociolinguistics](https://catalog.byu.edu/humanities/linguistics/sociolinguistics)
 
 I taught this course in Winter 2021, Fall 2021, and Fall 2022. This is the graduate-level version of the Introduction to Sociolinguistics course above (so it's still introductory course) and is similar to the undergraduate version except we take one day a week to read and discuss articles. [Here](/downloads/220103-L550_syllabus.pdf) is my most recent syllabus.
+
+### [African American English](https://catalog.byu.edu/courses/12295-001)
+
+I taught this course Spring of 2023 under the auspices of the senior capstone course, as well as as a linguistics elective, in the linguistics department. (So, technically it was cross-listed as LING 495R: Senior Capstone, ELING 495R: The Senior Course, LING 421R: Studies in Linguistics, and ELING 421R: Studies in Language or Editing). 
+
+The capstone courses in my deaprtment are designed to be open-ended and end up being special topics courses that cover a wide range of subfields in linguistics. Most of the faculty who had been teaching these capstone courses though had recently retired, so we have been in dire need for new courses to put into the rotation. I had wanted to teaching something about language ideology/discrimination/attitudes but I was asked to do something to do with American English; we settled on African American English, which I think was a nice compromise. 
+
+So, with the help and input from many friends and colleagues, I designed and prepped the course from scratch, using Lisa Green's *[African American English](https://doi.org/10.1017/CBO9780511800306)* as my main textbook. I went into the course knowing some things here and there about AAE from just being exposed to the literature on it in sociolinguistics, and it turned out to be a very challenging but richly rewarding course for me. [Here](/downloads/230503-L495R_AAE_syllabus.pdf) is the syllabus.
 
 ### [Sociolinguistic Fieldwork](https://catalog23byu.coursedog.com/courses/01990-003)
 
