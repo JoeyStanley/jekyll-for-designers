@@ -156,6 +156,12 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 (* indicates student collaborator)
 
+Zoe Eldredge* & **Joseph A. Stanley**. "Exploring the Effects of Cross-Cultural Variation and Tourism in Utah English." New Ways of Analyzing Variation 51. New York City. October 13--15, 2023.
+
+Kateryna Kravchenko* & **Joseph A. Stanley**. "An analysis of Ukrainians' language attitudes and ideology: A conflict-catalyzed identity shift."  New Ways of Analyzing Variation 51. New York City. October 13--15, 2023.
+
+Chad Huckvale* & **Joseph A. Stanley**. "Perceptions of 'Southern' Utah English". New Ways of Analyzing Variation 51. New York City. October 13--15, 2023.
+
 Kateryna Kravchenko* & **Joseph A. Stanley**. "Surzhyk: Attitudes and Usage among Ukrainian People." 5th annual Sociolinguistics Symposium. Champaign, Illinois. March 2--3, 2023.
 <a href="/downloads/230302-SoSy_Surzhyk.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
