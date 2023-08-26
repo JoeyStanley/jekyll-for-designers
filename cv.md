@@ -633,9 +633,9 @@ Basic Humanities Computing Skills (LINGC 200). Teaching Assistant for Monte Shel
 
 ### MA Thesis Chair
 
-Chad Huckvale (MA, Linguistics, *current*). Thesis title: *Utah English: A Perceptual Dialectology Study*
-
 Kateryna Kravchenko (MA, Linguistics, *current*).
+
+Chad Huckvale (MA, Linguistics, 2023). Thesis title: *Utah English: A Perceptual Dialectology Study*
 
 ### MA Thesis Committee Member
 
@@ -651,12 +651,13 @@ Heather Johnson (MA, Linguistics, 2022). Thesis title: *Ducks in the pond: Eleme
 
 ### Undergraduate Honors Thesis Chair
 
-Joshua Stevenson (BA, Linguistics, current). Thesis title: *The "Missionary Voice": Bona Fide Sociolect or Figment of the Mormon Linguistic Imagination?*
+Joshua Stevenson (BA, Linguistics, 2023). Thesis title: *The "Missionary Voice": Bona Fide Sociolect or Figment of the Mormon Linguistic Imagination?*
 
 ### Other Positions
 
-<!--2018-->
-Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: *Conditioned Front Vowel Mergers in the American South* (Graduate Thesis Reader)
+Mentor for Sarah Beecroft, 2022 Recipient of a Jack & Mary Lois Wheatley Endowed Leadership Scholarship. Project Title: *Foreign Language Return Missionaries and Accent Opinions*. 2023.
+
+Graduate Thesis Reader for Shawn C. Foster, UGA Center for Undergraduate Research Opportunities Assistantship. Thesis title: *Conditioned Front Vowel Mergers in the American South*. 2018.
 
 
 <br/>
