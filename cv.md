@@ -440,7 +440,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Other Presentations
 
-### Invited Presentations
+### Invited Presentations 
 
 "Enriching our understanding of language change with vowel formant trajectories." Macquarie University Centre for Language Sciences (CLaS) Colloquium series. Sydney, Australia (delivered remotely). August 31, 2023.
 
@@ -561,6 +561,9 @@ joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/Joe
 
 
 ### Media
+
+Katie Cowart. ``Classic Georgia accent fading fast.'' *UGA Today*. September 7, 2023. Based on [Renwick et al. (2023)](https://doi.org/10.1017/S095439452300011X).
+<a href="https://news.uga.edu/classic-georgia-accent-fading-fast/" class="link" title="link to this report"></a> 
 
 Justin Higginbottom. *KZMU*, based in Moab, Utah. June 28, 2022. A 3.5-minute radio clip about my research on Utah English and "Mormonese."
 <a href="https://www.kzmu.org/tuesday-june-28-2022/" class="link" title="link to this report"></a> 
