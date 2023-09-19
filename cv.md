@@ -53,7 +53,7 @@ Instructional Designer, Brigham Young University. March--May, 2020.
 
 ### Refereed Articles
 
-Margaret E. L. Renwick, **Joseph A. Stanley**, Jon Forrest, & Lelia Glass (in press). "Boomer Peak or Gen X Cliff? from SVS to LBMS in Georgia English." *Language Variation and Change*. https://doi.org/10.1017/S095439452300011X.
+Margaret E. L. Renwick, **Joseph A. Stanley**, Jon Forrest, & Lelia Glass (2023). "Boomer Peak or Gen X Cliff? from SVS to LBMS in Georgia English." *Language Variation and Change*. https://doi.org/10.1017/S095439452300011X.
 <a href="https://doi.org/10.1017/S095439452300011X" class="link" target="_blank" title="link to this paper online"></a>
 <a href="/downloads/230724-LVC_Georgia.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
