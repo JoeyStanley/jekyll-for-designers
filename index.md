@@ -5,6 +5,9 @@ layout: aside
 About me
 ========
 
+***PLEASE NOTE** that as of December 2, 2023, this is no longer my active website. This site was formally joeystanley.com but it has been moved to old.joeystanley.com. If you are looking for my new website, please visit joeystanley.com, which has been rebuilt using Quarto.*
+
+
 I’m an Assistant Professor in [Department of Linguistics](https://linguistics.byu.edu) at [Brigham Young University](https://www.byu.edu) specializing in sociophonetics,  dialectology, and quantitative methods. In May 2020, I received my Ph.D in linguistics from the [Department of Linguistics](https://linguistics.uga.edu) at the [University of Georgia](https://www.uga.edu). 
 
 My primary area of research is on English in the western United States. My [dissertation](/blog/dissertation) focused on English in Cowlitz County, Washington with an emphasis on uncovering variation in vowel formant trajectories. I am currently involved in several research projects on Utah English (on vowels, consonants, and intonation), including a long-term project analyzing a [collection of 750 interviews](/blog/kohler-tapes) with residents of Heber City, Utah born in the early 20th Century.
