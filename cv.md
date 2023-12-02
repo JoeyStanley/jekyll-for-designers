@@ -156,6 +156,8 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 (* indicates student collaborator)
 
+Heather Johnson*, Wendy Baker-Smemoe, **Joseph A. Stanley**, & Alessandro Rosborough. "Children's Perceptions of Ethnic Varieties of English." Florida Psycholinguistics Meeting. Gainesville, Florida. October 21, 2023.
+
 Zoe Eldredge* & **Joseph A. Stanley**. "Exploring the Effects of Cross-Cultural Variation and Tourism in Utah English." New Ways of Analyzing Variation 51. New York City. October 13--15, 2023.
 
 Kateryna Kravchenko* & **Joseph A. Stanley**. "An analysis of Ukrainians' language attitudes and ideology: A conflict-catalyzed identity shift."  New Ways of Analyzing Variation 51. New York City. October 13--15, 2023.
@@ -774,6 +776,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 
 ### Abstract Reviewer
+
+Language Variation in the South V (2023)
 
 New Ways of Analyzing Variation 50 (2022)
 
